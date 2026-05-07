@@ -8,8 +8,8 @@
 
 
 trsp:profile.trsp:profile.046B279494 a trsp:Profile ;
-    dct:title Coscine @en ;
-    dct:description Coscine landing page @en ;
+    dct:title "Coscine" @en ;
+    dct:description "Coscine landing page" @en ;
     dct:identifier https://about.coscine.de/  ;
     dcat:endpointURL https://about.coscine.de/  ;
-    trsp:hasProfileType trsp:profile-type-repository  .
+    trsp:hasProfileType "trsp:profile-type-repository"  .
