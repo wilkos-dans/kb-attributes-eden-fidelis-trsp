@@ -5,7 +5,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix trsp: <https://github.com/wimhugo/kb-attributes-eden-fidelis-trsp/> .
 
-trsp:pid-resolution-type-scheme
+trsp:checklistPIDResolution
   a skos:ConceptScheme ;
   skos:prefLabel "PID Resolution Support"@en ;
   dct:title "PID Resolution Support"@en ;
@@ -13,7 +13,17 @@ trsp:pid-resolution-type-scheme
   dct:modified "2026-05-07"^^xsd:date ;
   owl:versionInfo "0.1" .
 
-trsp:landingPageMetadataObject
+trsp:resolvesLandingPage
   a skos:Concept ;
-  skos:prefLabel "Landing Page, Metadata, Object"@en ;
-  skos:inScheme trsp:pid-resolution-type-scheme .
+  skos:prefLabel "Landing Page"@en ;
+  skos:inScheme trsp:checklistPIDResolution .
+
+trsp:resolvesMetadata
+  a skos:Concept ;
+  skos:prefLabel "Metadata"@en ;
+  skos:inScheme trsp:checklistPIDResolution .
+
+trsp:resolvesObject
+  a skos:Concept ;
+  skos:prefLabel "Object"@en ;
+  skos:inScheme trsp:checklistPIDResolution .
