@@ -7,9 +7,9 @@
 @prefix dcat:   <http://www.w3.org/ns/dcat#> .
 
 
-trsp:profile.TEMPLATE a trsp:Profile ;
-    dct:title ""@en ;
-    dct:description ""@en ;
-    dct:identifier "" ;
-    dcat:endpointURL "" ;
-    trsp:hasProfileType "" .
+trsp:profile.{{}} a trsp:Profile ;
+    dct:title {{}} @en ;
+    dct:description {{}} @en ;
+    dct:identifier {{}}  ;
+    dcat:endpointURL {{}}  ;
+    trsp:hasProfileType {{}}  .
