@@ -1,0 +1,15 @@
+@prefix trsp:   <https://example.org/trsp/> .
+@prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct:    <http://purl.org/dc/terms/> .
+@prefix skos:   <http://www.w3.org/2004/02/skos/core#> .
+@prefix schema: <https://schema.org/> .
+@prefix dcat:   <http://www.w3.org/ns/dcat#> .
+
+
+trsp:profile. a trsp:Profile ;
+    dct:title "DAIS" @en ;
+    dct:description "DAIS - Digital Archive of the Serbian Academy of Sciences and Arts is a joint digital repository of the Serbian Academy of Sciences and Arts (SASA) and the research institutes under the auspices of SASA. The aim of the repository is to provide open access to publications and other research outputs resulting from the projects implemented by the SASA and its institutes. The repository uses a DSpace-based software platform developed and maintained by the Belgrade University Computer Centre (RCUB)." @en ;
+    dct:identifier https://dais.sanu.ac.rs/?locale-attribute=en  ;
+    dcat:endpointURL https://dais.sanu.ac.rs/  ;
+    trsp:hasProfileType "trsp:profile-type-repository"  .
