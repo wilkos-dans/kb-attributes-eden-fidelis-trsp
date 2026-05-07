@@ -33,7 +33,7 @@ trsp:Profile a rdfs:Class ;
 trsp:Repository a rdfs:Class ; 
     rdfs:subClassOf trsp:Profile ; 
     rdfs:label "Repository"@en ;
-    skos:narrower dcat:Catalogm;
+    skos:narrower dcat:Catalog;
     skos:broader trsp:Profile ;
     skos:related dcat:DataService ;
     rdfs:comment "A Repository is broadly defined as an archive, repository, or other collection of digital resources, and its supporting services and functionalities." .
