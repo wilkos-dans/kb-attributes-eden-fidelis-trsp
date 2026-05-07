@@ -93,7 +93,7 @@ trsp:att01d16efb9b
 trsp:att04dc5770c9
   a skos:Concept ;
   skos:prefLabel "Documentation on Community Engagement"@en ;
-  skos:description "(TBD)"@en ;
+  skos:description "Addressing aspects of trabsparency, including governance, collective benefit, user surveys, roadmaps, inclusivivity, positive relations, equitability, improving capability and capacity - may expected from CARE principles"@en ;
   schema:category "Sustainability|Social Sustainability|Community Engagement|Documentation on Community Engagement" ;
   dcat:keyword "CTS" ;
   dcat:keyword "POSI" ;
