@@ -1,0 +1,15 @@
+@prefix trsp:   <https://example.org/trsp/> .
+@prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct:    <http://purl.org/dc/terms/> .
+@prefix skos:   <http://www.w3.org/2004/02/skos/core#> .
+@prefix schema: <https://schema.org/> .
+@prefix dcat:   <http://www.w3.org/ns/dcat#> .
+
+
+trsp:profile. a trsp:Profile ;
+    dct:title "POSI" @en ;
+    dct:description "Bilder G; Lin J; Neylon C (2020); The Principles of Open Scholarly Infrastructure; retrieved 08-11-2024" @en ;
+    dct:identifier https://doi.org/10.24343/C34W2H  ;
+    dcat:endpointURL https://doi.org/10.24343/C34W2H  ;
+    trsp:hasProfileType "trsp:profile-type-community"  .
