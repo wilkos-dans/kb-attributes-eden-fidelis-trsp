@@ -27,7 +27,7 @@ trsp:trsp-attributes a skos:ConceptScheme ;
   foaf:homepage  <https://github.com/wimhugo/kb-attributes-eden-fidelis-trsp/> .
 
 
-trsp:att7c68dbb456
+trsp:att.7c68dbb456
   a skos:Concept ;
   skos:prefLabel "Governance Description"@en ;
   skos:description "(TBD)"@en ;
@@ -40,7 +40,7 @@ trsp:att7c68dbb456
   skos:broader att.539A68DF8A ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att247c3c5849
+trsp:att.247c3c5849
   a skos:Concept ;
   skos:prefLabel "Stakeholder Representation"@en ;
   skos:description "(TBD)"@en ;
@@ -51,7 +51,7 @@ trsp:att247c3c5849
   skos:broader att.539A68DF8A ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att1fc6bcd089
+trsp:att.1fc6bcd089
   a skos:Concept ;
   skos:prefLabel "Periodic Expert/ External Review"@en ;
   skos:description "(TBD)"@en ;
@@ -62,7 +62,7 @@ trsp:att1fc6bcd089
   skos:broader att.4E4FD79526 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att42d7c2c3a4
+trsp:att.42d7c2c3a4
   a skos:Concept ;
   skos:prefLabel "Public Statement of Wind-Down"@en ;
   skos:description "(TBD)"@en ;
@@ -72,7 +72,7 @@ trsp:att42d7c2c3a4
   skos:broader att.6237ED1101 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att7495ada28b
+trsp:att.7495ada28b
   a skos:Concept ;
   skos:prefLabel "Public Continuity Plan"@en ;
   skos:description "(TBD)"@en ;
@@ -83,7 +83,7 @@ trsp:att7495ada28b
   skos:broader att.04F0DB0243 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att01d16efb9b
+trsp:att.01d16efb9b
   a skos:Concept ;
   skos:prefLabel "Managed Stakeholder Dependencies"@en ;
   skos:description "A document detailing the management and nature of stakeholder dependencies - end user groupings, depositors, funders, service users and aggregators, including statements of intent in respect of partnership and stakeholder management and its improvement."@en ;
@@ -93,7 +93,7 @@ trsp:att01d16efb9b
   skos:broader att.6FB10117A8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att04dc5770c9
+trsp:att.04dc5770c9
   a skos:Concept ;
   skos:prefLabel "Documentation on Community Engagement"@en ;
   skos:description "Addressing aspects of trabsparency, including governance, collective benefit, user surveys, roadmaps, inclusivivity, positive relations, equitability, improving capability and capacity - may expected from CARE principles"@en ;
@@ -106,7 +106,7 @@ trsp:att04dc5770c9
   skos:broader att.6FB10117A8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att13368cb9ac
+trsp:att.13368cb9ac
   a skos:Concept ;
   skos:prefLabel "Impact Assessment"@en ;
   skos:description "Information on impact of repsoitory services on the designated community and stakeholders."@en ;
@@ -116,7 +116,7 @@ trsp:att13368cb9ac
   skos:broader att.6FB10117A8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att7cbe776c7a
+trsp:att.7cbe776c7a
   a skos:Concept ;
   skos:prefLabel "Business Model Type"@en ;
   skos:description "(TBD)"@en ;
@@ -128,7 +128,7 @@ trsp:att7cbe776c7a
   skos:broader att.3E8808255F ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att2758ac32b8
+trsp:att.2758ac32b8
   a skos:Concept ;
   skos:prefLabel "Justification of Income"@en ;
   skos:description "(TBD)"@en ;
@@ -138,7 +138,7 @@ trsp:att2758ac32b8
   skos:broader att.410BA123B3 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att7660700650
+trsp:att.7660700650
   a skos:Concept ;
   skos:prefLabel "Compensation Rule"@en ;
   skos:description "(TBD)"@en ;
@@ -149,7 +149,7 @@ trsp:att7660700650
   skos:broader att.0E0C905D2A ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att6ef77f35f8
+trsp:att.6ef77f35f8
   a skos:Concept ;
   skos:prefLabel "Revenue Type"@en ;
   skos:description "(TBD)"@en ;
@@ -159,7 +159,7 @@ trsp:att6ef77f35f8
   skos:broader att.678439CD93 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att309c115a8c
+trsp:att.309c115a8c
   a skos:Concept ;
   skos:prefLabel "Revenue Source"@en ;
   skos:description "(TBD)"@en ;
@@ -169,7 +169,7 @@ trsp:att309c115a8c
   skos:broader att.678439CD93 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att6f306e2cea
+trsp:att.6f306e2cea
   a skos:Concept ;
   skos:prefLabel "Publicly Available Accounts"@en ;
   skos:description "(TBD)"@en ;
@@ -179,7 +179,7 @@ trsp:att6f306e2cea
   skos:broader att.5CF6AB3B6E ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att6edf9a999f
+trsp:att.6edf9a999f
   a skos:Concept ;
   skos:prefLabel "Defined and predictable funding regime"@en ;
   skos:description "(TBD)"@en ;
@@ -189,7 +189,7 @@ trsp:att6edf9a999f
   skos:broader att.5CF6AB3B6E ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att52a2a122af
+trsp:att.52a2a122af
   a skos:Concept ;
   skos:prefLabel "Base operations structurally funded"@en ;
   skos:description "(TBD)"@en ;
@@ -199,7 +199,7 @@ trsp:att52a2a122af
   skos:broader att.5CF6AB3B6E ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att269758d5a0
+trsp:att.269758d5a0
   a skos:Concept ;
   skos:prefLabel "R&D is Possible"@en ;
   skos:description "(TBD)"@en ;
@@ -210,7 +210,7 @@ trsp:att269758d5a0
   skos:broader att.5CF6AB3B6E ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att5cb2fb5b4c
+trsp:att.5cb2fb5b4c
   a skos:Concept ;
   skos:prefLabel "Content is available free"@en ;
   skos:description "(TBD)"@en ;
@@ -221,7 +221,7 @@ trsp:att5cb2fb5b4c
   skos:broader att.79D95E290A ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att608b9c73bb
+trsp:att.608b9c73bb
   a skos:Concept ;
   skos:prefLabel "Open Data"@en ;
   skos:description "(TBD)"@en ;
@@ -232,7 +232,7 @@ trsp:att608b9c73bb
   skos:broader att.79D95E290A ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att3ad2eca374
+trsp:att.3ad2eca374
   a skos:Concept ;
   skos:prefLabel "Data is Available"@en ;
   skos:description "(TBD)"@en ;
@@ -242,7 +242,7 @@ trsp:att3ad2eca374
   skos:broader att.79D95E290A ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att7bceafb957
+trsp:att.7bceafb957
   a skos:Concept ;
   skos:prefLabel "No Patents on Source Code"@en ;
   skos:description "(TBD)"@en ;
@@ -252,7 +252,7 @@ trsp:att7bceafb957
   skos:broader att.7592D43F0B ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att792636c88d
+trsp:att.792636c88d
   a skos:Concept ;
   skos:prefLabel "Source code is open or available on closure"@en ;
   skos:description "Documentation on source code repositories in use for major repository software and services."@en ;
@@ -262,7 +262,7 @@ trsp:att792636c88d
   skos:broader att.7592D43F0B ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att3609108196
+trsp:att.3609108196
   a skos:Concept ;
   skos:prefLabel "Succession Plan"@en ;
   skos:description "(TBD)"@en ;
@@ -272,7 +272,7 @@ trsp:att3609108196
   skos:broader att.04F0DB0243 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att4b6380a8f0
+trsp:att.4b6380a8f0
   a skos:Concept ;
   skos:prefLabel "Risk Plan"@en ;
   skos:description "(TBD)"@en ;
@@ -282,7 +282,7 @@ trsp:att4b6380a8f0
   skos:broader att.04F0DB0243 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att11e8c2b7d0
+trsp:att.11e8c2b7d0
   a skos:Concept ;
   skos:prefLabel "Disaster Recovery Plan"@en ;
   skos:description "(TBD)"@en ;
@@ -292,7 +292,7 @@ trsp:att11e8c2b7d0
   skos:broader att.04F0DB0243 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att14c87d5fc0
+trsp:att.14c87d5fc0
   a skos:Concept ;
   skos:prefLabel "Long-Term Preservation Plan"@en ;
   skos:description "(TBD)"@en ;
@@ -302,7 +302,7 @@ trsp:att14c87d5fc0
   skos:broader att.04F0DB0243 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att34a4f04633
+trsp:att.34a4f04633
   a skos:Concept ;
   skos:prefLabel "Resource Management Plan"@en ;
   skos:description "Proper management of and planning for human resources and relevant expertise, financial and technology resources, and energy. Includes information about the organisational structure, skills, and skills development/ risks."@en ;
@@ -312,7 +312,7 @@ trsp:att34a4f04633
   skos:broader att.04F0DB0243 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att36e657fc7b
+trsp:att.36e657fc7b
   a skos:Concept ;
   skos:prefLabel "Repository or Collections Data Management Plan"@en ;
   skos:description "Data Management Planning-related considerations applicable to the repository, its catalogues, and/ or collections."@en ;
@@ -322,7 +322,7 @@ trsp:att36e657fc7b
   skos:broader att.04F0DB0243 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att0341aa63b1
+trsp:att.0341aa63b1
   a skos:Concept ;
   skos:prefLabel "Research Infrastructures Served"@en ;
   skos:description "(TBD)"@en ;
@@ -332,7 +332,7 @@ trsp:att0341aa63b1
   skos:broader att.375960B05E ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att70bfed1ac3
+trsp:att.70bfed1ac3
   a skos:Concept ;
   skos:prefLabel "Portal Inclusion"@en ;
   skos:description "(TBD)"@en ;
@@ -342,7 +342,7 @@ trsp:att70bfed1ac3
   skos:broader att.375960B05E ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att394bc515e7
+trsp:att.394bc515e7
   a skos:Concept ;
   skos:prefLabel "EOSC Node Service"@en ;
   skos:description "(TBD)"@en ;
@@ -352,7 +352,7 @@ trsp:att394bc515e7
   skos:broader att.375960B05E ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att00bafe4b4e
+trsp:att.00bafe4b4e
   a skos:Concept ;
   skos:prefLabel "Registered in EOSC Marketplace"@en ;
   skos:description "(TBD)"@en ;
@@ -362,7 +362,7 @@ trsp:att00bafe4b4e
   skos:broader att.375960B05E ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att241e6c58df
+trsp:att.241e6c58df
   a skos:Concept ;
   skos:prefLabel "Network Membership"@en ;
   skos:description "(TBD)"@en ;
@@ -372,7 +372,7 @@ trsp:att241e6c58df
   skos:broader att.375960B05E ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att3d988650ec
+trsp:att.3d988650ec
   a skos:Concept ;
   skos:prefLabel "Default Metadata Schema/ Profile Indicated"@en ;
   skos:description "(TBD)"@en ;
@@ -382,7 +382,7 @@ trsp:att3d988650ec
   skos:broader att.365F68CB18 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att141ab906ec
+trsp:att.141ab906ec
   a skos:Concept ;
   skos:prefLabel "Default Licence"@en ;
   skos:description "(TBD)"@en ;
@@ -392,7 +392,7 @@ trsp:att141ab906ec
   skos:broader att.365F68CB18 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att1ad6d47183
+trsp:att.1ad6d47183
   a skos:Concept ;
   skos:prefLabel "Default PID Service"@en ;
   skos:description "(TBD)"@en ;
@@ -402,7 +402,7 @@ trsp:att1ad6d47183
   skos:broader att.365F68CB18 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att678241192e
+trsp:att.678241192e
   a skos:Concept ;
   skos:prefLabel "Selectable Metadata Profile"@en ;
   skos:description "(TBD)"@en ;
@@ -412,7 +412,7 @@ trsp:att678241192e
   skos:broader att.365F68CB18 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att02b14c3a2c
+trsp:att.02b14c3a2c
   a skos:Concept ;
   skos:prefLabel "Default Language"@en ;
   skos:description "(TBD)"@en ;
@@ -422,7 +422,7 @@ trsp:att02b14c3a2c
   skos:broader att.365F68CB18 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att1dd721cc5b
+trsp:att.1dd721cc5b
   a skos:Concept ;
   skos:prefLabel "Schema aligned with community practices"@en ;
   skos:description "(TBD)"@en ;
@@ -433,7 +433,7 @@ trsp:att1dd721cc5b
   skos:broader att.7AD9748A7D ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att71bdee33a6
+trsp:att.71bdee33a6
   a skos:Concept ;
   skos:prefLabel "Ensure Physical Objects have a Digital Representation"@en ;
   skos:description "(TBD)"@en ;
@@ -443,7 +443,7 @@ trsp:att71bdee33a6
   skos:broader att.219A2950AE ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att4a98f89201
+trsp:att.4a98f89201
   a skos:Concept ;
   skos:prefLabel "Deposit Documentation Checklist"@en ;
   skos:description "A checklist, with evidence, of the quality assurance measures in place in respect of deposits (submissions)"@en ;
@@ -453,7 +453,7 @@ trsp:att4a98f89201
   skos:broader att.00C02C55DC ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att4ea572a954
+trsp:att.4ea572a954
   a skos:Concept ;
   skos:prefLabel "Mandatory Metadata Verified"@en ;
   skos:description "(TBD)"@en ;
@@ -463,7 +463,7 @@ trsp:att4ea572a954
   skos:broader att.700343D2B3 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att6420bca43e
+trsp:att.6420bca43e
   a skos:Concept ;
   skos:prefLabel "Metadata validated against profile"@en ;
   skos:description "(TBD)"@en ;
@@ -473,7 +473,7 @@ trsp:att6420bca43e
   skos:broader att.700343D2B3 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att51c655bfb0
+trsp:att.51c655bfb0
   a skos:Concept ;
   skos:prefLabel "Vocabulary and semantic artefacts linked in metadata"@en ;
   skos:description "(TBD)"@en ;
@@ -483,7 +483,7 @@ trsp:att51c655bfb0
   skos:broader att.700343D2B3 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att7ac495443d
+trsp:att.7ac495443d
   a skos:Concept ;
   skos:prefLabel "URI-linked semantics in metadata"@en ;
   skos:description "(TBD)"@en ;
@@ -493,7 +493,7 @@ trsp:att7ac495443d
   skos:broader att.700343D2B3 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att25d8680361
+trsp:att.25d8680361
   a skos:Concept ;
   skos:prefLabel "Significant Properties Extracted"@en ;
   skos:description "(TBD)"@en ;
@@ -503,7 +503,7 @@ trsp:att25d8680361
   skos:broader att.00EDBED146 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att650f58f3bc
+trsp:att.650f58f3bc
   a skos:Concept ;
   skos:prefLabel "Tools for Technical Metadata Extraction"@en ;
   skos:description "(TBD)"@en ;
@@ -513,7 +513,7 @@ trsp:att650f58f3bc
   skos:broader att.00EDBED146 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att552d4d7cbf
+trsp:att.552d4d7cbf
   a skos:Concept ;
   skos:prefLabel "Machine-actionable format templates in use"@en ;
   skos:description "(TBD)"@en ;
@@ -523,7 +523,7 @@ trsp:att552d4d7cbf
   skos:broader att.00EDBED146 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att66c51e0b90
+trsp:att.66c51e0b90
   a skos:Concept ;
   skos:prefLabel "Validation of Data Against Schema or Rules"@en ;
   skos:description "(TBD)"@en ;
@@ -533,7 +533,7 @@ trsp:att66c51e0b90
   skos:broader att.2AF9C821F9 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att0ebac52cb6
+trsp:att.0ebac52cb6
   a skos:Concept ;
   skos:prefLabel "Published versioning procedure available"@en ;
   skos:description "(TBD)"@en ;
@@ -544,7 +544,7 @@ trsp:att0ebac52cb6
   skos:broader att.0FEE58FD17 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att73e0b308e5
+trsp:att.73e0b308e5
   a skos:Concept ;
   skos:prefLabel "Versioning Strategy/ Objective"@en ;
   skos:description "(TBD)"@en ;
@@ -554,7 +554,7 @@ trsp:att73e0b308e5
   skos:broader att.0FEE58FD17 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att11df98311a
+trsp:att.11df98311a
   a skos:Concept ;
   skos:prefLabel "Software provides update functionality"@en ;
   skos:description "(TBD)"@en ;
@@ -564,7 +564,7 @@ trsp:att11df98311a
   skos:broader att.69BC0467D4 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att1c44587e88
+trsp:att.1c44587e88
   a skos:Concept ;
   skos:prefLabel "Persistence Median"@en ;
   skos:description "(TBD)"@en ;
@@ -574,7 +574,7 @@ trsp:att1c44587e88
   skos:broader att.570534F4B8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att5842ec5239
+trsp:att.5842ec5239
   a skos:Concept ;
   skos:prefLabel "Resolution Percentage"@en ;
   skos:description "(TBD)"@en ;
@@ -584,7 +584,7 @@ trsp:att5842ec5239
   skos:broader att.00577FC6FC ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att54cf71ed24
+trsp:att.54cf71ed24
   a skos:Concept ;
   skos:prefLabel "Resolution Integrity"@en ;
   skos:description "(TBD)"@en ;
@@ -594,7 +594,7 @@ trsp:att54cf71ed24
   skos:broader att.570534F4B8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att12c6166da6
+trsp:att.12c6166da6
   a skos:Concept ;
   skos:prefLabel "Active Bit-Level Preservation in Place"@en ;
   skos:description "(TBD)"@en ;
@@ -604,7 +604,7 @@ trsp:att12c6166da6
   skos:broader att.00577FC6FC ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att4ea4fe6911
+trsp:att.4ea4fe6911
   a skos:Concept ;
   skos:prefLabel "Re-appraisal Plan"@en ;
   skos:description "Planning and considerations in respect opf re-appraisal - frequency, triggers, scope, tools and procedures."@en ;
@@ -614,7 +614,7 @@ trsp:att4ea4fe6911
   skos:broader att.570534F4B8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att720d076722
+trsp:att.720d076722
   a skos:Concept ;
   skos:prefLabel "File format preservation actions"@en ;
   skos:description "(TBD)"@en ;
@@ -624,7 +624,7 @@ trsp:att720d076722
   skos:broader att.497C7ACE99 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att3fd2c99b44
+trsp:att.3fd2c99b44
   a skos:Concept ;
   skos:prefLabel "(Re-)Appraisal of Licence Applicability"@en ;
   skos:description "(TBD)"@en ;
@@ -634,7 +634,7 @@ trsp:att3fd2c99b44
   skos:broader att.697C57FE46 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att36e9cffb4b
+trsp:att.36e9cffb4b
   a skos:Concept ;
   skos:prefLabel "Record of Re-Appraisal"@en ;
   skos:description "(TBD)"@en ;
@@ -644,7 +644,7 @@ trsp:att36e9cffb4b
   skos:broader att.497C7ACE99 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att7436bdea62
+trsp:att.7436bdea62
   a skos:Concept ;
   skos:prefLabel "Repository Transfer is Possible"@en ;
   skos:description "(TBD)"@en ;
@@ -654,7 +654,7 @@ trsp:att7436bdea62
   skos:broader att.3319EEDC99 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att1257c370df
+trsp:att.1257c370df
   a skos:Concept ;
   skos:prefLabel "PID Ownership Transfer is Possible"@en ;
   skos:description "(TBD)"@en ;
@@ -664,7 +664,7 @@ trsp:att1257c370df
   skos:broader att.3319EEDC99 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att22d6f28f7c
+trsp:att.22d6f28f7c
   a skos:Concept ;
   skos:prefLabel "Sensitive Data Protection Measures in Place"@en ;
   skos:description "(TBD)"@en ;
@@ -674,7 +674,7 @@ trsp:att22d6f28f7c
   skos:broader att.4DE2DD546E ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att2b19863f6a
+trsp:att.2b19863f6a
   a skos:Concept ;
   skos:prefLabel "Ethics Guidance"@en ;
   skos:description "Provide ethics-related guidance to depositors and end users."@en ;
@@ -684,7 +684,7 @@ trsp:att2b19863f6a
   skos:broader att.16855D3CB9 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att56f24c24c3
+trsp:att.56f24c24c3
   a skos:Concept ;
   skos:prefLabel "Ethics Checklist"@en ;
   skos:description "(TBD)"@en ;
@@ -694,7 +694,7 @@ trsp:att56f24c24c3
   skos:broader att.4AA1880060 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att61c5ab7572
+trsp:att.61c5ab7572
   a skos:Concept ;
   skos:prefLabel "Institutional Ethics Clearance"@en ;
   skos:description "(TBD)"@en ;
@@ -704,7 +704,7 @@ trsp:att61c5ab7572
   skos:broader att.16855D3CB9 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att1617820477
+trsp:att.1617820477
   a skos:Concept ;
   skos:prefLabel "Future Use Clarified with Subjects"@en ;
   skos:description "(TBD)"@en ;
@@ -714,7 +714,7 @@ trsp:att1617820477
   skos:broader att.16855D3CB9 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att51e4556dfe
+trsp:att.51e4556dfe
   a skos:Concept ;
   skos:prefLabel "Consent Obtained"@en ;
   skos:description "(TBD)"@en ;
@@ -725,7 +725,7 @@ trsp:att51e4556dfe
   skos:broader att.16855D3CB9 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att09b9b96513
+trsp:att.09b9b96513
   a skos:Concept ;
   skos:prefLabel "File Repair"@en ;
   skos:description "(TBD)"@en ;
@@ -735,7 +735,7 @@ trsp:att09b9b96513
   skos:broader att.2080C1D4EE ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att6cce23a07e
+trsp:att.6cce23a07e
   a skos:Concept ;
   skos:prefLabel "Statistical Integrity"@en ;
   skos:description "(TBD)"@en ;
@@ -745,7 +745,7 @@ trsp:att6cce23a07e
   skos:broader att.2080C1D4EE ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att6af0d4dc26
+trsp:att.6af0d4dc26
   a skos:Concept ;
   skos:prefLabel "Plagiarism Verification"@en ;
   skos:description "(TBD)"@en ;
@@ -755,7 +755,7 @@ trsp:att6af0d4dc26
   skos:broader att.2080C1D4EE ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att4b8dbc2795
+trsp:att.4b8dbc2795
   a skos:Concept ;
   skos:prefLabel "Checksum Computation/ Verification"@en ;
   skos:description "Object checksums are computed prior to and after migration, and recorded for future preservation management"@en ;
@@ -765,7 +765,7 @@ trsp:att4b8dbc2795
   skos:broader att.2080C1D4EE ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att2923d6de38
+trsp:att.2923d6de38
   a skos:Concept ;
   skos:prefLabel "Virus and Malware Checking"@en ;
   skos:description "Objects are checked for viruses and malware on ingest"@en ;
@@ -775,7 +775,7 @@ trsp:att2923d6de38
   skos:broader att.2080C1D4EE ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att72de0527e3
+trsp:att.72de0527e3
   a skos:Concept ;
   skos:prefLabel "Documented Pre-submission Provenance"@en ;
   skos:description "(TBD)"@en ;
@@ -785,7 +785,7 @@ trsp:att72de0527e3
   skos:broader att.608015D600 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att5af211b2c5
+trsp:att.5af211b2c5
   a skos:Concept ;
   skos:prefLabel "Checked for Duplicate Publication"@en ;
   skos:description "(TBD)"@en ;
@@ -795,7 +795,7 @@ trsp:att5af211b2c5
   skos:broader att.608015D600 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att1c495e8a94
+trsp:att.1c495e8a94
   a skos:Concept ;
   skos:prefLabel "Checked for Malicious Content"@en ;
   skos:description "(TBD)"@en ;
@@ -805,7 +805,7 @@ trsp:att1c495e8a94
   skos:broader att.608015D600 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att5e73bd05df
+trsp:att.5e73bd05df
   a skos:Concept ;
   skos:prefLabel "Checked for Irrelevant Content"@en ;
   skos:description "(TBD)"@en ;
@@ -815,7 +815,7 @@ trsp:att5e73bd05df
   skos:broader att.608015D600 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att44841f89c3
+trsp:att.44841f89c3
   a skos:Concept ;
   skos:prefLabel "Checked for Illegal Content"@en ;
   skos:description "(TBD)"@en ;
@@ -825,7 +825,7 @@ trsp:att44841f89c3
   skos:broader att.608015D600 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att4808a1524b
+trsp:att.4808a1524b
   a skos:Concept ;
   skos:prefLabel "Checked for AI-generated Content"@en ;
   skos:description "(TBD)"@en ;
@@ -835,7 +835,7 @@ trsp:att4808a1524b
   skos:broader att.608015D600 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att301a364d55
+trsp:att.301a364d55
   a skos:Concept ;
   skos:prefLabel "Depositors are identified and verified"@en ;
   skos:description "(TBD)"@en ;
@@ -845,7 +845,7 @@ trsp:att301a364d55
   skos:broader att.76B25EFA00 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att242ee15759
+trsp:att.242ee15759
   a skos:Concept ;
   skos:prefLabel "Submission and Archival Package Maintenance"@en ;
   skos:description "(TBD)"@en ;
@@ -855,7 +855,7 @@ trsp:att242ee15759
   skos:broader att.27F5C3BD10 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att550348356c
+trsp:att.550348356c
   a skos:Concept ;
   skos:prefLabel "Human-readable rights documentation"@en ;
   skos:description "(TBD)"@en ;
@@ -865,7 +865,7 @@ trsp:att550348356c
   skos:broader att.3D6A6043D4 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att5d17940b6b
+trsp:att.5d17940b6b
   a skos:Concept ;
   skos:prefLabel "Privacy and GDPR Addressed"@en ;
   skos:description "(TBD)"@en ;
@@ -875,7 +875,7 @@ trsp:att5d17940b6b
   skos:broader att.4A2CF0AF0A ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att1b812ffc4e
+trsp:att.1b812ffc4e
   a skos:Concept ;
   skos:prefLabel "No Harm, Maximise Benefit"@en ;
   skos:description "(TBD)"@en ;
@@ -885,7 +885,7 @@ trsp:att1b812ffc4e
   skos:broader att.4A2CF0AF0A ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att2a0e93c1ac
+trsp:att.2a0e93c1ac
   a skos:Concept ;
   skos:prefLabel "IP Management"@en ;
   skos:description "(TBD)"@en ;
@@ -895,7 +895,7 @@ trsp:att2a0e93c1ac
   skos:broader att.4A2CF0AF0A ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att7d05a04e46
+trsp:att.7d05a04e46
   a skos:Concept ;
   skos:prefLabel "Basis of Rights Encoding"@en ;
   skos:description "(TBD)"@en ;
@@ -905,7 +905,7 @@ trsp:att7d05a04e46
   skos:broader att.7C56B5ED00 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att206c4c60aa
+trsp:att.206c4c60aa
   a skos:Concept ;
   skos:prefLabel "Terms of Deposit"@en ;
   skos:description "(TBD)"@en ;
@@ -915,7 +915,7 @@ trsp:att206c4c60aa
   skos:broader att.553A464EC8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att521a4a9e17
+trsp:att.521a4a9e17
   a skos:Concept ;
   skos:prefLabel "Appraisal/ Accession Policy"@en ;
   skos:description "(TBD)"@en ;
@@ -925,7 +925,7 @@ trsp:att521a4a9e17
   skos:broader att.553A464EC8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att49c7b241ea
+trsp:att.49c7b241ea
   a skos:Concept ;
   skos:prefLabel "Owners/ Rightsholder Rights"@en ;
   skos:description "Includes the right to consent to publication, and the right to select a licence/ access conditions based on guidance. Verifies the legal basis for holding and preserving content."@en ;
@@ -936,7 +936,7 @@ trsp:att49c7b241ea
   skos:broader att.5A6C15E767 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att48c6f0c32d
+trsp:att.48c6f0c32d
   a skos:Concept ;
   skos:prefLabel "Curator Rights"@en ;
   skos:description "Includes the rights to data and metadata improvements, publication, and in some cases, adjudicating access requests."@en ;
@@ -946,7 +946,7 @@ trsp:att48c6f0c32d
   skos:broader att.5A6C15E767 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att76e631cb8d
+trsp:att.76e631cb8d
   a skos:Concept ;
   skos:prefLabel "End User Rights"@en ;
   skos:description "(TBD)"@en ;
@@ -958,7 +958,7 @@ trsp:att76e631cb8d
   skos:broader att.5A6C15E767 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att1b3a0a1cf6
+trsp:att.1b3a0a1cf6
   a skos:Concept ;
   skos:prefLabel "Consent Forms Verified, Linked"@en ;
   skos:description "(TBD)"@en ;
@@ -968,7 +968,7 @@ trsp:att1b3a0a1cf6
   skos:broader att.24650A32BA ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att2d03eb4e9b
+trsp:att.2d03eb4e9b
   a skos:Concept ;
   skos:prefLabel "Consent Form Example Available"@en ;
   skos:description "(TBD)"@en ;
@@ -978,7 +978,7 @@ trsp:att2d03eb4e9b
   skos:broader att.24650A32BA ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att5dcb41bb3f
+trsp:att.5dcb41bb3f
   a skos:Concept ;
   skos:prefLabel "Registry of Access Requests"@en ;
   skos:description "(TBD)"@en ;
@@ -988,7 +988,7 @@ trsp:att5dcb41bb3f
   skos:broader att.24650A32BA ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att264e948225
+trsp:att.264e948225
   a skos:Concept ;
   skos:prefLabel "Subjects Have a Right to the Data"@en ;
   skos:description "(TBD)"@en ;
@@ -998,7 +998,7 @@ trsp:att264e948225
   skos:broader att.24650A32BA ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att5adb3fc0bb
+trsp:att.5adb3fc0bb
   a skos:Concept ;
   skos:prefLabel "Grounded - Aligned with Subject Context"@en ;
   skos:description "(TBD)"@en ;
@@ -1008,7 +1008,7 @@ trsp:att5adb3fc0bb
   skos:broader att.24650A32BA ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att1c94638914
+trsp:att.1c94638914
   a skos:Concept ;
   skos:prefLabel "Ecosystem Model Available"@en ;
   skos:description "(TBD)"@en ;
@@ -1018,7 +1018,7 @@ trsp:att1c94638914
   skos:broader att.12C140C8CD ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att2218e83fc4
+trsp:att.2218e83fc4
   a skos:Concept ;
   skos:prefLabel "Roles and Responsibilities Defined"@en ;
   skos:description "(TBD)"@en ;
@@ -1028,7 +1028,7 @@ trsp:att2218e83fc4
   skos:broader att.12C140C8CD ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att7ad9b8bbcb
+trsp:att.7ad9b8bbcb
   a skos:Concept ;
   skos:prefLabel "Deposit Agreement"@en ;
   skos:description "(TBD)"@en ;
@@ -1038,7 +1038,7 @@ trsp:att7ad9b8bbcb
   skos:broader att.12C140C8CD ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att58022a9dbd
+trsp:att.58022a9dbd
   a skos:Concept ;
   skos:prefLabel "Contracting Granularity"@en ;
   skos:description "(TBD)"@en ;
@@ -1048,7 +1048,7 @@ trsp:att58022a9dbd
   skos:broader att.12C140C8CD ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att687d20f962
+trsp:att.687d20f962
   a skos:Concept ;
   skos:prefLabel "Terms and Conditions of Use"@en ;
   skos:description "(TBD)"@en ;
@@ -1061,7 +1061,7 @@ trsp:att687d20f962
   skos:broader att.12C140C8CD ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att20efd54efd
+trsp:att.20efd54efd
   a skos:Concept ;
   skos:prefLabel "Privacy Statement"@en ;
   skos:description "(TBD)"@en ;
@@ -1073,7 +1073,7 @@ trsp:att20efd54efd
   skos:broader att.12C140C8CD ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att6d6a09147b
+trsp:att.6d6a09147b
   a skos:Concept ;
   skos:prefLabel "Terms of Deposit/ Accession Policy"@en ;
   skos:description "(TBD)"@en ;
@@ -1083,7 +1083,7 @@ trsp:att6d6a09147b
   skos:broader att.12C140C8CD ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att54339656e9
+trsp:att.54339656e9
   a skos:Concept ;
   skos:prefLabel "Summary of Depositor Contract(s) Available"@en ;
   skos:description "(TBD)"@en ;
@@ -1093,7 +1093,7 @@ trsp:att54339656e9
   skos:broader att.12C140C8CD ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att1d00720769
+trsp:att.1d00720769
   a skos:Concept ;
   skos:prefLabel "Records Retention Policy/ Procedure"@en ;
   skos:description "Evidence that the organisation has developed a recpords retention policy, and that it is implemented via a standard procedure"@en ;
@@ -1103,7 +1103,7 @@ trsp:att1d00720769
   skos:broader att.12C140C8CD ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att7d628d907a
+trsp:att.7d628d907a
   a skos:Concept ;
   skos:prefLabel "Managed Publication Process"@en ;
   skos:description "The publication and versioning process for legal, contractual, and responsibility documentation is managed and monitored."@en ;
@@ -1113,7 +1113,7 @@ trsp:att7d628d907a
   skos:broader att.12C140C8CD ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att34c7f266cd
+trsp:att.34c7f266cd
   a skos:Concept ;
   skos:prefLabel "Service Level Agreement Available"@en ;
   skos:description "(TBD)"@en ;
@@ -1123,7 +1123,7 @@ trsp:att34c7f266cd
   skos:broader att.1A4E593402 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att3b023f9cf0
+trsp:att.3b023f9cf0
   a skos:Concept ;
   skos:prefLabel "Machine-Readable SLA"@en ;
   skos:description "(TBD)"@en ;
@@ -1133,7 +1133,7 @@ trsp:att3b023f9cf0
   skos:broader att.1A4E593402 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att5568b6ec80
+trsp:att.5568b6ec80
   a skos:Concept ;
   skos:prefLabel "SLA based on community expectations"@en ;
   skos:description "(TBD)"@en ;
@@ -1143,7 +1143,7 @@ trsp:att5568b6ec80
   skos:broader att.1A4E593402 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att4b703e5e93
+trsp:att.4b703e5e93
   a skos:Concept ;
   skos:prefLabel "SLA Vocabulary Used"@en ;
   skos:description "(TBD)"@en ;
@@ -1153,7 +1153,7 @@ trsp:att4b703e5e93
   skos:broader att.1A4E593402 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att08c2a995c0
+trsp:att.08c2a995c0
   a skos:Concept ;
   skos:prefLabel "Disclosure Risk Assessment Policy"@en ;
   skos:description "(TBD)"@en ;
@@ -1163,7 +1163,7 @@ trsp:att08c2a995c0
   skos:broader att.5CE6A2BBCE ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att0ff7e5b673
+trsp:att.0ff7e5b673
   a skos:Concept ;
   skos:prefLabel "Bibliographic Metadata Policy"@en ;
   skos:description "(TBD)"@en ;
@@ -1173,7 +1173,7 @@ trsp:att0ff7e5b673
   skos:broader att.5CE6A2BBCE ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att7dfd48623c
+trsp:att.7dfd48623c
   a skos:Concept ;
   skos:prefLabel "Published Custom Licences Available"@en ;
   skos:description "(TBD)"@en ;
@@ -1183,7 +1183,7 @@ trsp:att7dfd48623c
   skos:broader att.419EE6D029 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att3e5b47b5c9
+trsp:att.3e5b47b5c9
   a skos:Concept ;
   skos:prefLabel "Inventory - SOPs and Workflows"@en ;
   skos:description "A checklist, with evidence links, of all standard oeprating procedures and checklist applicable to the management of the repository."@en ;
@@ -1193,7 +1193,7 @@ trsp:att3e5b47b5c9
   skos:broader att.4D039CA977 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att24c260aa9c
+trsp:att.24c260aa9c
   a skos:Concept ;
   skos:prefLabel "Monitor Process Compliance"@en ;
   skos:description "(TBD)"@en ;
@@ -1204,7 +1204,7 @@ trsp:att24c260aa9c
   skos:broader att.4D039CA977 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att12ca661df7
+trsp:att.12ca661df7
   a skos:Concept ;
   skos:prefLabel "Submission Workflow"@en ;
   skos:description "(TBD)"@en ;
@@ -1216,7 +1216,7 @@ trsp:att12ca661df7
   skos:broader att.4AA1880060 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att5f37a613bb
+trsp:att.5f37a613bb
   a skos:Concept ;
   skos:prefLabel "Preservation Workflow"@en ;
   skos:description "Workflows and standard procedures aimed at preservation and periodic re-appraisal."@en ;
@@ -1228,7 +1228,7 @@ trsp:att5f37a613bb
   skos:broader att.4AA1880060 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att18e904aae2
+trsp:att.18e904aae2
   a skos:Concept ;
   skos:prefLabel "Disposal and Retraction Workflows"@en ;
   skos:description "Proper policies and mechanisms exist for conditions under which content can be disposed or retracted, while maintaining tombstone metadata."@en ;
@@ -1238,7 +1238,7 @@ trsp:att18e904aae2
   skos:broader att.4AA1880060 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att0fe5d01c72
+trsp:att.0fe5d01c72
   a skos:Concept ;
   skos:prefLabel "FAIR Assessment"@en ;
   skos:description "(TBD)"@en ;
@@ -1248,7 +1248,7 @@ trsp:att0fe5d01c72
   skos:broader att.4AA1880060 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att50adce9e0d
+trsp:att.50adce9e0d
   a skos:Concept ;
   skos:prefLabel "FAIR Assessment Tool(s)"@en ;
   skos:description "(TBD)"@en ;
@@ -1258,7 +1258,7 @@ trsp:att50adce9e0d
   skos:broader att.4AA1880060 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att2ec221bd80
+trsp:att.2ec221bd80
   a skos:Concept ;
   skos:prefLabel "Privacy/ Sensitive Data Checklist"@en ;
   skos:description "(TBD)"@en ;
@@ -1268,7 +1268,7 @@ trsp:att2ec221bd80
   skos:broader att.4AA1880060 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att64a44f5193
+trsp:att.64a44f5193
   a skos:Concept ;
   skos:prefLabel "Legal Compliance Checklist"@en ;
   skos:description "(TBD)"@en ;
@@ -1278,7 +1278,7 @@ trsp:att64a44f5193
   skos:broader att.4AA1880060 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att6a5bf0698f
+trsp:att.6a5bf0698f
   a skos:Concept ;
   skos:prefLabel "Rights Obtained from Depositor"@en ;
   skos:description "(TBD)"@en ;
@@ -1289,7 +1289,7 @@ trsp:att6a5bf0698f
   skos:broader att.4AA1880060 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att769a9f52bd
+trsp:att.769a9f52bd
   a skos:Concept ;
   skos:prefLabel "Explanation of Licence Provisions"@en ;
   skos:description "(TBD)"@en ;
@@ -1299,7 +1299,7 @@ trsp:att769a9f52bd
   skos:broader att.354E278D69 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att0cbe414a78
+trsp:att.0cbe414a78
   a skos:Concept ;
   skos:prefLabel "Verification of Licence Assent"@en ;
   skos:description "(TBD)"@en ;
@@ -1309,7 +1309,7 @@ trsp:att0cbe414a78
   skos:broader att.697C57FE46 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att49ee16d366
+trsp:att.49ee16d366
   a skos:Concept ;
   skos:prefLabel "Licence Combination Supported/ Verified"@en ;
   skos:description "(TBD)"@en ;
@@ -1319,7 +1319,7 @@ trsp:att49ee16d366
   skos:broader att.697C57FE46 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att1146fd1520
+trsp:att.1146fd1520
   a skos:Concept ;
   skos:prefLabel "Documentation Available"@en ;
   skos:description "Documentation on services, location of deployed instances (test, development, demonstratiors, production), and links to relevant source code."@en ;
@@ -1330,7 +1330,7 @@ trsp:att1146fd1520
   skos:broader att.532324DE1D ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att4cb4f7ed15
+trsp:att.4cb4f7ed15
   a skos:Concept ;
   skos:prefLabel "Machine-Readable Inventory"@en ;
   skos:description "(TBD)"@en ;
@@ -1341,7 +1341,7 @@ trsp:att4cb4f7ed15
   skos:broader att.532324DE1D ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att1c5f7aaa09
+trsp:att.1c5f7aaa09
   a skos:Concept ;
   skos:prefLabel "Makes use of standard API specifications"@en ;
   skos:description "(TBD)"@en ;
@@ -1351,7 +1351,7 @@ trsp:att1c5f7aaa09
   skos:broader att.4A2CF0AF0A ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att515b8f83fb
+trsp:att.515b8f83fb
   a skos:Concept ;
   skos:prefLabel "Offers API Documentation"@en ;
   skos:description "(TBD)"@en ;
@@ -1361,7 +1361,7 @@ trsp:att515b8f83fb
   skos:broader att.4A2CF0AF0A ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att1828900f1b
+trsp:att.1828900f1b
   a skos:Concept ;
   skos:prefLabel "Submission API is available"@en ;
   skos:description "(TBD)"@en ;
@@ -1371,7 +1371,7 @@ trsp:att1828900f1b
   skos:broader att.0D3C935A8A ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att6e3855425f
+trsp:att.6e3855425f
   a skos:Concept ;
   skos:prefLabel "File Type Registry API"@en ;
   skos:description "(TBD)"@en ;
@@ -1381,7 +1381,7 @@ trsp:att6e3855425f
   skos:broader att.0D3C935A8A ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att63101df501
+trsp:att.63101df501
   a skos:Concept ;
   skos:prefLabel "File Type Verification API"@en ;
   skos:description "(TBD)"@en ;
@@ -1391,7 +1391,7 @@ trsp:att63101df501
   skos:broader att.0D3C935A8A ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att29a8e8970a
+trsp:att.29a8e8970a
   a skos:Concept ;
   skos:prefLabel "File Verification Error Data"@en ;
   skos:description "(TBD)"@en ;
@@ -1401,7 +1401,7 @@ trsp:att29a8e8970a
   skos:broader att.0D3C935A8A ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att23727d6070
+trsp:att.23727d6070
   a skos:Concept ;
   skos:prefLabel "Package Verification Service"@en ;
   skos:description "(TBD)"@en ;
@@ -1411,7 +1411,7 @@ trsp:att23727d6070
   skos:broader att.0D3C935A8A ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att2b5e85fae5
+trsp:att.2b5e85fae5
   a skos:Concept ;
   skos:prefLabel "Package Validation Service"@en ;
   skos:description "A repository can use the OAIS Information model for AIPs to assess the quality and completeness of its holdings, for example to help identify missing or incomplete information."@en ;
@@ -1421,7 +1421,7 @@ trsp:att2b5e85fae5
   skos:broader att.0D3C935A8A ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att02bda33b58
+trsp:att.02bda33b58
   a skos:Concept ;
   skos:prefLabel "Machine-readable Terms and Conditions"@en ;
   skos:description "(TBD)"@en ;
@@ -1431,7 +1431,7 @@ trsp:att02bda33b58
   skos:broader att.58166D724B ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att58166d724b
+trsp:att.58166d724b
   a skos:Concept ;
   skos:prefLabel "Machine-readable Policies"@en ;
   skos:description "(TBD)"@en ;
@@ -1441,7 +1441,7 @@ trsp:att58166d724b
   skos:broader att.58166D724B ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att435a79a35f
+trsp:att.435a79a35f
   a skos:Concept ;
   skos:prefLabel "Policy Vocabulary URI"@en ;
   skos:description "(TBD)"@en ;
@@ -1451,7 +1451,7 @@ trsp:att435a79a35f
   skos:broader att.58166D724B ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att2f39de4e78
+trsp:att.2f39de4e78
   a skos:Concept ;
   skos:prefLabel "Access Conditions"@en ;
   skos:description "(TBD)"@en ;
@@ -1461,7 +1461,7 @@ trsp:att2f39de4e78
   skos:broader att.28A2220E45 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att6628e95eac
+trsp:att.6628e95eac
   a skos:Concept ;
   skos:prefLabel "Machine-readable Licence Provisions (REL)"@en ;
   skos:description "(TBD)"@en ;
@@ -1471,7 +1471,7 @@ trsp:att6628e95eac
   skos:broader att.28A2220E45 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att3e5176e2b8
+trsp:att.3e5176e2b8
   a skos:Concept ;
   skos:prefLabel "Standardised Licence URIs"@en ;
   skos:description "(TBD)"@en ;
@@ -1481,7 +1481,7 @@ trsp:att3e5176e2b8
   skos:broader att.28A2220E45 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att7298144e24
+trsp:att.7298144e24
   a skos:Concept ;
   skos:prefLabel "Metadata (Harvesting) API"@en ;
   skos:description "(TBD)"@en ;
@@ -1491,7 +1491,7 @@ trsp:att7298144e24
   skos:broader att.2922ED695E ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att714ec2aa27
+trsp:att.714ec2aa27
   a skos:Concept ;
   skos:prefLabel "Data API"@en ;
   skos:description "(TBD)"@en ;
@@ -1501,7 +1501,7 @@ trsp:att714ec2aa27
   skos:broader att.2922ED695E ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att62e1c089db
+trsp:att.62e1c089db
   a skos:Concept ;
   skos:prefLabel "User Guidance and Documentation"@en ;
   skos:description "(TBD)"@en ;
@@ -1511,7 +1511,7 @@ trsp:att62e1c089db
   skos:broader att.5DC262FE75 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att3e85a87190
+trsp:att.3e85a87190
   a skos:Concept ;
   skos:prefLabel "User-focused Access"@en ;
   skos:description "(TBD)"@en ;
@@ -1522,7 +1522,7 @@ trsp:att3e85a87190
   skos:broader att.5DC262FE75 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att0c3fb3218d
+trsp:att.0c3fb3218d
   a skos:Concept ;
   skos:prefLabel "Usage Metrics"@en ;
   skos:description "(TBD)"@en ;
@@ -1532,7 +1532,7 @@ trsp:att0c3fb3218d
   skos:broader att.4763130464 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att27c898e8a0
+trsp:att.27c898e8a0
   a skos:Concept ;
   skos:prefLabel "List of Certifications"@en ;
   skos:description "(TBD)"@en ;
@@ -1542,7 +1542,7 @@ trsp:att27c898e8a0
   skos:broader att.371D70B854 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att1224e087e0
+trsp:att.1224e087e0
   a skos:Concept ;
   skos:prefLabel "List of Third-Party Assessments"@en ;
   skos:description "(TBD)"@en ;
@@ -1552,7 +1552,7 @@ trsp:att1224e087e0
   skos:broader att.371D70B854 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att6e27def3a1
+trsp:att.6e27def3a1
   a skos:Concept ;
   skos:prefLabel "List of Self-Assessments"@en ;
   skos:description "(TBD)"@en ;
@@ -1562,7 +1562,7 @@ trsp:att6e27def3a1
   skos:broader att.371D70B854 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att516450bf5e
+trsp:att.516450bf5e
   a skos:Concept ;
   skos:prefLabel "Active Preservation"@en ;
   skos:description "(TBD)"@en ;
@@ -1572,7 +1572,7 @@ trsp:att516450bf5e
   skos:broader att.035ACCB10D ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att1dad162d7a
+trsp:att.1dad162d7a
   a skos:Concept ;
   skos:prefLabel "Continued Access"@en ;
   skos:description "(TBD)"@en ;
@@ -1582,7 +1582,7 @@ trsp:att1dad162d7a
   skos:broader att.035ACCB10D ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att2f80b22a4d
+trsp:att.2f80b22a4d
   a skos:Concept ;
   skos:prefLabel "Level of Approval is Public"@en ;
   skos:description "(TBD)"@en ;
@@ -1592,7 +1592,7 @@ trsp:att2f80b22a4d
   skos:broader att.035ACCB10D ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att04b70a444f
+trsp:att.04b70a444f
   a skos:Concept ;
   skos:prefLabel "Approved public mission statement"@en ;
   skos:description "(TBD)"@en ;
@@ -1603,7 +1603,7 @@ trsp:att04b70a444f
   skos:broader att.035ACCB10D ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att65a383c886
+trsp:att.65a383c886
   a skos:Concept ;
   skos:prefLabel "Policy statement signed off by a governing board"@en ;
   skos:description "(TBD)"@en ;
@@ -1614,7 +1614,7 @@ trsp:att65a383c886
   skos:broader att.035ACCB10D ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att0b807cc544
+trsp:att.0b807cc544
   a skos:Concept ;
   skos:prefLabel "Well-defined focus"@en ;
   skos:description "(TBD)"@en ;
@@ -1624,7 +1624,7 @@ trsp:att0b807cc544
   skos:broader att.43ABB27EBE ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att0f78d12691
+trsp:att.0f78d12691
   a skos:Concept ;
   skos:prefLabel "Inventory of Considerations"@en ;
   skos:description "(TBD)"@en ;
@@ -1634,7 +1634,7 @@ trsp:att0f78d12691
   skos:broader att.18D74ED687 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att145bd6becd
+trsp:att.145bd6becd
   a skos:Concept ;
   skos:prefLabel "Policies linked or are easily found"@en ;
   skos:description "Polcies are described in a summary page, and linked from metadata and/or landing pages"@en ;
@@ -1644,7 +1644,7 @@ trsp:att145bd6becd
   skos:broader att.2744CED24F ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att11b8a1b690
+trsp:att.11b8a1b690
   a skos:Concept ;
   skos:prefLabel "Policies are versioned"@en ;
   skos:description "(TBD)"@en ;
@@ -1654,7 +1654,7 @@ trsp:att11b8a1b690
   skos:broader att.2744CED24F ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att6437b9e8e1
+trsp:att.6437b9e8e1
   a skos:Concept ;
   skos:prefLabel "Policy Development Process"@en ;
   skos:description "Process by which policies are developed, maintained, and revised, and how standards are evaluated and incorporayted into policies."@en ;
@@ -1664,7 +1664,7 @@ trsp:att6437b9e8e1
   skos:broader att.2744CED24F ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att2b81c65ffb
+trsp:att.2b81c65ffb
   a skos:Concept ;
   skos:prefLabel "Sensitive Data Appraisal Policy"@en ;
   skos:description "(TBD)"@en ;
@@ -1673,7 +1673,7 @@ trsp:att2b81c65ffb
   skos:broader att.6105038322 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att7f6f3e3dde
+trsp:att.7f6f3e3dde
   a skos:Concept ;
   skos:prefLabel "Ethics Clearance Verification Policy"@en ;
   skos:description "(TBD)"@en ;
@@ -1683,7 +1683,7 @@ trsp:att7f6f3e3dde
   skos:broader att.6105038322 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att2901b9e359
+trsp:att.2901b9e359
   a skos:Concept ;
   skos:prefLabel "PID Policy"@en ;
   skos:description "Ensures that the repository policy is aligned with global, regional, national, and network PID initiatives (e.g. National PID Strategies, or EOSC PID Policy)."@en ;
@@ -1693,7 +1693,7 @@ trsp:att2901b9e359
   skos:broader att.2E979C3B25 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att1395fd0f03
+trsp:att.1395fd0f03
   a skos:Concept ;
   skos:prefLabel "Versioning Policy"@en ;
   skos:description "(TBD)"@en ;
@@ -1703,7 +1703,7 @@ trsp:att1395fd0f03
   skos:broader att.2E979C3B25 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att7ec681717d
+trsp:att.7ec681717d
   a skos:Concept ;
   skos:prefLabel "Licence Policy"@en ;
   skos:description "(TBD)"@en ;
@@ -1713,7 +1713,7 @@ trsp:att7ec681717d
   skos:broader att.2E979C3B25 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att549827c8b4
+trsp:att.549827c8b4
   a skos:Concept ;
   skos:prefLabel "Preferred Formats Policy"@en ;
   skos:description "(TBD)"@en ;
@@ -1723,7 +1723,7 @@ trsp:att549827c8b4
   skos:broader att.2E979C3B25 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att768dafa0db
+trsp:att.768dafa0db
   a skos:Concept ;
   skos:prefLabel "Data Preservation Policy"@en ;
   skos:description "(TBD)"@en ;
@@ -1733,7 +1733,7 @@ trsp:att768dafa0db
   skos:broader att.2E979C3B25 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att6b7ced5897
+trsp:att.6b7ced5897
   a skos:Concept ;
   skos:prefLabel "Assessment and Access Policy"@en ;
   skos:description "(TBD)"@en ;
@@ -1743,7 +1743,7 @@ trsp:att6b7ced5897
   skos:broader att.5FBAF6DC9F ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att4f40729393
+trsp:att.4f40729393
   a skos:Concept ;
   skos:prefLabel "Appropriate Licences"@en ;
   skos:description "(TBD)"@en ;
@@ -1753,7 +1753,7 @@ trsp:att4f40729393
   skos:broader att.0E2DB53E0E ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att45f7a22412
+trsp:att.45f7a22412
   a skos:Concept ;
   skos:prefLabel "Bibliographic Metadata - CC0"@en ;
   skos:description "(TBD)"@en ;
@@ -1763,7 +1763,7 @@ trsp:att45f7a22412
   skos:broader att.0E2DB53E0E ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att39d810eec9
+trsp:att.39d810eec9
   a skos:Concept ;
   skos:prefLabel "Personal Data Removal Request Procedure exists"@en ;
   skos:description "(TBD)"@en ;
@@ -1773,7 +1773,7 @@ trsp:att39d810eec9
   skos:broader att.2847F75853 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att434f29edb9
+trsp:att.434f29edb9
   a skos:Concept ;
   skos:prefLabel "Right to be forgotten implemented"@en ;
   skos:description "(TBD)"@en ;
@@ -1783,7 +1783,7 @@ trsp:att434f29edb9
   skos:broader att.2847F75853 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att1042d04416
+trsp:att.1042d04416
   a skos:Concept ;
   skos:prefLabel "Complies with relevant legislation"@en ;
   skos:description "(TBD)"@en ;
@@ -1793,7 +1793,7 @@ trsp:att1042d04416
   skos:broader att.2847F75853 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att6c9fcd9125
+trsp:att.6c9fcd9125
   a skos:Concept ;
   skos:prefLabel "RIghts Policy"@en ;
   skos:description "A rights policy, indicating priinciples and provisions for the protection of a. relevant stakeholder rights."@en ;
@@ -1803,7 +1803,7 @@ trsp:att6c9fcd9125
   skos:broader att.3619EF1B84 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att390feb7218
+trsp:att.390feb7218
   a skos:Concept ;
   skos:prefLabel "Inventory of Managed Rights"@en ;
   skos:description "(TBD)"@en ;
@@ -1813,7 +1813,7 @@ trsp:att390feb7218
   skos:broader att.3619EF1B84 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att1bf23e39f5
+trsp:att.1bf23e39f5
   a skos:Concept ;
   skos:prefLabel "Submission/ Preferred Formats"@en ;
   skos:description "(TBD)"@en ;
@@ -1823,7 +1823,7 @@ trsp:att1bf23e39f5
   skos:broader att.1B94296BAD ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att3e1ca96845
+trsp:att.3e1ca96845
   a skos:Concept ;
   skos:prefLabel "Dissemination"@en ;
   skos:description "(TBD)"@en ;
@@ -1834,7 +1834,7 @@ trsp:att3e1ca96845
   skos:broader att.1B94296BAD ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att50e0581b3d
+trsp:att.50e0581b3d
   a skos:Concept ;
   skos:prefLabel "Archiving-Preservation"@en ;
   skos:description "Evidence provided how sustainable different file formats are for preservation, together with guidance on most appropriate formats for long-term preservation."@en ;
@@ -1845,7 +1845,7 @@ trsp:att50e0581b3d
   skos:broader att.1B94296BAD ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att236c15fea4
+trsp:att.236c15fea4
   a skos:Concept ;
   skos:prefLabel "FAIRiCAT URL"@en ;
   skos:description "(TBD)"@en ;
@@ -1855,7 +1855,7 @@ trsp:att236c15fea4
   skos:broader att.0B3D7477E7 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att3f76446066
+trsp:att.3f76446066
   a skos:Concept ;
   skos:prefLabel "Registry URL"@en ;
   skos:description "(TBD)"@en ;
@@ -1865,7 +1865,7 @@ trsp:att3f76446066
   skos:broader att.0B3D7477E7 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att3282bd1281
+trsp:att.3282bd1281
   a skos:Concept ;
   skos:prefLabel "Designated Community Definition"@en ;
   skos:description "(TBD)"@en ;
@@ -1876,7 +1876,7 @@ trsp:att3282bd1281
   skos:broader att.4BFD6FB9B3 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att4aee114a6b
+trsp:att.4aee114a6b
   a skos:Concept ;
   skos:prefLabel "Equitable Engagement"@en ;
   skos:description "(TBD)"@en ;
@@ -1886,7 +1886,7 @@ trsp:att4aee114a6b
   skos:broader att.4BFD6FB9B3 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att34d1282f11
+trsp:att.34d1282f11
   a skos:Concept ;
   skos:prefLabel "Spatial Coverage"@en ;
   skos:description "(TBD)"@en ;
@@ -1896,7 +1896,7 @@ trsp:att34d1282f11
   skos:broader att.64FDE59BAD ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att5d0e8069fc
+trsp:att.5d0e8069fc
   a skos:Concept ;
   skos:prefLabel "Temporal Coverage"@en ;
   skos:description "(TBD)"@en ;
@@ -1906,7 +1906,7 @@ trsp:att5d0e8069fc
   skos:broader att.64FDE59BAD ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att115beec616
+trsp:att.115beec616
   a skos:Concept ;
   skos:prefLabel "Community Coverage"@en ;
   skos:description "(TBD)"@en ;
@@ -1916,7 +1916,7 @@ trsp:att115beec616
   skos:broader att.64FDE59BAD ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att3b633179c5
+trsp:att.3b633179c5
   a skos:Concept ;
   skos:prefLabel "Disciplinary Coverage"@en ;
   skos:description "(TBD)"@en ;
@@ -1926,7 +1926,7 @@ trsp:att3b633179c5
   skos:broader att.64FDE59BAD ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att54317f78cb
+trsp:att.54317f78cb
   a skos:Concept ;
   skos:prefLabel "Object Coverage"@en ;
   skos:description "(TBD)"@en ;
@@ -1936,7 +1936,7 @@ trsp:att54317f78cb
   skos:broader att.64FDE59BAD ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att6a715e3a22
+trsp:att.6a715e3a22
   a skos:Concept ;
   skos:prefLabel "Repository Type"@en ;
   skos:description "(TBD)"@en ;
@@ -1949,7 +1949,7 @@ trsp:att6a715e3a22
   rdfs:seeAlso re3data:repositoryTypes_disciplinary ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att11e21ff2fc
+trsp:att.11e21ff2fc
   a skos:Concept ;
   skos:prefLabel "Repository Status"@en ;
   skos:description "(TBD)"@en ;
@@ -1959,7 +1959,7 @@ trsp:att11e21ff2fc
   skos:broader att.761C0FB70D ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att64da341b5f
+trsp:att.64da341b5f
   a skos:Concept ;
   skos:prefLabel "Repository Name"@en ;
   skos:description "(TBD)"@en ;
@@ -1969,7 +1969,7 @@ trsp:att64da341b5f
   skos:broader att.761C0FB70D ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att4570870110
+trsp:att.4570870110
   a skos:Concept ;
   skos:prefLabel "Country"@en ;
   skos:description "(TBD)"@en ;
@@ -1979,7 +1979,7 @@ trsp:att4570870110
   skos:broader att.761C0FB70D ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att0c1737084b
+trsp:att.0c1737084b
   a skos:Concept ;
   skos:prefLabel "Description"@en ;
   skos:description "(TBD)"@en ;
@@ -1989,7 +1989,7 @@ trsp:att0c1737084b
   skos:broader att.761C0FB70D ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att41f4454a97
+trsp:att.41f4454a97
   a skos:Concept ;
   skos:prefLabel "Organisation"@en ;
   skos:description "1 or more names, identifiers, and language indicators for the institutions and organisations hosting/ managing the repository."@en ;
@@ -1999,7 +1999,7 @@ trsp:att41f4454a97
   skos:broader att.761C0FB70D ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att48bf7e1522
+trsp:att.48bf7e1522
   a skos:Concept ;
   skos:prefLabel "Year of Commencement"@en ;
   skos:description "(TBD)"@en ;
@@ -2009,7 +2009,7 @@ trsp:att48bf7e1522
   skos:broader att.761C0FB70D ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att08f1f3fab7
+trsp:att.08f1f3fab7
   a skos:Concept ;
   skos:prefLabel "Research Area"@en ;
   skos:description "(TBD)"@en ;
@@ -2019,7 +2019,7 @@ trsp:att08f1f3fab7
   skos:broader att.761C0FB70D ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att291848cb10
+trsp:att.291848cb10
   a skos:Concept ;
   skos:prefLabel "Contact"@en ;
   skos:description "(TBD)"@en ;
@@ -2029,7 +2029,7 @@ trsp:att291848cb10
   skos:broader att.761C0FB70D ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att57c5a7579f
+trsp:att.57c5a7579f
   a skos:Concept ;
   skos:prefLabel "Language"@en ;
   skos:description "(TBD)"@en ;
@@ -2039,7 +2039,7 @@ trsp:att57c5a7579f
   skos:broader att.761C0FB70D ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att7470da5bba
+trsp:att.7470da5bba
   a skos:Concept ;
   skos:prefLabel "URL"@en ;
   skos:description "(TBD)"@en ;
@@ -2051,7 +2051,7 @@ trsp:att7470da5bba
   rdfs:seeAlso <https://schema.re3data.org/4-0#contentTypeIds_http%3A%2F%2Fpurl.org%2Fcoar%2Fresource_type%2Fc_ddb1> ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att698943c6a7
+trsp:att.698943c6a7
   a skos:Concept ;
   skos:prefLabel "Linked Resources"@en ;
   skos:description "(TBD)"@en ;
@@ -2061,7 +2061,7 @@ trsp:att698943c6a7
   skos:broader att.761C0FB70D ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att0ab11676b0
+trsp:att.0ab11676b0
   a skos:Concept ;
   skos:prefLabel "List of Catalogue(s)"@en ;
   skos:description "An API or other web resource that lists the available catalogues and their identifiers, if applicable."@en ;
@@ -2071,7 +2071,7 @@ trsp:att0ab11676b0
   skos:broader att.761C0FB70D ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att78cc017229
+trsp:att.78cc017229
   a skos:Concept ;
   skos:prefLabel "List of Endorsements"@en ;
   skos:description "A list of endorsements, with links to the applicable definition - ioncludes endorsement of sets of principles and frameworks."@en ;
@@ -2081,7 +2081,7 @@ trsp:att78cc017229
   skos:broader att.761C0FB70D ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att48e7481cdd
+trsp:att.48e7481cdd
   a skos:Concept ;
   skos:prefLabel "Administrative Capacity"@en ;
   skos:description "(TBD)"@en ;
@@ -2091,7 +2091,7 @@ trsp:att48e7481cdd
   skos:broader att.3E5F32A9E8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att2c32459481
+trsp:att.2c32459481
   a skos:Concept ;
   skos:prefLabel "Supported AAI Services"@en ;
   skos:description "(TBD)"@en ;
@@ -2101,7 +2101,7 @@ trsp:att2c32459481
   skos:broader att.3E5F32A9E8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att4234565a8d
+trsp:att.4234565a8d
   a skos:Concept ;
   skos:prefLabel "Supported Dataset Formats"@en ;
   skos:description "(TBD)"@en ;
@@ -2111,7 +2111,7 @@ trsp:att4234565a8d
   skos:broader att.3E5F32A9E8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att6c03ab58b8
+trsp:att.6c03ab58b8
   a skos:Concept ;
   skos:prefLabel "Supported Metadata Schema"@en ;
   skos:description "(TBD)"@en ;
@@ -2123,7 +2123,7 @@ trsp:att6c03ab58b8
   skos:broader att.3E5F32A9E8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att01924ad3a3
+trsp:att.01924ad3a3
   a skos:Concept ;
   skos:prefLabel "Supported Data/ Metadata Packages"@en ;
   skos:description "The information should cover: list of packaging standards supported, list of accepted/ preferred packaging standards; list of packaging standards the service or tools can export, the packaging standard(s) used internally, list of community-specific packaging standards supported"@en ;
@@ -2133,7 +2133,7 @@ trsp:att01924ad3a3
   skos:broader att.3E5F32A9E8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att167c47d292
+trsp:att.167c47d292
   a skos:Concept ;
   skos:prefLabel "Supported Standards"@en ;
   skos:description "A list, with supported evidence, of standards and specificaitons that the repositrory aligns with, conforms to, and implements."@en ;
@@ -2143,7 +2143,7 @@ trsp:att167c47d292
   skos:broader att.3E5F32A9E8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att543a727f84
+trsp:att.543a727f84
   a skos:Concept ;
   skos:prefLabel "Supported Licences"@en ;
   skos:description "(TBD)"@en ;
@@ -2153,7 +2153,7 @@ trsp:att543a727f84
   skos:broader att.3E5F32A9E8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att2f993b25ad
+trsp:att.2f993b25ad
   a skos:Concept ;
   skos:prefLabel "Supported Persistent Identifiers"@en ;
   skos:description "(TBD)"@en ;
@@ -2163,7 +2163,7 @@ trsp:att2f993b25ad
   skos:broader att.3E5F32A9E8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att6af56a372d
+trsp:att.6af56a372d
   a skos:Concept ;
   skos:prefLabel "Supported Vocabularies"@en ;
   skos:description "(TBD)"@en ;
@@ -2173,7 +2173,7 @@ trsp:att6af56a372d
   skos:broader att.3E5F32A9E8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att6eed29cae5
+trsp:att.6eed29cae5
   a skos:Concept ;
   skos:prefLabel "PID Resolution Support"@en ;
   skos:description "(TBD)"@en ;
@@ -2183,7 +2183,7 @@ trsp:att6eed29cae5
   skos:broader att.3E5F32A9E8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att6f05b292bd
+trsp:att.6f05b292bd
   a skos:Concept ;
   skos:prefLabel "Supports Signposting"@en ;
   skos:description "(TBD)"@en ;
@@ -2193,7 +2193,7 @@ trsp:att6f05b292bd
   skos:broader att.3E5F32A9E8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att6aa7258da9
+trsp:att.6aa7258da9
   a skos:Concept ;
   skos:prefLabel "Supports Embargoes"@en ;
   skos:description "(TBD)"@en ;
@@ -2203,7 +2203,7 @@ trsp:att6aa7258da9
   skos:broader att.3E5F32A9E8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att67e6c4912c
+trsp:att.67e6c4912c
   a skos:Concept ;
   skos:prefLabel "Supports Redaction/ Obfuscation"@en ;
   skos:description "(TBD)"@en ;
@@ -2213,7 +2213,7 @@ trsp:att67e6c4912c
   skos:broader att.3E5F32A9E8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att50239fc483
+trsp:att.50239fc483
   a skos:Concept ;
   skos:prefLabel "Supports Data Expiration"@en ;
   skos:description "(TBD)"@en ;
@@ -2223,7 +2223,7 @@ trsp:att50239fc483
   skos:broader att.3E5F32A9E8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att45ec53c288
+trsp:att.45ec53c288
   a skos:Concept ;
   skos:prefLabel "Metadata Schema Export Options"@en ;
   skos:description "(TBD)"@en ;
@@ -2233,7 +2233,7 @@ trsp:att45ec53c288
   skos:broader att.3E5F32A9E8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att32846cb4df
+trsp:att.32846cb4df
   a skos:Concept ;
   skos:prefLabel "Data Transformation Service(s) Available"@en ;
   skos:description "(TBD)"@en ;
@@ -2243,7 +2243,7 @@ trsp:att32846cb4df
   skos:broader att.3E5F32A9E8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att1a4192f248
+trsp:att.1a4192f248
   a skos:Concept ;
   skos:prefLabel "Linked Open Data Support"@en ;
   skos:description "(TBD)"@en ;
@@ -2253,7 +2253,7 @@ trsp:att1a4192f248
   skos:broader att.3E5F32A9E8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att5960a93a27
+trsp:att.5960a93a27
   a skos:Concept ;
   skos:prefLabel "Level of Licence Applicability"@en ;
   skos:description "(TBD)"@en ;
@@ -2263,7 +2263,7 @@ trsp:att5960a93a27
   skos:broader att.3E5F32A9E8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att4f90c51d4c
+trsp:att.4f90c51d4c
   a skos:Concept ;
   skos:prefLabel "Level of Curation"@en ;
   skos:description "(TBD)"@en ;
@@ -2273,7 +2273,7 @@ trsp:att4f90c51d4c
   skos:broader att.3E5F32A9E8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att6c673d59d2
+trsp:att.6c673d59d2
   a skos:Concept ;
   skos:prefLabel "Link to or Ingest External Metadata"@en ;
   skos:description "(TBD)"@en ;
@@ -2283,7 +2283,7 @@ trsp:att6c673d59d2
   skos:broader att.38DA273FCF ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att5214df9d16
+trsp:att.5214df9d16
   a skos:Concept ;
   skos:prefLabel "Pre-publication Peer Review"@en ;
   skos:description "(TBD)"@en ;
@@ -2293,7 +2293,7 @@ trsp:att5214df9d16
   skos:broader att.38DA273FCF ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att67d4ecb749
+trsp:att.67d4ecb749
   a skos:Concept ;
   skos:prefLabel "Named Entity Recognition Service"@en ;
   skos:description "(TBD)"@en ;
@@ -2303,7 +2303,7 @@ trsp:att67d4ecb749
   skos:broader att.4DCDBAD9B4 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att0563752c9f
+trsp:att.0563752c9f
   a skos:Concept ;
   skos:prefLabel "List of Curation Support Services"@en ;
   skos:description "(TBD)"@en ;
@@ -2313,7 +2313,7 @@ trsp:att0563752c9f
   skos:broader att.66C6612EA5 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att53947860b6
+trsp:att.53947860b6
   a skos:Concept ;
   skos:prefLabel "Provenance Approach Documented"@en ;
   skos:description "(TBD)"@en ;
@@ -2323,7 +2323,7 @@ trsp:att53947860b6
   skos:broader att.66C6612EA5 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att7feea35bff
+trsp:att.7feea35bff
   a skos:Concept ;
   skos:prefLabel "Versioning Process Documented"@en ;
   skos:description "(TBD)"@en ;
@@ -2333,7 +2333,7 @@ trsp:att7feea35bff
   skos:broader att.66C6612EA5 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att6eb55f36b2
+trsp:att.6eb55f36b2
   a skos:Concept ;
   skos:prefLabel "List of Preservation Support Services"@en ;
   skos:description "(TBD)"@en ;
@@ -2343,7 +2343,7 @@ trsp:att6eb55f36b2
   skos:broader att.156B52FB19 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att3da6c87583
+trsp:att.3da6c87583
   a skos:Concept ;
   skos:prefLabel "Timeframe is Defined"@en ;
   skos:description "(TBD)"@en ;
@@ -2353,7 +2353,7 @@ trsp:att3da6c87583
   skos:broader att.156B52FB19 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att08ab24d0f7
+trsp:att.08ab24d0f7
   a skos:Concept ;
   skos:prefLabel "Commitment is Defined"@en ;
   skos:description "(TBD)"@en ;
@@ -2363,7 +2363,7 @@ trsp:att08ab24d0f7
   skos:broader att.156B52FB19 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att0485c82a49
+trsp:att.0485c82a49
   a skos:Concept ;
   skos:prefLabel "Citation Export and Formatting Support"@en ;
   skos:description "(TBD)"@en ;
@@ -2373,7 +2373,7 @@ trsp:att0485c82a49
   skos:broader att.354E278D69 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att18ce7d92fa
+trsp:att.18ce7d92fa
   a skos:Concept ;
   skos:prefLabel "Standard Discovery API Supported"@en ;
   skos:description "Discovery is supported by an API with proper documentation"@en ;
@@ -2383,7 +2383,7 @@ trsp:att18ce7d92fa
   skos:broader att.540F680A1E ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att1669af8869
+trsp:att.1669af8869
   a skos:Concept ;
   skos:prefLabel "Supported Metadata Export Schema"@en ;
   skos:description "(TBD)"@en ;
@@ -2393,7 +2393,7 @@ trsp:att1669af8869
   skos:broader att.540F680A1E ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att374f095e69
+trsp:att.374f095e69
   a skos:Concept ;
   skos:prefLabel "Level of Indexing Granularity"@en ;
   skos:description "(TBD)"@en ;
@@ -2403,7 +2403,7 @@ trsp:att374f095e69
   skos:broader att.540F680A1E ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att0cef99a2d6
+trsp:att.0cef99a2d6
   a skos:Concept ;
   skos:prefLabel "Frequency of Indexing"@en ;
   skos:description "(TBD)"@en ;
@@ -2413,7 +2413,7 @@ trsp:att0cef99a2d6
   skos:broader att.540F680A1E ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att283d0eb595
+trsp:att.283d0eb595
   a skos:Concept ;
   skos:prefLabel "Indexing Specification or Standard"@en ;
   skos:description "(TBD)"@en ;
@@ -2423,7 +2423,7 @@ trsp:att283d0eb595
   skos:broader att.540F680A1E ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att754bcac5a8
+trsp:att.754bcac5a8
   a skos:Concept ;
   skos:prefLabel "Object-Level Metadata API"@en ;
   skos:description "(TBD)"@en ;
@@ -2433,7 +2433,7 @@ trsp:att754bcac5a8
   skos:broader att.67DE43D8DF ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att31600cb8d6
+trsp:att.31600cb8d6
   a skos:Concept ;
   skos:prefLabel "File-Level Metadata API"@en ;
   skos:description "(TBD)"@en ;
@@ -2443,7 +2443,7 @@ trsp:att31600cb8d6
   skos:broader att.540F680A1E ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att601eaf4625
+trsp:att.601eaf4625
   a skos:Concept ;
   skos:prefLabel "Depositor Contact Information Available"@en ;
   skos:description "(TBD)"@en ;
@@ -2453,7 +2453,7 @@ trsp:att601eaf4625
   skos:broader att.540F680A1E ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att3b49f36f75
+trsp:att.3b49f36f75
   a skos:Concept ;
   skos:prefLabel "Metadata Crosswalks Supported"@en ;
   skos:description "(TBD)"@en ;
@@ -2463,7 +2463,7 @@ trsp:att3b49f36f75
   skos:broader att.50DA0AA84E ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att0fab8d7e65
+trsp:att.0fab8d7e65
   a skos:Concept ;
   skos:prefLabel "Crosswalk Documentation Provided"@en ;
   skos:description "Documentation exist for the service used to translate, transform and/or mediate between different metadata and data formats. (Package structures, file formats, metadata standards)"@en ;
@@ -2473,7 +2473,7 @@ trsp:att0fab8d7e65
   skos:broader att.50DA0AA84E ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att2141ff7751
+trsp:att.2141ff7751
   a skos:Concept ;
   skos:prefLabel "Flexible Serialisation of AIPs"@en ;
   skos:description "API serialisation methods are supported, and the technical standards and specifications followed for all aspects of serialising and packaging an AIP are described."@en ;
@@ -2483,7 +2483,7 @@ trsp:att2141ff7751
   skos:broader att.50DA0AA84E ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att6a439a6743
+trsp:att.6a439a6743
   a skos:Concept ;
   skos:prefLabel "File Type Conversion Services"@en ;
   skos:description "(TBD)"@en ;
@@ -2493,7 +2493,7 @@ trsp:att6a439a6743
   skos:broader att.50DA0AA84E ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att6ca1a54238
+trsp:att.6ca1a54238
   a skos:Concept ;
   skos:prefLabel "Package Crosswalks Supported"@en ;
   skos:description "Supports access to and exchange of its AIPs using a defined protocol and set of APIs, which are listed in human-and machine-readable formats."@en ;
@@ -2503,7 +2503,7 @@ trsp:att6ca1a54238
   skos:broader att.50DA0AA84E ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att699f35cdbc
+trsp:att.699f35cdbc
   a skos:Concept ;
   skos:prefLabel "Quality-Assured Crosswalks"@en ;
   skos:description "(TBD)"@en ;
@@ -2513,7 +2513,7 @@ trsp:att699f35cdbc
   skos:broader att.50DA0AA84E ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att0ecee93cf8
+trsp:att.0ecee93cf8
   a skos:Concept ;
   skos:prefLabel "Supports Semantic Annotation"@en ;
   skos:description "(TBD)"@en ;
@@ -2523,7 +2523,7 @@ trsp:att0ecee93cf8
   skos:broader att.70C4C7B218 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att7abef7eca8
+trsp:att.7abef7eca8
   a skos:Concept ;
   skos:prefLabel "Semantic Annotation Tools/ Services Supported"@en ;
   skos:description "(TBD)"@en ;
@@ -2533,7 +2533,7 @@ trsp:att7abef7eca8
   skos:broader att.110C424081 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att2e92627e37
+trsp:att.2e92627e37
   a skos:Concept ;
   skos:prefLabel "Advisory or Consulting Services Offered"@en ;
   skos:description "(TBD)"@en ;
@@ -2543,7 +2543,7 @@ trsp:att2e92627e37
   skos:broader att.0674156B7E ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att360e4f3f7f
+trsp:att.360e4f3f7f
   a skos:Concept ;
   skos:prefLabel "Interoperability Policy and Planning"@en ;
   skos:description "A policy that defines cosiderations, drivers, and standards that informs an interoperability policy, the policy itself, and implementation planning."@en ;
@@ -2553,7 +2553,7 @@ trsp:att360e4f3f7f
   skos:broader att.696B580E35 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att0c3db9bfaa
+trsp:att.0c3db9bfaa
   a skos:Concept ;
   skos:prefLabel "Interoperability Procedures"@en ;
   skos:description "Documented procedures to ensure that the interoperability policy and planning is implemented."@en ;
@@ -2563,7 +2563,7 @@ trsp:att0c3db9bfaa
   skos:broader att.696B580E35 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att630826a6c1
+trsp:att.630826a6c1
   a skos:Concept ;
   skos:prefLabel "Documentation on legal interoperability considerations and provisions"@en ;
   skos:description "(TBD)"@en ;
@@ -2573,7 +2573,7 @@ trsp:att630826a6c1
   skos:broader att.15DBB60AC2 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att2d56594874
+trsp:att.2d56594874
   a skos:Concept ;
   skos:prefLabel "Documentation on semantic interoperability provisions"@en ;
   skos:description "(TBD)"@en ;
@@ -2583,7 +2583,7 @@ trsp:att2d56594874
   skos:broader att.09C8CBE4DE ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att59b6e7fb7c
+trsp:att.59b6e7fb7c
   a skos:Concept ;
   skos:prefLabel "Documentation on technical interoperability provisions"@en ;
   skos:description "(TBD)"@en ;
@@ -2593,7 +2593,7 @@ trsp:att59b6e7fb7c
   skos:broader att.71A5D27D84 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att33fa4a6bf2
+trsp:att.33fa4a6bf2
   a skos:Concept ;
   skos:prefLabel "Support for Bagit Specifications"@en ;
   skos:description "(TBD)"@en ;
@@ -2603,7 +2603,7 @@ trsp:att33fa4a6bf2
   skos:broader att.39ED69C36B ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att741da00695
+trsp:att.741da00695
   a skos:Concept ;
   skos:prefLabel "Support for RO-Crate Specifications"@en ;
   skos:description "(TBD)"@en ;
@@ -2613,7 +2613,7 @@ trsp:att741da00695
   skos:broader att.39ED69C36B ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att7d09257304
+trsp:att.7d09257304
   a skos:Concept ;
   skos:prefLabel "Reuse Provisions"@en ;
   skos:description "A checklist, with evidence, of measures designed to assist end users with reuse of the data."@en ;
@@ -2623,7 +2623,7 @@ trsp:att7d09257304
   skos:broader att.7362D6D981 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att7f80554d90
+trsp:att.7f80554d90
   a skos:Concept ;
   skos:prefLabel "Clear Licence Provisions"@en ;
   skos:description "(TBD)"@en ;
@@ -2633,7 +2633,7 @@ trsp:att7f80554d90
   skos:broader att.67DE43D8DF ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att1a78609f7e
+trsp:att.1a78609f7e
   a skos:Concept ;
   skos:prefLabel "Provenance is recorded at object level"@en ;
   skos:description "(TBD)"@en ;
@@ -2643,7 +2643,7 @@ trsp:att1a78609f7e
   skos:broader att.5E44673C02 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att2fcc26efc0
+trsp:att.2fcc26efc0
   a skos:Concept ;
   skos:prefLabel "Description of Reliability Measures"@en ;
   skos:description "(TBD)"@en ;
@@ -2653,7 +2653,7 @@ trsp:att2fcc26efc0
   skos:broader att.6A837D5A94 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att2090660301
+trsp:att.2090660301
   a skos:Concept ;
   skos:prefLabel "Uptime"@en ;
   skos:description "(TBD)"@en ;
@@ -2663,7 +2663,7 @@ trsp:att2090660301
   skos:broader att.72CBE64ACC ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att455fb4a066
+trsp:att.455fb4a066
   a skos:Concept ;
   skos:prefLabel "Accessibility Rating"@en ;
   skos:description "(TBD)"@en ;
@@ -2673,7 +2673,7 @@ trsp:att455fb4a066
   skos:broader att.0ED3D624B3 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att42a3d7a518
+trsp:att.42a3d7a518
   a skos:Concept ;
   skos:prefLabel "Metadata"@en ;
   skos:description "(TBD)"@en ;
@@ -2689,7 +2689,7 @@ trsp:att42a3d7a518
   rdfs:seeAlso fair:F2 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att60f7491b6a
+trsp:att.60f7491b6a
   a skos:Concept ;
   skos:prefLabel "Websites and Services"@en ;
   skos:description "(TBD)"@en ;
@@ -2699,7 +2699,7 @@ trsp:att60f7491b6a
   skos:broader att.70DECA9F26 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att211f98fa33
+trsp:att.211f98fa33
   a skos:Concept ;
   skos:prefLabel "Vocabularies and Thesauri"@en ;
   skos:description "(TBD)"@en ;
@@ -2709,7 +2709,7 @@ trsp:att211f98fa33
   skos:broader att.70DECA9F26 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att78a504b99f
+trsp:att.78a504b99f
   a skos:Concept ;
   skos:prefLabel "Language Support Scope and Documentation"@en ;
   skos:description "(TBD)"@en ;
@@ -2719,7 +2719,7 @@ trsp:att78a504b99f
   skos:broader att.70DECA9F26 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att181f35e46a
+trsp:att.181f35e46a
   a skos:Concept ;
   skos:prefLabel "Published Security and Integrity Measures"@en ;
   skos:description "(TBD)"@en ;
@@ -2730,7 +2730,7 @@ trsp:att181f35e46a
   skos:broader att.1AE2618C36 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att337c35222e
+trsp:att.337c35222e
   a skos:Concept ;
   skos:prefLabel "Standardised AAI"@en ;
   skos:description "(TBD)"@en ;
@@ -2740,7 +2740,7 @@ trsp:att337c35222e
   skos:broader att.1AE2618C36 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att178c46c3f1
+trsp:att.178c46c3f1
   a skos:Concept ;
   skos:prefLabel "Active Threat Monitoring in Place"@en ;
   skos:description "(TBD)"@en ;
@@ -2750,7 +2750,7 @@ trsp:att178c46c3f1
   skos:broader att.1AE2618C36 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att1db0a6f7db
+trsp:att.1db0a6f7db
   a skos:Concept ;
   skos:prefLabel "Locality of Data Storage and Archiving"@en ;
   skos:description "(TBD)"@en ;
@@ -2760,7 +2760,7 @@ trsp:att1db0a6f7db
   skos:broader att.6F82B396BD ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att075738c8df
+trsp:att.075738c8df
   a skos:Concept ;
   skos:prefLabel "Documented Measures for Backup, Replication, and Restoration"@en ;
   skos:description "Measures to maintain physical object integrity and availability, including verified replication and backup/ restore provisions."@en ;
@@ -2770,7 +2770,7 @@ trsp:att075738c8df
   skos:broader att.5EFDB0D148 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att2c0457e919
+trsp:att.2c0457e919
   a skos:Concept ;
   skos:prefLabel "List of Certifications: RDM"@en ;
   skos:description "(TBD)"@en ;
@@ -2780,7 +2780,7 @@ trsp:att2c0457e919
   skos:broader att.22F180559A ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att133fbdb8c2
+trsp:att.133fbdb8c2
   a skos:Concept ;
   skos:prefLabel "List of Certifications: Software Quality"@en ;
   skos:description "(TBD)"@en ;
@@ -2790,7 +2790,7 @@ trsp:att133fbdb8c2
   skos:broader att.1593E1AE08 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att067b4c3677
+trsp:att.067b4c3677
   a skos:Concept ;
   skos:prefLabel "Software Development Guidelines and Procedures"@en ;
   skos:description "Measures to ensure a minimum competeness, documentation, and techmology readiness for software development."@en ;
@@ -2800,7 +2800,7 @@ trsp:att067b4c3677
   skos:broader att.1593E1AE08 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att1bfd0d011d
+trsp:att.1bfd0d011d
   a skos:Concept ;
   skos:prefLabel "List of Certifications: Process"@en ;
   skos:description "(TBD)"@en ;
@@ -2810,7 +2810,7 @@ trsp:att1bfd0d011d
   skos:broader att.7F2AF694BC ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att16021e265c
+trsp:att.16021e265c
   a skos:Concept ;
   skos:prefLabel "List of Certifications: Quality and Security"@en ;
   skos:description "(TBD)"@en ;
@@ -2821,7 +2821,7 @@ trsp:att16021e265c
   skos:broader att.6FB4481988 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att19af20660a
+trsp:att.19af20660a
   a skos:Concept ;
   skos:prefLabel "Documented and Published"@en ;
   skos:description "(TBD)"@en ;
@@ -2831,7 +2831,7 @@ trsp:att19af20660a
   skos:broader att.1DB4B1E4F0 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att08417eddfc
+trsp:att.08417eddfc
   a skos:Concept ;
   skos:prefLabel "Contact Point is Maintained"@en ;
   skos:description "(TBD)"@en ;
@@ -2841,7 +2841,7 @@ trsp:att08417eddfc
   skos:broader att.1DB4B1E4F0 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att4813acf624
+trsp:att.4813acf624
   a skos:Concept ;
   skos:prefLabel "Changes are Tracked"@en ;
   skos:description "(TBD)"@en ;
@@ -2851,7 +2851,7 @@ trsp:att4813acf624
   skos:broader att.1DB4B1E4F0 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att2da1c98050
+trsp:att.2da1c98050
   a skos:Concept ;
   skos:prefLabel "Service Metdata Available"@en ;
   skos:description "(TBD)"@en ;
@@ -2861,7 +2861,7 @@ trsp:att2da1c98050
   skos:broader att.1DB4B1E4F0 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att32048a7179
+trsp:att.32048a7179
   a skos:Concept ;
   skos:prefLabel "Verified and Documented"@en ;
   skos:description "(TBD)"@en ;
@@ -2871,7 +2871,7 @@ trsp:att32048a7179
   skos:broader att.3720038519 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att693f62f485
+trsp:att.693f62f485
   a skos:Concept ;
   skos:prefLabel "Availability Monitoring"@en ;
   skos:description "(TBD)"@en ;
@@ -2881,7 +2881,7 @@ trsp:att693f62f485
   skos:broader att.3720038519 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att0ef898b591
+trsp:att.0ef898b591
   a skos:Concept ;
   skos:prefLabel "Large File Transport Support"@en ;
   skos:description "(TBD)"@en ;
@@ -2891,7 +2891,7 @@ trsp:att0ef898b591
   skos:broader att.5ABD0E52C7 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att79c13fd633
+trsp:att.79c13fd633
   a skos:Concept ;
   skos:prefLabel "Tape Storage Support"@en ;
   skos:description "(TBD)"@en ;
@@ -2901,7 +2901,7 @@ trsp:att79c13fd633
   skos:broader att.5ABD0E52C7 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att2f5b9b4823
+trsp:att.2f5b9b4823
   a skos:Concept ;
   skos:prefLabel "Automated Retrieval from Tape"@en ;
   skos:description "(TBD)"@en ;
@@ -2911,7 +2911,7 @@ trsp:att2f5b9b4823
   skos:broader att.5ABD0E52C7 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att4c6a46fb4c
+trsp:att.4c6a46fb4c
   a skos:Concept ;
   skos:prefLabel "Service Maturity Assessment"@en ;
   skos:description "(TBD)"@en ;
@@ -2922,7 +2922,7 @@ trsp:att4c6a46fb4c
   skos:broader att.3219437E8F ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att09bfa24214
+trsp:att.09bfa24214
   a skos:Concept ;
   skos:prefLabel "Formal Testing in Place"@en ;
   skos:description "(TBD)"@en ;
@@ -2932,7 +2932,7 @@ trsp:att09bfa24214
   skos:broader att.3219437E8F ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att1adeec1d3a
+trsp:att.1adeec1d3a
   a skos:Concept ;
   skos:prefLabel "Frequency of Formal Testing"@en ;
   skos:description "(TBD)"@en ;
@@ -2942,7 +2942,7 @@ trsp:att1adeec1d3a
   skos:broader att.3219437E8F ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att64e3e49e89
+trsp:att.64e3e49e89
   a skos:Concept ;
   skos:prefLabel "Conformance Testing Tool(s)"@en ;
   skos:description "(TBD)"@en ;
@@ -2952,7 +2952,7 @@ trsp:att64e3e49e89
   skos:broader att.3219437E8F ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att3a2655abb6
+trsp:att.3a2655abb6
   a skos:Concept ;
   skos:prefLabel "Test Results Published"@en ;
   skos:description "(TBD)"@en ;
@@ -2962,7 +2962,7 @@ trsp:att3a2655abb6
   skos:broader att.3219437E8F ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att5247a27418
+trsp:att.5247a27418
   a skos:Concept ;
   skos:prefLabel "Confirmation of Open Source Stack"@en ;
   skos:description "(TBD)"@en ;
@@ -2973,7 +2973,7 @@ trsp:att5247a27418
   skos:broader att.7592D43F0B ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att2363f099d9
+trsp:att.2363f099d9
   a skos:Concept ;
   skos:prefLabel "Community Contributions"@en ;
   skos:description "(TBD)"@en ;
@@ -2983,7 +2983,7 @@ trsp:att2363f099d9
   skos:broader att.7592D43F0B ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att6d8778c1be
+trsp:att.6d8778c1be
   a skos:Concept ;
   skos:prefLabel "Re-establishment of service elsewhere"@en ;
   skos:description "(TBD)"@en ;
@@ -2994,7 +2994,7 @@ trsp:att6d8778c1be
   skos:broader att.7592D43F0B ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att17b2a92ec9
+trsp:att.17b2a92ec9
   a skos:Concept ;
   skos:prefLabel "List of Third Party Services"@en ;
   skos:description "(TBD)"@en ;
@@ -3004,7 +3004,7 @@ trsp:att17b2a92ec9
   skos:broader att.21F3C82F8B ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att13fe6ddd8e
+trsp:att.13fe6ddd8e
   a skos:Concept ;
   skos:prefLabel "Third Party Service Level Agreements"@en ;
   skos:description "(TBD)"@en ;
@@ -3014,7 +3014,7 @@ trsp:att13fe6ddd8e
   skos:broader att.21F3C82F8B ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att545686d0f9
+trsp:att.545686d0f9
   a skos:Concept ;
   skos:prefLabel "Median Time To Publication"@en ;
   skos:description "(TBD)"@en ;
@@ -3024,7 +3024,7 @@ trsp:att545686d0f9
   skos:broader att.1BF97AE324 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att136965b228
+trsp:att.136965b228
   a skos:Concept ;
   skos:prefLabel "Median Time to PID"@en ;
   skos:description "(TBD)"@en ;
@@ -3034,7 +3034,7 @@ trsp:att136965b228
   skos:broader att.1BF97AE324 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att668c5369a6
+trsp:att.668c5369a6
   a skos:Concept ;
   skos:prefLabel "File Size"@en ;
   skos:description "(TBD)"@en ;
@@ -3044,7 +3044,7 @@ trsp:att668c5369a6
   skos:broader att.7F7C2776AC ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att4448343779
+trsp:att.4448343779
   a skos:Concept ;
   skos:prefLabel "Number of Files"@en ;
   skos:description "(TBD)"@en ;
@@ -3054,7 +3054,7 @@ trsp:att4448343779
   skos:broader att.7F7C2776AC ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att1998cd6b88
+trsp:att.1998cd6b88
   a skos:Concept ;
   skos:prefLabel "Dataset Size"@en ;
   skos:description "(TBD)"@en ;
@@ -3064,7 +3064,7 @@ trsp:att1998cd6b88
   skos:broader att.7F7C2776AC ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att0c85a9c228
+trsp:att.0c85a9c228
   a skos:Concept ;
   skos:prefLabel "Storage Type"@en ;
   skos:description "(TBD)"@en ;
@@ -3075,7 +3075,7 @@ trsp:att0c85a9c228
   skos:broader att.7F7C2776AC ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att3b8fd2cb5f
+trsp:att.3b8fd2cb5f
   a skos:Concept ;
   skos:prefLabel "File Format Guidance"@en ;
   skos:description "(TBD)"@en ;
@@ -3085,7 +3085,7 @@ trsp:att3b8fd2cb5f
   skos:broader att.7F7C2776AC ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att49cd2c1e51
+trsp:att.49cd2c1e51
   a skos:Concept ;
   skos:prefLabel "Quality"@en ;
   skos:description "(TBD)"@en ;
@@ -3095,7 +3095,7 @@ trsp:att49cd2c1e51
   skos:broader att.1095E8CF4A ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att5baf2cf9aa
+trsp:att.5baf2cf9aa
   a skos:Concept ;
   skos:prefLabel "Information Management"@en ;
   skos:description "(TBD)"@en ;
@@ -3105,7 +3105,7 @@ trsp:att5baf2cf9aa
   skos:broader att.1095E8CF4A ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att5086bafce4
+trsp:att.5086bafce4
   a skos:Concept ;
   skos:prefLabel "KPI-based monitoring"@en ;
   skos:description "Business informatics: extent to which strategic objectives and service KPIs are being achieved."@en ;
@@ -3115,7 +3115,7 @@ trsp:att5086bafce4
   skos:broader att.1095E8CF4A ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att72b1425184
+trsp:att.72b1425184
   a skos:Concept ;
   skos:prefLabel "Volume"@en ;
   skos:description "(TBD)"@en ;
@@ -3125,7 +3125,7 @@ trsp:att72b1425184
   skos:broader att.57326A13EB ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att4c9b7d2697
+trsp:att.4c9b7d2697
   a skos:Concept ;
   skos:prefLabel "Velocity/ Throughput"@en ;
   skos:description "(TBD)"@en ;
@@ -3135,7 +3135,7 @@ trsp:att4c9b7d2697
   skos:broader att.57326A13EB ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att2307b62bcb
+trsp:att.2307b62bcb
   a skos:Concept ;
   skos:prefLabel "Rate Limits"@en ;
   skos:description "(TBD)"@en ;
@@ -3145,7 +3145,7 @@ trsp:att2307b62bcb
   skos:broader att.72CBE64ACC ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att1b5925483c
+trsp:att.1b5925483c
   a skos:Concept ;
   skos:prefLabel "Budget and Projections"@en ;
   skos:description "Financial planning, budgets, and projections"@en ;
@@ -3155,7 +3155,7 @@ trsp:att1b5925483c
   skos:broader att.0DA8E81794 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att0476ced680
+trsp:att.0476ced680
   a skos:Concept ;
   skos:prefLabel "Annual Capital Costs"@en ;
   skos:description "(TBD)"@en ;
@@ -3165,7 +3165,7 @@ trsp:att0476ced680
   skos:broader att.4840647866 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att3d29a751bd
+trsp:att.3d29a751bd
   a skos:Concept ;
   skos:prefLabel "Personnel"@en ;
   skos:description "(TBD)"@en ;
@@ -3175,7 +3175,7 @@ trsp:att3d29a751bd
   skos:broader att.5FFCEEB1F9 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att6ab2c75c20
+trsp:att.6ab2c75c20
   a skos:Concept ;
   skos:prefLabel "Overhead"@en ;
   skos:description "(TBD)"@en ;
@@ -3185,7 +3185,7 @@ trsp:att6ab2c75c20
   skos:broader att.5FFCEEB1F9 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att52fdc90aa3
+trsp:att.52fdc90aa3
   a skos:Concept ;
   skos:prefLabel "Surplus/ Grants"@en ;
   skos:description "Inventory of projects/ grants and their contribution to R&D"@en ;
@@ -3195,7 +3195,7 @@ trsp:att52fdc90aa3
   skos:broader att.6D12041533 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att0b461e5444
+trsp:att.0b461e5444
   a skos:Concept ;
   skos:prefLabel "Other Capital Expenses"@en ;
   skos:description "(TBD)"@en ;
@@ -3205,7 +3205,7 @@ trsp:att0b461e5444
   skos:broader att.650BA75F4F ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att75e7733432
+trsp:att.75e7733432
   a skos:Concept ;
   skos:prefLabel "Annual Storage Costs"@en ;
   skos:description "(TBD)"@en ;
@@ -3215,7 +3215,7 @@ trsp:att75e7733432
   skos:broader att.4840647866 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att3ac5f76f9d
+trsp:att.3ac5f76f9d
   a skos:Concept ;
   skos:prefLabel "Annual Compute Costs"@en ;
   skos:description "(TBD)"@en ;
@@ -3225,7 +3225,7 @@ trsp:att3ac5f76f9d
   skos:broader att.4840647866 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att0178b70a6a
+trsp:att.0178b70a6a
   a skos:Concept ;
   skos:prefLabel "Annual Application Server Costs"@en ;
   skos:description "(TBD)"@en ;
@@ -3235,7 +3235,7 @@ trsp:att0178b70a6a
   skos:broader att.4840647866 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att6fb6a7610e
+trsp:att.6fb6a7610e
   a skos:Concept ;
   skos:prefLabel "Annual Networking Costs"@en ;
   skos:description "(TBD)"@en ;
@@ -3245,7 +3245,7 @@ trsp:att6fb6a7610e
   skos:broader att.4840647866 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att7637ba7a1d
+trsp:att.7637ba7a1d
   a skos:Concept ;
   skos:prefLabel "Permanent Employee Costs"@en ;
   skos:description "(TBD)"@en ;
@@ -3255,7 +3255,7 @@ trsp:att7637ba7a1d
   skos:broader att.66003293B3 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att7e7029c120
+trsp:att.7e7029c120
   a skos:Concept ;
   skos:prefLabel "Contract Employee Costs"@en ;
   skos:description "(TBD)"@en ;
@@ -3265,7 +3265,7 @@ trsp:att7e7029c120
   skos:broader att.66003293B3 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att1385883981
+trsp:att.1385883981
   a skos:Concept ;
   skos:prefLabel "Annual Physical Infrastucture Costs"@en ;
   skos:description "(TBD)"@en ;
@@ -3275,7 +3275,7 @@ trsp:att1385883981
   skos:broader att.4A04909C47 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att47ffca6bd2
+trsp:att.47ffca6bd2
   a skos:Concept ;
   skos:prefLabel "Licence Fees"@en ;
   skos:description "(TBD)"@en ;
@@ -3285,7 +3285,7 @@ trsp:att47ffca6bd2
   skos:broader att.650BA75F4F ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att0ca397887f
+trsp:att.0ca397887f
   a skos:Concept ;
   skos:prefLabel "Memberships and Subscriptions"@en ;
   skos:description "(TBD)"@en ;
@@ -3295,7 +3295,7 @@ trsp:att0ca397887f
   skos:broader att.650BA75F4F ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att4c80663041
+trsp:att.4c80663041
   a skos:Concept ;
   skos:prefLabel "Contingency Provision/ Reserves"@en ;
   skos:description "(TBD)"@en ;
@@ -3305,7 +3305,7 @@ trsp:att4c80663041
   skos:broader att.650BA75F4F ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att055d3c1243
+trsp:att.055d3c1243
   a skos:Concept ;
   skos:prefLabel "Income Statement by Source"@en ;
   skos:description "(TBD)"@en ;
@@ -3315,7 +3315,7 @@ trsp:att055d3c1243
   skos:broader att.650BA75F4F ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att0062b8b2c5
+trsp:att.0062b8b2c5
   a skos:Concept ;
   skos:prefLabel "User surveys"@en ;
   skos:description "(TBD)"@en ;
@@ -3327,7 +3327,7 @@ trsp:att0062b8b2c5
   skos:broader att.6FB10117A8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att319bc310d5
+trsp:att.319bc310d5
   a skos:Concept ;
   skos:prefLabel "Roadmaps"@en ;
   skos:description "Technology statement, planning, and roadmaps for implementation"@en ;
@@ -3337,7 +3337,7 @@ trsp:att319bc310d5
   skos:broader att.6FB10117A8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att368f99a5f7
+trsp:att.368f99a5f7
   a skos:Concept ;
   skos:prefLabel "Stakeholder Involvement"@en ;
   skos:description "(TBD)"@en ;
@@ -3349,7 +3349,7 @@ trsp:att368f99a5f7
   skos:broader att.6FB10117A8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att675434df2b
+trsp:att.675434df2b
   a skos:Concept ;
   skos:prefLabel "Training Offered"@en ;
   skos:description "Training offered to depositors, end users, stewards, internal staff, and other stakeholder groups in respect of own serviecs and improved research data management."@en ;
@@ -3359,7 +3359,7 @@ trsp:att675434df2b
   skos:broader att.6FB10117A8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att27198d2c3b
+trsp:att.27198d2c3b
   a skos:Concept ;
   skos:prefLabel "Guidance on Repository Selection"@en ;
   skos:description "(TBD)"@en ;
@@ -3369,7 +3369,7 @@ trsp:att27198d2c3b
   skos:broader att.06D09133AE ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att7f192dc5ff
+trsp:att.7f192dc5ff
   a skos:Concept ;
   skos:prefLabel "Community Metadata Schema Recommendations"@en ;
   skos:description "(TBD)"@en ;
@@ -3379,7 +3379,7 @@ trsp:att7f192dc5ff
   skos:broader att.74FDFB3E00 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att353453c585
+trsp:att.353453c585
   a skos:Concept ;
   skos:prefLabel "Documentation on Profiles"@en ;
   skos:description "(TBD)"@en ;
@@ -3389,7 +3389,7 @@ trsp:att353453c585
   skos:broader att.74FDFB3E00 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att5bdcfb83b0
+trsp:att.5bdcfb83b0
   a skos:Concept ;
   skos:prefLabel "Profiles are Registered"@en ;
   skos:description "(TBD)"@en ;
@@ -3399,7 +3399,7 @@ trsp:att5bdcfb83b0
   skos:broader att.74FDFB3E00 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att568d8c8984
+trsp:att.568d8c8984
   a skos:Concept ;
   skos:prefLabel "Profiles are Extensible"@en ;
   skos:description "(TBD)"@en ;
@@ -3409,7 +3409,7 @@ trsp:att568d8c8984
   skos:broader att.74FDFB3E00 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att14eec67ec3
+trsp:att.14eec67ec3
   a skos:Concept ;
   skos:prefLabel "Supported FAIR Implementation Profiles"@en ;
   skos:description "(TBD)"@en ;
@@ -3419,7 +3419,7 @@ trsp:att14eec67ec3
   skos:broader att.74FDFB3E00 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att5e50766d16
+trsp:att.5e50766d16
   a skos:Concept ;
   skos:prefLabel "Link to DMP"@en ;
   skos:description "(TBD)"@en ;
@@ -3429,7 +3429,7 @@ trsp:att5e50766d16
   skos:broader att.48B32FB000 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att1aaa70fb51
+trsp:att.1aaa70fb51
   a skos:Concept ;
   skos:prefLabel "Link to RO-Crate"@en ;
   skos:description "(TBD)"@en ;
@@ -3439,7 +3439,7 @@ trsp:att1aaa70fb51
   skos:broader att.48B32FB000 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att3c89a4df3f
+trsp:att.3c89a4df3f
   a skos:Concept ;
   skos:prefLabel "Per Object"@en ;
   skos:description "(TBD)"@en ;
@@ -3449,7 +3449,7 @@ trsp:att3c89a4df3f
   skos:broader att.176CC246A8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att4673784806
+trsp:att.4673784806
   a skos:Concept ;
   skos:prefLabel "Per Collection"@en ;
   skos:description "(TBD)"@en ;
@@ -3459,7 +3459,7 @@ trsp:att4673784806
   skos:broader att.2687A2F0B8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att74778c177c
+trsp:att.74778c177c
   a skos:Concept ;
   skos:prefLabel "Per Repository/ Catalogue"@en ;
   skos:description "(TBD)"@en ;
@@ -3469,7 +3469,7 @@ trsp:att74778c177c
   skos:broader att.2687A2F0B8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att16ab115add
+trsp:att.16ab115add
   a skos:Concept ;
   skos:prefLabel "Per Institution"@en ;
   skos:description "(TBD)"@en ;
@@ -3479,7 +3479,7 @@ trsp:att16ab115add
   skos:broader att.2687A2F0B8 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att57d4bd2121
+trsp:att.57d4bd2121
   a skos:Concept ;
   skos:prefLabel "Format guidance documentation"@en ;
   skos:description "(TBD)"@en ;
@@ -3490,7 +3490,7 @@ trsp:att57d4bd2121
   skos:broader att.3F6736BF1C ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att435f7d1b94
+trsp:att.435f7d1b94
   a skos:Concept ;
   skos:prefLabel "Format Guidance API"@en ;
   skos:description "(TBD)"@en ;
@@ -3500,7 +3500,7 @@ trsp:att435f7d1b94
   skos:broader att.3F6736BF1C ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att45e4291e97
+trsp:att.45e4291e97
   a skos:Concept ;
   skos:prefLabel "Format Guidance Granularity"@en ;
   skos:description "(TBD)"@en ;
@@ -3510,7 +3510,7 @@ trsp:att45e4291e97
   skos:broader att.3F6736BF1C ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att5b6f52b2cf
+trsp:att.5b6f52b2cf
   a skos:Concept ;
   skos:prefLabel "Licence Selection Guidance"@en ;
   skos:description "(TBD)"@en ;
@@ -3520,7 +3520,7 @@ trsp:att5b6f52b2cf
   skos:broader att.7C3A4C601F ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att207398d3a8
+trsp:att.207398d3a8
   a skos:Concept ;
   skos:prefLabel "Human-readable API documentation available"@en ;
   skos:description "(TBD)"@en ;
@@ -3530,7 +3530,7 @@ trsp:att207398d3a8
   skos:broader att.394D659C0C ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att1f40bc420b
+trsp:att.1f40bc420b
   a skos:Concept ;
   skos:prefLabel "Machine-readable API documentation available"@en ;
   skos:description "(TBD)"@en ;
@@ -3540,7 +3540,7 @@ trsp:att1f40bc420b
   skos:broader att.394D659C0C ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att7170942244
+trsp:att.7170942244
   a skos:Concept ;
   skos:prefLabel "Simple discovery"@en ;
   skos:description "(TBD)"@en ;
@@ -3550,7 +3550,7 @@ trsp:att7170942244
   skos:broader att.6B61F7AF54 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att562c603e9f
+trsp:att.562c603e9f
   a skos:Concept ;
   skos:prefLabel "Advanced discovery"@en ;
   skos:description "(TBD)"@en ;
@@ -3560,7 +3560,7 @@ trsp:att562c603e9f
   skos:broader att.6B61F7AF54 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att16c85273ee
+trsp:att.16c85273ee
   a skos:Concept ;
   skos:prefLabel "Semantic, NL, or AI Search"@en ;
   skos:description "(TBD)"@en ;
@@ -3570,7 +3570,7 @@ trsp:att16c85273ee
   skos:broader att.6B61F7AF54 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att50f2dbf5c1
+trsp:att.50f2dbf5c1
   a skos:Concept ;
   skos:prefLabel "Named and Persisted Search Criteria"@en ;
   skos:description "(TBD)"@en ;
@@ -3580,7 +3580,7 @@ trsp:att50f2dbf5c1
   skos:broader att.6B61F7AF54 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att4bfe0576a2
+trsp:att.4bfe0576a2
   a skos:Concept ;
   skos:prefLabel "Federated Search Available"@en ;
   skos:description "(TBD)"@en ;
@@ -3590,7 +3590,7 @@ trsp:att4bfe0576a2
   skos:broader att.6B61F7AF54 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att3458fe4af7
+trsp:att.3458fe4af7
   a skos:Concept ;
   skos:prefLabel "Linked Visualisation and Analysis Tools"@en ;
   skos:description "(TBD)"@en ;
@@ -3600,7 +3600,7 @@ trsp:att3458fe4af7
   skos:broader att.6A47F71F59 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att398417702d
+trsp:att.398417702d
   a skos:Concept ;
   skos:prefLabel "Rich Metadata is Available"@en ;
   skos:description "(TBD)"@en ;
@@ -3610,7 +3610,7 @@ trsp:att398417702d
   skos:broader att.38699AB445 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att4800b935cd
+trsp:att.4800b935cd
   a skos:Concept ;
   skos:prefLabel "Provenance is recorded using an applicable machine-readable standard"@en ;
   skos:description "(TBD)"@en ;
@@ -3620,7 +3620,7 @@ trsp:att4800b935cd
   skos:broader att.5E44673C02 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att0f645c5e04
+trsp:att.0f645c5e04
   a skos:Concept ;
   skos:prefLabel "Standard Protocol Implemented"@en ;
   skos:description "(TBD)"@en ;
@@ -3633,7 +3633,7 @@ trsp:att0f645c5e04
   skos:broader att.5F06EEC902 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att04c904a984
+trsp:att.04c904a984
   a skos:Concept ;
   skos:prefLabel "Download or stream"@en ;
   skos:description "(TBD)"@en ;
@@ -3644,7 +3644,7 @@ trsp:att04c904a984
   skos:broader att.6A8A5E1219 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att6ba2330e96
+trsp:att.6ba2330e96
   a skos:Concept ;
   skos:prefLabel "Bind to Application/ Semantic Mapping"@en ;
   skos:description "(TBD)"@en ;
@@ -3654,7 +3654,7 @@ trsp:att6ba2330e96
   skos:broader att.6A8A5E1219 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att0f56d6b0c4
+trsp:att.0f56d6b0c4
   a skos:Concept ;
   skos:prefLabel "Include into VRE or workflow"@en ;
   skos:description "(TBD)"@en ;
@@ -3665,7 +3665,7 @@ trsp:att0f56d6b0c4
   skos:broader att.6A8A5E1219 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att2f6f8568a8
+trsp:att.2f6f8568a8
   a skos:Concept ;
   skos:prefLabel "Subset"@en ;
   skos:description "Ability to filter large datasets and only download the resulting subset"@en ;
@@ -3676,7 +3676,7 @@ trsp:att2f6f8568a8
   skos:broader att.6A8A5E1219 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att4fe3aa3a42
+trsp:att.4fe3aa3a42
   a skos:Concept ;
   skos:prefLabel "Analyse and Pre-Process"@en ;
   skos:description "(TBD)"@en ;
@@ -3687,7 +3687,7 @@ trsp:att4fe3aa3a42
   skos:broader att.6A8A5E1219 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att0893119b50
+trsp:att.0893119b50
   a skos:Concept ;
   skos:prefLabel "Supports LOD References"@en ;
   skos:description "(TBD)"@en ;
@@ -3698,7 +3698,7 @@ trsp:att0893119b50
   skos:broader att.6E790E641F ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att4b81fe7163
+trsp:att.4b81fe7163
   a skos:Concept ;
   skos:prefLabel "Indexed in Scientific Knowledge Graphs"@en ;
   skos:description "(TBD)"@en ;
@@ -3709,7 +3709,7 @@ trsp:att4b81fe7163
   skos:broader att.6E790E641F ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att5103ac4bb0
+trsp:att.5103ac4bb0
   a skos:Concept ;
   skos:prefLabel "(Forward) Provenance"@en ;
   skos:description "Find applications of the dataset as input for new dataset creation"@en ;
@@ -3719,7 +3719,7 @@ trsp:att5103ac4bb0
   skos:broader att.70C4C7B218 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att21c38d1d00
+trsp:att.21c38d1d00
   a skos:Concept ;
   skos:prefLabel "Survey and Quality Feedback"@en ;
   skos:description "(TBD)"@en ;
@@ -3729,7 +3729,7 @@ trsp:att21c38d1d00
   skos:broader att.70C4C7B218 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att51fa72053a
+trsp:att.51fa72053a
   a skos:Concept ;
   skos:prefLabel "Citation and Mentions Metrics"@en ;
   skos:description "(TBD)"@en ;
@@ -3740,7 +3740,7 @@ trsp:att51fa72053a
   skos:broader att.70C4C7B218 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att434b4a0632
+trsp:att.434b4a0632
   a skos:Concept ;
   skos:prefLabel "Helpdesk Available"@en ;
   skos:description "(TBD)"@en ;
@@ -3750,7 +3750,7 @@ trsp:att434b4a0632
   skos:broader att.3E9295C9A1 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att24c6e69fbf
+trsp:att.24c6e69fbf
   a skos:Concept ;
   skos:prefLabel "SLA is Available"@en ;
   skos:description "Includes aspect such as ticket processing and resolution commitments, uptime and availability expectations, and differentitation of these for free and paid services, as applicable. The SLA should take community best practice into account."@en ;
@@ -3760,7 +3760,7 @@ trsp:att24c6e69fbf
   skos:broader att.3E9295C9A1 ;
   skos:inScheme trsp:trsp-attributes .
 
-trsp:att69bc0467d4
+trsp:att.69bc0467d4
   a skos:Concept ;
   skos:prefLabel "Update Functionality"@en ;
   skos:description "(TBD)"@en ;
