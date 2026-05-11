@@ -30,7 +30,7 @@ trsp:profile.trsp:profile.3C2D6C1C37 a trsp:Profile ;
         trsp:hasMeasurementType trsp:measurementTypeVocabulary ;
         trsp:benchmark "Social Sciences and Humanities, Life Sciences, Physical Sciences, Multiple or General"@en ;
         trsp:cardinalityCode trsp:cardinality1_n ;
-        trsp:profileAttributeIRI trsp:att.41F4454A97	; ## Repository Name ;
+        trsp:profileAttributeIRI trsp:att.41F4454A97	; ## Licences Usede ;
         trsp:profileAttributeAggregationType trsp:aggregationList ;
         skos:exactMatch;                                     
     ] .
