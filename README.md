@@ -2,6 +2,14 @@
 
 A repository of attribute definitions and relations, used by the RDA TRSP WG, EOSC EDEN, and EOSC FIDELIS projects.
 
+Contributions from:
+
+Hugo, W., Bloemen, D., Huber, R., Maxwell, L., Lister, A., Rouchon, O., Ramamurthy, M., Steinhoff, W. , ...
+
+Funded in part by:
+
+EOSC EDEN Project, EOSC FIDELIS Project
+
 ## Conceptual Model
 
 The conceptual model is described in detail in a companion document, which can be found [here](https://docs.google.com/document/d/198cbhUy5cQpYxjHuxGeBCLMDrTM8w1RUA0hzsoAU2qk/edit?usp=sharing). In summary, the conceptual model covers the following:
