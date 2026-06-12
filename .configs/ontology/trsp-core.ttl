@@ -45,7 +45,7 @@ trsp:Service a rdfs:Class ;
     skos:narrower dcat:DataService ;
     skos:narrower dcat:Catalog ;
     skos:broader trsp:Profile ;
-    rdfs:comment "A Service is defined as a web-based interface that can be accessed primarily by machines. Repositories can offer or consume one or more Services" .
+    rdfs:comment "A Service is defined as an interface that can be accessed primarily by machines. Repositories can offer or consume one or more Services" .
 
 ##################################################################
 # Properties that require values from controlled vocabulary
