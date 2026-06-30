@@ -13,7 +13,6 @@
 @prefix fair: <https://w3id.org/fair/principles/terms/> .
 @prefix re3data: <https://schema.re3data.org/4-0#> .
 
-
 trsp:trsp-eden-profile a skos:ConceptScheme ;
   dct:created "2026-04-29T00:00:00+00:00"^^xsd:datetime;
   dct:creator <https://orcid.org/0000-0002-0255-5101> ; # Wim Hugo
