@@ -12,6 +12,8 @@
 @prefix gorc: <https://purl.org/gorc/> .
 @prefix fair: <https://w3id.org/fair/principles/terms/> .
 @prefix re3data: <https://schema.re3data.org/4-0#> .
+
+
 trsp:trsp-eden-profile a skos:ConceptScheme ;
   dct:created "2026-04-29T00:00:00+00:00"^^xsd:datetime;
   dct:creator <https://orcid.org/0000-0002-0255-5101> ; # Wim Hugo
@@ -19,11 +21,11 @@ trsp:trsp-eden-profile a skos:ConceptScheme ;
   dct:contributor <0000-0002-3200-2698> # Shanmugasundaram Venkataraman
   dct:contributor "EOSC FIDELIS WP5/6" ;
   dct:contributor "EOSC EDEN WP2" ;
-  dct:description "A profile of repository and repository services attributes identified by EOSC FIDELIS TTRAM"@en 
+  dct:description "A profile of repository and repository services attributes identified by EOSC FIDELIS Secretariat"@en 
   dct:modified "2026-05-07T00:00:00+00:00"^^xsd:datetime;
   dct:modified "2026-04-29T00:00:00+00:00"^^xsd:datetime ;
   dct:rights <https://spdx.org/licenses/CC0-1.0>;
-  dct:title "EOSC EDEN Attribute Vocabulary Profile @en;
+  dct:title "EOSC FIDELIS Attribute Vocabulary Profile @en;
   skos:prefLabel "EDEN Attributes"@en .
   owl:versionInfo "0.4"@en;
   foaf:homepage  <https://github.com/wimhugo/kb-attributes-eden-fidelis-trsp/> .
@@ -123,7 +125,7 @@ trsp:fidelis:url
   skos:exactmatch att.7470DA5BBA ;
   trsp:hasCardinalityType trsp:cardinality1_1 ;
   trsp:hasMeasurementType trsp:measurementTypeFormat ;
-  trsp:hasBenchmark IRL ;
+  trsp:hasBenchmark "IRL" ;
   owl:version "0.1" ;
   skos:inScheme trsp:trsp-fidelis-profile .
 
@@ -145,7 +147,7 @@ trsp:fidelis:vocabulariesUsed
   skos:exactmatch att.6AF56A372D ;
   trsp:hasCardinalityType trsp:cardinality0_n ;
   trsp:hasMeasurementType trsp:measurementTypeRegistry ;
-  trsp:hasBenchmark None Exists ;
+  trsp:hasBenchmark "None Exists" ;
   owl:version "0.1" ;
   skos:inScheme trsp:trsp-fidelis-profile .
 
@@ -156,7 +158,7 @@ trsp:fidelis:persistentIdentifierSystem
   skos:exactmatch att.2F993B25AD ;
   trsp:hasCardinalityType trsp:cardinality0_n ;
   trsp:hasMeasurementType trsp:measurementTypeRegistry ;
-  trsp:hasBenchmark None Exists ;
+  trsp:hasBenchmark "None Exists" ;
   owl:version "0.1" ;
   skos:inScheme trsp:trsp-fidelis-profile .
 
