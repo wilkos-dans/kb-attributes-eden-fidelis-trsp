@@ -95,4 +95,15 @@ trsp:measurementTypeSpecification a skos:Concept, trsp:MeasurementType ;
     dct:creator <https://orcid.org/0000-0002-0255-5101>;
     skos:prefLabel "Specification"@en ;
     dct:description "The measurement MUST correspond to a machine-actionable specification referenced via IRI"@en ;
+
+trsp:measurementTypeObject a skos:Concept, trsp:MeasurementType ;
+    dct:created "2026-07-02T00:00:00+00:00"^^xsd:datetime;
+    dct:creator <https://orcid.org/0000-0002-0255-5101>;
+    skos:prefLabel "Complex Object"@en ;
+    dct:description "The measurement MUST correspond to the pattern of a complex object, and is stored as a text document."@en ;
+    skos:inScheme trsp:measurement-type-scheme .
+
+
+
+
     skos:inScheme trsp:measurement-type-scheme .
