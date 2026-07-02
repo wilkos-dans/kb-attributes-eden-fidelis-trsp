@@ -19,32 +19,35 @@ trsp:checklistPolicies
 
 trsp:versioning
   a skos:Concept ;
-  skos:prefLabel "Versioning"@en ;
+  skos:prefLabel "Versioning Policy"@en ;
   skos:broadMatch <http://purl.org/pav/> ;
   rdfs:seeAlso <http://purl.org/pav/> ;
   skos:inScheme trsp:checklistPolicies .
 
 trsp:retention
   a skos:Concept ;
-  skos:prefLabel "Retention"@en ;
+  skos:prefLabel "Retention Policy"@en ;
   skos:broadMatch <http://linkeddata.center/kees/v1#RetentionPolicy> ;
   rdfs:seeAlso <http://linkeddata.center/kees/v1#RetentionPolicy> ;
   skos:inScheme trsp:checklistPolicies .
 
 trsp:preservation
   a skos:Concept ;
-  skos:prefLabel "Preservation"@en ;
+  skos:prefLabel "Preservation Policy"@en ;
+  skos:exactMatch <premis:PreservationPolicy> ;
   skos:inScheme trsp:checklistPolicies .
 
 trsp:sustainability
   a skos:Concept ;
   skos:prefLabel "Sustainability Policy"@en ;
-  skos:exactMatch eden:sustainabilityPolicy ; 
+  skos:altLabel "SustainabilityPolicy"@en ;
+  skos:exatMatch <ex:SustainabilityPolicy> ;
   skos:inScheme trsp:checklistPolicies .
 
 trsp:appraisal
   a skos:Concept ;
-  skos:prefLabel "Appraisal"@en ;
+  skos:prefLabel "Appraisal Policy"@en ;
+  skos:altLabel "Reappraisal Policy"@en ;  
   skos:broadMatch <http://culturalis.org/oad#appraisalDestructionAndSchedulingInformation> ;
   rdfs:seeAlso <http://culturalis.org/oad#appraisalDestructionAndSchedulingInformation> ;
   skos:inScheme trsp:checklistPolicies .
@@ -55,6 +58,7 @@ trsp:accession
   skos:altLabel "Deposit Policy"@en ;  
   skos:altLabel "Deposition Policy"@en ;
   skos:altLabel "Accession and Deposition Policy"@en ;
+  skos:exactMatch <ex:DepositionPolicy> ;
   skos:inScheme trsp:checklistPolicies .
 
 trsp:disclosureRiskAssessment
@@ -64,13 +68,13 @@ trsp:disclosureRiskAssessment
 
 trsp:access
   a skos:Concept ;
-  skos:prefLabel "Access and Request Assessment"@en ;
+  skos:prefLabel "Access and Request Assessment Policy"@en ;
   skos:inScheme trsp:checklistPolicies .
 
 trsp:bibliographicMetadata
   a skos:Concept ;
-  skos:prefLabel "Bibliographic Metadata"@en ;
-  skos:exactMatch <http://purl.org/spar/fabio/BibliographicMetadata> ;
+  skos:prefLabel "Bibliographic Metadata Policy"@en ;
+  skos:closeMatch <http://purl.org/spar/fabio/BibliographicMetadata> ;
   rdfs:seeAlso <http://purl.org/spar/fabio/BibliographicMetadata> ;
   skos:inScheme trsp:checklistPolicies .
 
@@ -81,12 +85,12 @@ trsp:policyDevelopment
 
 trsp:ethicsClearanceVerification
   a skos:Concept ;
-  skos:prefLabel "Ethics Clearance Verification"@en ;
+  skos:prefLabel "Ethics Clearance Verification Policy"@en ;
   skos:inScheme trsp:checklistPolicies .
 
 trsp:persistentIdentifier
   a skos:Concept ;
-  skos:prefLabel "Persistent Identifier"@en ;
+  skos:prefLabel "Persistent Identifier Policy"@en ;
   skos:exactMatch gorc:pid ;
   rdfs:seeAlso gorc:pid ;
   skos:broadMatch fair:F1 ;
@@ -95,24 +99,24 @@ trsp:persistentIdentifier
 
 trsp:licence
   a skos:Concept ;
-  skos:prefLabel "Licence"@en ;
+  skos:prefLabel "Licence Policy"@en ;
   skos:inScheme trsp:checklistPolicies .
 
 trsp:preferredFormats
   a skos:Concept ;
-  skos:prefLabel "Preferred Formats"@en ;
+  skos:prefLabel "Preferred Formats Polocy"@en ;
   skos:inScheme trsp:checklistPolicies .
 
 trsp:compliance
   a skos:Concept ;
-  skos:prefLabel "Compliance"@en ;
+  skos:prefLabel "Compliance Policy"@en ;
   skos:broadMatch <http://purl.obolibrary.org/obo/OBI_0500023> ;
   rdfs:seeAlso <http://purl.obolibrary.org/obo/OBI_0500023> ;
   skos:inScheme trsp:checklistPolicies .
 
 trsp:rights
   a skos:Concept ;
-  skos:prefLabel "Rights"@en ;
+  skos:prefLabel "Rights Protection Policy"@en ;
   skos:exactMatch <http://bblfish.net/work/atom-owl/2006-06-06/#rights> ;
   rdfs:seeAlso <http://bblfish.net/work/atom-owl/2006-06-06/#rights> ;
   skos:broadMatch care:A1 ;
@@ -121,15 +125,20 @@ trsp:rights
 
 trsp:responsibleAI
   a skos:Concept ;
-  skos:prefLabel "Responsible Use of AI in the Organisation"@en ;
+  skos:prefLabel "AI Policy"@en ;
+  skos:altLabel "Responsible Use of AI in the Organisation"@en ;
   skos:inScheme trsp:checklistPolicies .
 
 trsp:interoprability
   a skos:Concept ;
-  skos:prefLabel "Interoprability"@en ;
+  skos:prefLabel "Interoprability Policy"@en ;
   skos:inScheme trsp:checklistPolicies .
 
 trsp:dataSecurityAndIntegrity
   a skos:Concept ;
-  skos:prefLabel "Data Security and Integrity"@en ;
+  skos:prefLabel "Data Security and Integrity Policy"@en ;
   skos:inScheme trsp:checklistPolicies .
+
+
+
+
