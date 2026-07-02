@@ -15,10 +15,19 @@ trsp:checklistRegistry
   skos:note "This is just a subset of entries that can be obtained from https://cat.argo.grnet.gr/pid-selection."@en ;
   owl:versionInfo "0.1" .
 
+#--------------------------------------------------------------------------------------------------------------------------
+# This section contains high-level classes that typify services or reosurces applicable to identifiers
+#--------------------------------------------------------------------------------------------------------------------------
+
 trsp:institution-registry
   a skos:Concept ;
   skos:prefLabel "Institution and Organisation Registries"@en ;
   skos:inScheme trsp:checklistRegistry .
+
+#--------------------------------------------------------------------------------------------------------------------------
+# This section contains next-level classes that identify individual resources, but can also point to a query in e.g. 
+# the EDEN service registry
+#--------------------------------------------------------------------------------------------------------------------------
 
 trsp:institution-registry-ror
   a skos:Concept ;
