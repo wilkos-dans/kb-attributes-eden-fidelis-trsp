@@ -76,6 +76,20 @@ trsp:aggregationLast a skos:Concept, trsp:AggregationType ;
     skos:prefLabel "Last"@en ;
     skos:definition "Last element in the return array (ordered ascending)."@en .
 
+trsp:aggregationCoverage a skos:Concept, trsp:AggregationType ;
+    dct:created "2026-06-29T00:00:00+00:00"^^xsd:datetime;
+    dct:creator <https://orcid.org/0000-0002-0255-5101>;
+    skos:inScheme trsp:profile-aggregation-type-scheme ;
+    skos:prefLabel "Coverage"@en ;
+    skos:definition "First and last element in the return array (ordered ascending), or a bounding box of values in a 2 or 3-coordinate space."@en .
+
+trsp:aggregationLast a skos:Concept, trsp:AggregationType ;
+    dct:created "2026-04-29T00:00:00+00:00"^^xsd:datetime;
+    dct:creator <https://orcid.org/0000-0002-0255-5101>;
+    skos:inScheme trsp:profile-aggregation-type-scheme ;
+    skos:prefLabel "Last"@en ;
+    skos:definition "Last element in the return array (ordered ascending)."@en .
+
 trsp:aggregationMedian a skos:Concept, trsp:AggregationType ;
     dct:created "2026-04-29T00:00:00+00:00"^^xsd:datetime;
     dct:creator <https://orcid.org/0000-0002-0255-5101>;
