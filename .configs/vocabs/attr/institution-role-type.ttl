@@ -1,0 +1,28 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix trsp: <https://github.com/wimhugo/kb-attributes-eden-fidelis-trsp/> .
+
+trsp:institution-role-type-scheme
+  a skos:ConceptScheme ;
+  skos:prefLabel "Instiution Role"@en ;
+  dct:title "Institution Role"@en ;
+  dct:created "2026-07-16"^^xsd:date ;
+  owl:versionInfo "0.1" .
+
+trsp:hosting
+  a skos:Concept ;
+  skos:prefLabel "Hosting Institution"@en ;
+  skos:inScheme trsp:institution-role-type-scheme .
+
+trsp:funding
+  a skos:Concept ;
+  skos:prefLabel "Funding Institution"@en ;
+  skos:inScheme trsp:package-type-scheme .
+
+trsp:using
+  a skos:Concept ;
+  skos:prefLabel "User Institution"@en ;
+  skos:inScheme trsp:institution-role-type-scheme .
