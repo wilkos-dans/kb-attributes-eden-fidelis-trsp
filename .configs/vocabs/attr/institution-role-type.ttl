@@ -12,17 +12,27 @@ trsp:institution-role-type-scheme
   dct:created "2026-07-16"^^xsd:date ;
   owl:versionInfo "0.1" .
 
-trsp:hosting
+trsp:host
   a skos:Concept ;
   skos:prefLabel "Hosting Institution"@en ;
   skos:inScheme trsp:institution-role-type-scheme .
 
-trsp:funding
+trsp:publisher
+  a skos:Concept ;
+  skos:prefLabel "Publisher"@en ;
+  skos:inScheme trsp:institution-role-type-scheme .
+
+trsp:funder
   a skos:Concept ;
   skos:prefLabel "Funding Institution"@en ;
   skos:inScheme trsp:package-type-scheme .
 
-trsp:using
+trsp:user
   a skos:Concept ;
-  skos:prefLabel "User Institution"@en ;
+  skos:prefLabel "End User Institution"@en ;
+  skos:inScheme trsp:institution-role-type-scheme .
+
+trsp:stakeholder
+  a skos:Concept ;
+  skos:prefLabel "Stakeholder Institution"@en ;
   skos:inScheme trsp:institution-role-type-scheme .
