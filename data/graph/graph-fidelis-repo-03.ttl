@@ -7,9 +7,9 @@
 trsp:repo.00B8A6AE14 a trsp:Repository ;
     dct:title "HOMEROS - OSCARS project"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://zenodo.org/communities/homeros/records?q=&l=list&p=1&s=10&sort=newest^^xsd:anyURL ;
+    dcat:landingPage <https://zenodo.org/communities/homeros/records?q=&l=list&p=1&s=10&sort=newest> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2023" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/GRC> ;
@@ -36,15 +36,15 @@ trsp:repo.00B8A6AE14 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation via Zenodo/CERN infrastructure (10+ year guarantee)" ;
     trsp:att.521A4A9E17 "HOMEROS/OSCARS project participants", "humanities researchers in Greece and Europe" ;
     trsp:att.1D00720769 "Long-term (via Zenodo CERN)" ;
-    schema:Comment Hosted as Zenodo community, part of OSCARS Horizon Europe project (Grant 101129751), leverages Zenodo's CoreTrustSeal-certified infrastructure
+    schema:Comment "Hosted as Zenodo community", "part of OSCARS Horizon Europe project (Grant 101129751)", "leverages Zenodo's CoreTrustSeal-certified infrastructure" ;
 .
 
 trsp:repo.0041142F56 a trsp:Repository ;
     dct:title "GrantHub Open Funding & Innovation Knowledge Repository"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://www.granthub.cz/^^xsd:anyURL ;
+    dcat:landingPage <https://www.granthub.cz/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2015" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/CZE> ;
@@ -71,15 +71,15 @@ trsp:repo.0041142F56 a trsp:Repository ;
     trsp:att.768DAFA0DB "Business continuity as per commercial operations" ;
     trsp:att.521A4A9E17 "Research institutions", "SMEs and startups seeking EU funding", "innovation hubs", "investors", "pan-European clients" ;
     trsp:att.1D00720769 "As per service agreements" ;
-    schema:Comment Primarily a funding advisory and strategic consultancy service with knowledge base elements, not a traditional data repository in the FIDELIS/TDR sense, included as funding/innovation knowledge resource
+    schema:Comment "Primarily a funding advisory and strategic consultancy service with knowledge base elements", "not a traditional data repository in the FIDELIS/TDR sense", "included as funding/innovation knowledge resource" ;
 .
 
 trsp:repo.009EC11C5C a trsp:Repository ;
     dct:title "DisProt"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://disprot.org/^^xsd:anyURL ;
+    dcat:landingPage <https://disprot.org/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2003" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/ITA> ;
@@ -106,15 +106,15 @@ trsp:repo.009EC11C5C a trsp:Repository ;
     trsp:att.768DAFA0DB "Versioned releases", "data preserved per release", "hosted on ELIXIR Italy infrastructure", "continuity through ELIXIR membership" ;
     trsp:att.521A4A9E17 "Life scientists and bioinformaticians studying protein disorder", "IDP community", "open to all", "accepts community annotations via curation interface" ;
     trsp:att.1D00720769 "Version-based", "regular releases" ;
-    schema:Comment First published 2003, v7 (2016) introduced APICURON credit system, v8 (2019) extended API, covers >3, 000 proteins, thematic datasets since 2020, ELIXIR recommended resource, key training resource for ML disorder prediction
+    schema:Comment "First published 2003", "v7 (2016) introduced APICURON credit system", "v8 (2019) extended API", "covers >3", "000 proteins", "thematic datasets since 2020", "ELIXIR recommended resource", "key training resource for ML disorder prediction" ;
 .
 
 trsp:repo.003EEB3389 a trsp:Repository ;
     dct:title "PHAIDRA - University of Padua"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://phaidra.cab.unipd.it/^^xsd:anyURL ;
+    dcat:landingPage <https://phaidra.cab.unipd.it/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2008" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/ITA> ;
@@ -141,15 +141,15 @@ trsp:repo.003EEB3389 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term digital preservation", "OAIS-aligned", "University of Padua institutional commitment", "PHAIDRA software enables multi-institutional replication" ;
     trsp:att.521A4A9E17 "University of Padua researchers", "students and community", "open for public access to open items" ;
     trsp:att.1D00720769 "Long-term / indefinite" ;
-    schema:Comment PHAIDRA = Permanent Hosting, Archiving and Indexing of Digital Resources and Assets, open-source software adopted by universities in Austria, Italy, Serbia, developed 2006–2008
+    schema:Comment "PHAIDRA = Permanent Hosting", "Archiving and Indexing of Digital Resources and Assets", "open-source software adopted by universities in Austria", "Italy", "Serbia", "developed 2006–2008" ;
 .
 
 trsp:repo.001961A5E1 a trsp:Repository ;
     dct:title "DOME Registry"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://registry.dome-ml.org/intro^^xsd:anyURL ;
+    dcat:landingPage <https://registry.dome-ml.org/intro> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2023" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/ITA> ;
@@ -176,15 +176,15 @@ trsp:repo.001961A5E1 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term hosting on ELIXIR Italy infrastructure", "MongoDB-based", "versioned records" ;
     trsp:att.521A4A9E17 "Life sciences and bioinformatics researchers publishing ML studies", "journal reviewers and editors", "open to all for community curation via DOME-DSW" ;
     trsp:att.1D00720769 "Long-term / ongoing" ;
-    schema:Comment DOME recommendations published in Nature Methods 2021, DOME Registry paper published GigaScience 2024 (arXiv 2408.07721), GigaScience and other journals adopting DOME workflow, integrates with ORCID and APICURON for credit attribution
+    schema:Comment "DOME recommendations published in Nature Methods 2021", "DOME Registry paper published GigaScience 2024 (arXiv 2408.07721)", "GigaScience and other journals adopting DOME workflow", "integrates with ORCID and APICURON for credit attribution" ;
 .
 
 trsp:repo.7A31FBDEE1 a trsp:Repository ;
     dct:title "STRING database"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://string-db.org^^xsd:anyURL ;
+    dcat:landingPage <https://string-db.org> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2000" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/CHE>, <https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/DEU>, <https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/DNK> ;
@@ -211,15 +211,15 @@ trsp:repo.7A31FBDEE1 a trsp:Repository ;
     trsp:att.768DAFA0DB "Data updated with each versioned release (v10", "v11", "v11.5", "v12)", "maintained by consortium", "not OAIS-certified" ;
     trsp:att.521A4A9E17 "Life scientists", "bioinformaticians", "biomedical researchers worldwide", "academic and commercial users" ;
     trsp:att.1D00720769 "Version-based", "each version archived", "updated periodically" ;
-    schema:Comment One of the most cited bioinformatics databases (>40, 000 citations), current version v12.0+ covers billions of proteins, REST API and bulk download available
+    schema:Comment "One of the most cited bioinformatics databases (>40", "000 citations)", "current version v12.0+ covers billions of proteins", "REST API and bulk download available" ;
 .
 
 trsp:repo.27DEC264D7 a trsp:Repository ;
     dct:title "Recherche Data Gouv France"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://recherche.data.gouv.fr/en^^xsd:anyURL ;
+    dcat:landingPage <https://recherche.data.gouv.fr/en> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2022" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/FRA> ;
@@ -246,15 +246,15 @@ trsp:repo.27DEC264D7 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation aligned with French national open science policy", "built on Dataverse infrastructure" ;
     trsp:att.521A4A9E17 "French researchers in all disciplines", "depositors must agree to DANS-style selection criteria" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Inaugurated 2022, initial 3-year funding from National Fund for Open Science, deposit policy reference: https://dans.knaw.nl/en/selection-policy-dans-data-stations/
+    schema:Comment "Inaugurated 2022", "initial 3-year funding from National Fund for Open Science", "deposit policy reference: https://dans.knaw.nl/en/selection-policy-dans-data-stations/" ;
 .
 
 trsp:repo.0075D2D0B2 a trsp:Repository ;
     dct:title "CORA.Repositori de Dades de Recerca"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://dataverse.csuc.cat/^^xsd:anyURL ;
+    dcat:landingPage <https://dataverse.csuc.cat/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2017" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/ESP> ;
@@ -281,15 +281,15 @@ trsp:repo.0075D2D0B2 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation", "CoreTrustSeal certified", "CSUC institutional guarantee" ;
     trsp:att.521A4A9E17 "Researchers at CSUC member institutions", "open for international reuse" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Built on Harvard Dataverse platform, CoreTrustSeal certified, part of CORA Catalan open science suite
+    schema:Comment "Built on Harvard Dataverse platform", "CoreTrustSeal certified", "part of CORA Catalan open science suite" ;
 .
 
 trsp:repo.4B12A4A8E3 a trsp:Repository ;
     dct:title "DANS Data Station Life Sciences"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://lifesciences.datastations.nl/^^xsd:anyURL ;
+    dcat:landingPage <https://lifesciences.datastations.nl/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2023" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/NLD> ;
@@ -316,15 +316,15 @@ trsp:repo.4B12A4A8E3 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation per DANS policies", "DANS Licence and Data Stations Terms of Use", "OAIS-aligned" ;
     trsp:att.521A4A9E17 "Dutch life sciences researchers primarily", "open to international depositors", "selection policy: https://dans.knaw.nl/en/selection-policy-dans-data-stations/" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Launched December 2023 as part of DANS Data Stations infrastructure, successor to EASY/NARCIS, ~1, 012 datasets, built on Harvard Dataverse
+    schema:Comment "Launched December 2023 as part of DANS Data Stations infrastructure", "successor to EASY/NARCIS", "~1", "012 datasets", "built on Harvard Dataverse" ;
 .
 
 trsp:repo.552C7DD5F0 a trsp:Repository ;
     dct:title "DANS Data Station Social Sciences and Humanities"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://ssh.datastations.nl/^^xsd:anyURL ;
+    dcat:landingPage <https://ssh.datastations.nl/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2022" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/NLD> ;
@@ -351,15 +351,15 @@ trsp:repo.552C7DD5F0 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation per DANS policies", "CoreTrustSeal certified", "OAIS-aligned" ;
     trsp:att.521A4A9E17 "Dutch SSH researchers primarily", "international deposits accepted", "DANS selection policy applies" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Launched 2022, successor to EASY/NARCIS, ~7, 934 datasets, CoreTrustSeal 2024–2027, CESSDA Netherlands Service Provider, deposit policy: https://dans.knaw.nl/en/selection-policy-dans-data-stations/
+    schema:Comment "Launched 2022", "successor to EASY/NARCIS", "~7", "934 datasets", "CoreTrustSeal 2024–2027", "CESSDA Netherlands Service Provider", "deposit policy: https://dans.knaw.nl/en/selection-policy-dans-data-stations/" ;
 .
 
 trsp:repo.39DF75675C a trsp:Repository ;
     dct:title "Austrian NeuroCloud"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://anc.plus.ac.at/^^xsd:anyURL ;
+    dcat:landingPage <https://anc.plus.ac.at/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2020" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/AUT> ;
@@ -386,15 +386,15 @@ trsp:repo.39DF75675C a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term archiving within Medical University of Graz infrastructure" ;
     trsp:att.521A4A9E17 "Neuroscientists in Austria and internationally", "academic research use" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Part of EBRAINS European brain research infrastructure ecosystem, supports neuroinformatics community standards
+    schema:Comment "Part of EBRAINS European brain research infrastructure ecosystem", "supports neuroinformatics community standards" ;
 .
 
 trsp:repo.00624373BF a trsp:Repository ;
     dct:title "DataverseUA"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://opendata.nas.gov.ua^^xsd:anyURL ;
+    dcat:landingPage <https://opendata.nas.gov.ua> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2021" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/UKR> ;
@@ -421,15 +421,15 @@ trsp:repo.00624373BF a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation", "NAS Ukraine institutional commitment" ;
     trsp:att.521A4A9E17 "Ukrainian researchers and research institutions", "open for international reuse" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Built on Harvard Dataverse platform, supports Ukrainian open science development, maintained despite ongoing challenges since 2022
+    schema:Comment "Built on Harvard Dataverse platform", "supports Ukrainian open science development", "maintained despite ongoing challenges since 2022" ;
 .
 
 trsp:repo.4B0F63A94A a trsp:Repository ;
     dct:title "Borealis (Canadian Dataverse Repository)"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://borealisdata.ca^^xsd:anyURL ;
+    dcat:landingPage <https://borealisdata.ca> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2021" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/CAN> ;
@@ -456,15 +456,15 @@ trsp:repo.4B0F63A94A a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation", "CoreTrustSeal certified", "University of Toronto Scholars Portal infrastructure" ;
     trsp:att.521A4A9E17 "Researchers at CRKN member institutions", "open internationally for data reuse", "free for institutional members" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Launched 2021, successor to Scholars Portal Dataverse, bilingual (EN/FR), CoreTrustSeal certified, built on Harvard Dataverse, supports Tri-Agency open data policy
+    schema:Comment "Launched 2021", "successor to Scholars Portal Dataverse", "bilingual (EN/FR)", "CoreTrustSeal certified", "built on Harvard Dataverse", "supports Tri-Agency open data policy" ;
 .
 
 trsp:repo.005BC63AA9 a trsp:Repository ;
     dct:title "SWISSUbase"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://www.swissubase.ch/^^xsd:anyURL ;
+    dcat:landingPage <https://www.swissubase.ch/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2021" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/CHE> ;
@@ -491,15 +491,15 @@ trsp:repo.005BC63AA9 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation on Swiss SWITCH servers", "CoreTrustSeal certified", "FAIR-aligned", "data preserved in Switzerland", "continuity guaranteed by consortium agreement" ;
     trsp:att.521A4A9E17 "Swiss higher education researchers primarily", "DSUs curate for their communities (social sciences", "linguistics", "humanities", "institutional)", "free to deposit for Swiss researchers" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Platform launched December 2021, successor to FORSbase, consortium formalised January 2022, SWISSUbase is recommended by SNSF as national data repository, EOSC Data Commons use case, LaRS part of first Swiss CLARIN B-Centre distributed with LiRI
+    schema:Comment "Platform launched December 2021", "successor to FORSbase", "consortium formalised January 2022", "SWISSUbase is recommended by SNSF as national data repository", "EOSC Data Commons use case", "LaRS part of first Swiss CLARIN B-Centre distributed with LiRI" ;
 .
 
 trsp:repo.1798E19839 a trsp:Repository ;
     dct:title "DataverseNO"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://dataverse.no/^^xsd:anyURL ;
+    dcat:landingPage <https://dataverse.no/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2017" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/NOR> ;
@@ -526,15 +526,15 @@ trsp:repo.1798E19839 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation committed", "DataverseNO Policy Framework governs preservation", "OAIS-aligned" ;
     trsp:att.521A4A9E17 "Researchers from Norwegian research institutions primarily", "some international collections accepted", "no-cost deposit for institutional members" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Launched 2017, one of first repositories globally to receive CoreTrustSeal (2020), 30 collections, ~2, 338 datasets, built on open-source Harvard Dataverse platform
+    schema:Comment "Launched 2017", "one of first repositories globally to receive CoreTrustSeal (2020)", "30 collections", "~2", "338 datasets", "built on open-source Harvard Dataverse platform" ;
 .
 
 trsp:repo.0086D1355E a trsp:Repository ;
     dct:title "Tromso", "Repository of Language and Linguistics (TROLLing)"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://trolling.uit.no/^^xsd:anyURL ;
+    dcat:landingPage <https://trolling.uit.no/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2014" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/NOR> ;
@@ -561,15 +561,15 @@ trsp:repo.0086D1355E a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation through DataverseNO infrastructure", "UiT institutional guarantee" ;
     trsp:att.521A4A9E17 "Linguists worldwide", "no institutional affiliation required to deposit", "free of charge" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Launched 2014, special collection within DataverseNO (re3data: r3d100011623), 219 datasets as of 2025, CLARIN C-Centre, endorsed by leading linguistics journals for data sharing
+    schema:Comment "Launched 2014", "special collection within DataverseNO (re3data: r3d100011623)", "219 datasets as of 2025", "CLARIN C-Centre", "endorsed by leading linguistics journals for data sharing" ;
 .
 
 trsp:repo.007F9FADF2 a trsp:Repository ;
     dct:title "CRIS UNS"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://cris.uns.ac.rs/en^^xsd:anyURL ;
+    dcat:landingPage <https://cris.uns.ac.rs/en> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2010" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/SRB> ;
@@ -596,15 +596,15 @@ trsp:repo.007F9FADF2 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term archiving as institutional mandate", "DSpace/CRIS platform ensures ongoing archiving" ;
     trsp:att.521A4A9E17 "UNS researchers", "doctoral students and staff from all faculties", "all scientific and research outputs from UNS projects" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Developed under DOSIRD project, one of first CERIF-based CRIS systems in Western Balkans, interoperable with OpenAIRE, holds records from 3, 500+ UNS researchers
+    schema:Comment "Developed under DOSIRD project", "one of first CERIF-based CRIS systems in Western Balkans", "interoperable with OpenAIRE", "holds records from 3", "500+ UNS researchers" ;
 .
 
 trsp:repo.298D90251D a trsp:Repository ;
     dct:title "Slovak Archive of Social Data (SASD)"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://sasd.sav.sk/en/^^xsd:anyURL ;
+    dcat:landingPage <https://sasd.sav.sk/en/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2004" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/SVK> ;
@@ -631,15 +631,15 @@ trsp:repo.298D90251D a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term digital preservation", "standards-based archiving" ;
     trsp:att.521A4A9E17 "Social science researchers", "data from sociological research projects", "open to all for non-commercial use" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment CESSDA member since 2013, growing holdings including COVID-19 surveys (2020–), participates in ESS, ISSP, EVS international programmes
+    schema:Comment "CESSDA member since 2013", "growing holdings including COVID-19 surveys (2020–)", "participates in ESS", "ISSP", "EVS international programmes" ;
 .
 
 trsp:repo.644820F945 a trsp:Repository ;
     dct:title "Camtree: the Cambridge Teacher Research Exchange"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://library.camtree.org^^xsd:anyURL ;
+    dcat:landingPage <https://library.camtree.org> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2018" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/GBR> ;
@@ -666,15 +666,15 @@ trsp:repo.644820F945 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term archiving via University of Cambridge infrastructure" ;
     trsp:att.521A4A9E17 "Teachers and school-based educational practitioners", "researchers in education", "open to international contributors" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Unique repository concept centred on teacher-led practitioner research, supports evidence-based teaching and learning improvement
+    schema:Comment "Unique repository concept centred on teacher-led practitioner research", "supports evidence-based teaching and learning improvement" ;
 .
 
 trsp:repo.245EF9D7AE a trsp:Repository ;
     dct:title "AgroPortal"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://agroportal.eu^^xsd:anyURL ;
+    dcat:landingPage <https://agroportal.eu> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2015" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/FRA> ;
@@ -701,15 +701,15 @@ trsp:repo.245EF9D7AE a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term hosting as part of French agricultural research infrastructure" ;
     trsp:att.521A4A9E17 "Agronomists", "plant scientists", "food researchers", "data managers", "semantic web researchers requiring controlled vocabularies" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Adapted from NCBO BioPortal, specialised for agri-food domain, supports FAIR data integration in agricultural research, >150 ontologies hosted
+    schema:Comment "Adapted from NCBO BioPortal", "specialised for agri-food domain", "supports FAIR data integration in agricultural research", ">150 ontologies hosted" ;
 .
 
 trsp:repo.0094967DCB a trsp:Repository ;
     dct:title "RiuNet"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://riunet.upv.es/home^^xsd:anyURL ;
+    dcat:landingPage <https://riunet.upv.es/home> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2009" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/ESP> ;
@@ -736,15 +736,15 @@ trsp:repo.0094967DCB a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation", "CoreTrustSeal certified" ;
     trsp:att.521A4A9E17 "UPV researchers", "doctoral students and teaching staff", "all faculties", "open for reuse" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Built on DSpace platform, CoreTrustSeal certified, >100, 000 items, integrated with RECOLECTA and OpenAIRE
+    schema:Comment "Built on DSpace platform", "CoreTrustSeal certified", ">100", "000 items", "integrated with RECOLECTA and OpenAIRE" ;
 .
 
 trsp:repo.0.00E+00 a trsp:Repository ;
     dct:title "Radboud Data Repository"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://data.ru.nl/^^xsd:anyURL ;
+    dcat:landingPage <https://data.ru.nl/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2016" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/NLD> ;
@@ -771,15 +771,15 @@ trsp:repo.0.00E+00 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation", "institutional commitment by Radboud University" ;
     trsp:att.521A4A9E17 "Radboud University researchers and affiliated project partners", "open for reuse internationally" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Custom-built repository platform (not DSpace or Dataverse), supports sensitive data with Data Access Committee review, well-known for MRI/cognitive neuroscience datasets
+    schema:Comment "Custom-built repository platform (not DSpace or Dataverse)", "supports sensitive data with Data Access Committee review", "well-known for MRI/cognitive neuroscience datasets" ;
 .
 
 trsp:repo.006C9BFF2E a trsp:Repository ;
     dct:title "GESIS - Leibniz Institute for the Social Sciences"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://www.gesis.org/en/data-services/share-data^^xsd:anyURL ;
+    dcat:landingPage <https://www.gesis.org/en/data-services/share-data> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"1986" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/DEU> ;
@@ -806,15 +806,15 @@ trsp:repo.006C9BFF2E a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation in perpetuity", "OAIS-compliant", "GESIS is funded under stable Leibniz Association framework" ;
     trsp:att.521A4A9E17 "Social science researchers internationally", "all sectors including academia", "government", "NGOs", "self-deposit and acquisition from major survey programs" ;
     trsp:att.1D00720769 "Indefinite (in perpetuity)" ;
-    schema:Comment Over 7, 000 studies archived, predecessor institution (ZA Cologne) founded 1960, current form as GESIS since 1986 merger, operates da|ra DOI registration agency for social and economic data
+    schema:Comment "Over 7", "000 studies archived", "predecessor institution (ZA Cologne) founded 1960", "current form as GESIS since 1986 merger", "operates da|ra DOI registration agency for social and economic data" ;
 .
 
 trsp:repo.004BA57DAA a trsp:Repository ;
     dct:title "Lithuanian Data Archive for Social Sciences and Humanities (LiDA)"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://lida.dataverse.lt/^^xsd:anyURL ;
+    dcat:landingPage <https://lida.dataverse.lt/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2014" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/LTU> ;
@@ -841,15 +841,15 @@ trsp:repo.004BA57DAA a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation", "CESSDA-aligned curation standards" ;
     trsp:att.521A4A9E17 "Lithuanian and international social science and humanities researchers" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Established 2014, CESSDA Lithuanian Service Provider, CoreTrustSeal certified, built on Harvard Dataverse platform
+    schema:Comment "Established 2014", "CESSDA Lithuanian Service Provider", "CoreTrustSeal certified", "built on Harvard Dataverse platform" ;
 .
 
 trsp:repo.005134C65D a trsp:Repository ;
     dct:title "Edinburgh DataShare"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://datashare.ed.ac.uk/^^xsd:anyURL ;
+    dcat:landingPage <https://datashare.ed.ac.uk/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2009" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/GBR> ;
@@ -876,15 +876,15 @@ trsp:repo.005134C65D a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation", "CoreTrustSeal certified", "University of Edinburgh infrastructure" ;
     trsp:att.521A4A9E17 "University of Edinburgh researchers", "open for international reuse", "all disciplines" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Developed 2007–2009 under Jisc DISC-UK DataShare project, CoreTrustSeal certified, built on DSpace platform, one of UK's pioneering institutional data repositories
+    schema:Comment "Developed 2007–2009 under Jisc DISC-UK DataShare project", "CoreTrustSeal certified", "built on DSpace platform", "one of UK's pioneering institutional data repositories" ;
 .
 
 trsp:repo.18D00D3332 a trsp:Repository ;
     dct:title "STOREDB"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://www.storedb.org/store_v3^^xsd:anyURL ;
+    dcat:landingPage <https://www.storedb.org/store_v3> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2013" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/BEL> ;
@@ -911,15 +911,15 @@ trsp:repo.18D00D3332 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term archiving per project mandate and MELODI infrastructure commitment" ;
     trsp:att.521A4A9E17 "Radiation biology", "radiobiology and radiation protection researchers internationally", "open to all disciplines intersecting with radiation effects" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Started under DoReMi EU project, continues under CONCERT/EURADOS, supports European low-dose radiation research, includes SOPs for tissue usability evaluation
+    schema:Comment "Started under DoReMi EU project", "continues under CONCERT/EURADOS", "supports European low-dose radiation research", "includes SOPs for tissue usability evaluation" ;
 .
 
 trsp:repo.3.73E+52 a trsp:Repository ;
     dct:title "LINDAT/CLARIAH-CZ repository"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://lindat.cz/repository/^^xsd:anyURL ;
+    dcat:landingPage <https://lindat.cz/repository/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2011" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/CZE> ;
@@ -946,15 +946,15 @@ trsp:repo.3.73E+52 a trsp:Repository ;
     trsp:att.768DAFA0DB "Minimum 10 years after end of infrastructure", "OAIS-compliant", "hosted at ÚFAL with institutional guarantee" ;
     trsp:att.521A4A9E17 "Researchers in linguistics", "humanities and social sciences", "industrial NLP users", "free to deposit for all", "special provisions for commercial use" ;
     trsp:att.1D00720769 "Minimum 10 years post-infrastructure" ;
-    schema:Comment Originally launched 2011 as LINDAT/CLARIN, expanded to LINDAT/CLARIAH-CZ in 2019 by merger with DARIAH-CZ, CLARIN DSpace software developed and maintained by ÚFAL team
+    schema:Comment "Originally launched 2011 as LINDAT/CLARIN", "expanded to LINDAT/CLARIAH-CZ in 2019 by merger with DARIAH-CZ", "CLARIN DSpace software developed and maintained by ÚFAL team" ;
 .
 
 trsp:repo.00D32E62E3 a trsp:Repository ;
     dct:title "ESRF Data Portal"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://data.esrf.fr/^^xsd:anyURL ;
+    dcat:landingPage <https://data.esrf.fr/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2016" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/FRA> ;
@@ -981,15 +981,15 @@ trsp:repo.00D32E62E3 a trsp:Repository ;
     trsp:att.768DAFA0DB "Metadata preserved forever", "raw data preserved minimum 10 years", "high-value datasets preserved longer", "CoreTrustSeal certified for data management standards" ;
     trsp:att.521A4A9E17 "ESRF users (scientists who conducted experiments at ESRF beamlines)", "data embargo system", "open access after embargo", "DOIs assigned to all datasets" ;
     trsp:att.1D00720769 "Metadata: forever", "raw data: minimum 10 years" ;
-    schema:Comment ESRF data policy adopted 2016, first data portal released 2018, CoreTrustSeal certified 2023 (first PaNOSC facility), coordinated PaNOSC project, DRAC (Data Repository for Advancing Open Science) system, ~2, 839 public + 6, 398 embargoed collections
+    schema:Comment "ESRF data policy adopted 2016", "first data portal released 2018", "CoreTrustSeal certified 2023 (first PaNOSC facility)", "coordinated PaNOSC project", "DRAC (Data Repository for Advancing Open Science) system", "~2", "839 public + 6", "398 embargoed collections" ;
 .
 
 trsp:repo.408BAAA2BA a trsp:Repository ;
     dct:title "ROHub"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://www.rohub.org/^^xsd:anyURL ;
+    dcat:landingPage <https://www.rohub.org/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2014" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/ESP> ;
@@ -1016,15 +1016,15 @@ trsp:repo.408BAAA2BA a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term archiving of Research Objects", "persistent identifiers assigned" ;
     trsp:att.521A4A9E17 "Researchers in data-intensive and computational fields", "life sciences", "earth sciences", "social sciences workflows" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Implements W3C Research Object and RO-Crate standards, supports workflows from Galaxy, Nextflow and CWL, available via EOSC marketplace
+    schema:Comment "Implements W3C Research Object and RO-Crate standards", "supports workflows from Galaxy", "Nextflow and CWL", "available via EOSC marketplace" ;
 .
 
 trsp:repo.7254507349 a trsp:Repository ;
     dct:title "Qualitative Data Repository"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://qdr.org/^^xsd:anyURL ;
+    dcat:landingPage <https://qdr.org/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2014" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/USA> ;
@@ -1051,15 +1051,15 @@ trsp:repo.7254507349 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation at Syracuse University", "CoreTrustSeal certified" ;
     trsp:att.521A4A9E17 "Social scientists internationally", "data from qualitative and multi-method research", "open to all disciplines requiring qualitative data management" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Established 2014, pioneered Active Citation for qualitative data transparency, CoreTrustSeal certified, CESSDA associate member, funded initially by Alfred P. Sloan Foundation
+    schema:Comment "Established 2014", "pioneered Active Citation for qualitative data transparency", "CoreTrustSeal certified", "CESSDA associate member", "funded initially by Alfred P. Sloan Foundation" ;
 .
 
 trsp:repo.1AA258A562 a trsp:Repository ;
     dct:title "4TU.ResearchData"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://data.4tu.nl^^xsd:anyURL ;
+    dcat:landingPage <https://data.4tu.nl> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2008" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/NLD> ;
@@ -1086,15 +1086,15 @@ trsp:repo.1AA258A562 a trsp:Repository ;
     trsp:att.768DAFA0DB "Minimum 15 years for all datasets", "active preservation by TU Delft Library", "OAIS-compliant" ;
     trsp:att.521A4A9E17 "Researchers worldwide", "consortium members deposit free up to 100 GB/year", "additional storage at cost" ;
     trsp:att.1D00720769 "Minimum 15 years" ;
-    schema:Comment Started 2008 as 3TU.Datacentrum, fully operational 2010, Wageningen joined 2016, renamed 4TU.ResearchData, >6, 800 datasets, runs on open-source Djehuty software
+    schema:Comment "Started 2008 as 3TU.Datacentrum", "fully operational 2010", "Wageningen joined 2016", "renamed 4TU.ResearchData", ">6", "800 datasets", "runs on open-source Djehuty software" ;
 .
 
 trsp:repo.00804149FC a trsp:Repository ;
     dct:title "UTM-CSIC Data Centre"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://data.utm.csic.es/^^xsd:anyURL ;
+    dcat:landingPage <https://data.utm.csic.es/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2014" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/ESP> ;
@@ -1121,15 +1121,15 @@ trsp:repo.00804149FC a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term archiving of marine expedition data", "linked to CSIC institutional preservation infrastructure" ;
     trsp:att.521A4A9E17 "Marine scientists and oceanographers in Spain and internationally", "data from CSIC research vessel expeditions" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Manages oceanographic data from CSIC research vessels, integrates with SeaDataNet and EMODnet European marine data networks
+    schema:Comment "Manages oceanographic data from CSIC research vessels", "integrates with SeaDataNet and EMODnet European marine data networks" ;
 .
 
 trsp:repo.0180636A61 a trsp:Repository ;
     dct:title "Data Archive for Social Sciences in Bosnia and Herzegovina (DASS-BiH)"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://dass.credi.ba/^^xsd:anyURL ;
+    dcat:landingPage <https://dass.credi.ba/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2016" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/BIH> ;
@@ -1156,15 +1156,15 @@ trsp:repo.0180636A61 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation per institutional capacity" ;
     trsp:att.521A4A9E17 "BiH social science researchers", "Western Balkans academic community" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Developing toward CESSDA full membership, supported by CREDI infrastructure, part of Western Balkans open science development
+    schema:Comment "Developing toward CESSDA full membership", "supported by CREDI infrastructure", "part of Western Balkans open science development" ;
 .
 
 trsp:repo.002FA0AA0F a trsp:Repository ;
     dct:title "ASAP"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://asap.epfl.ch/^^xsd:anyURL ;
+    dcat:landingPage <https://asap.epfl.ch/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2016" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/CHE> ;
@@ -1191,15 +1191,15 @@ trsp:repo.002FA0AA0F a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term hosting at EPFL", "institutional infrastructure", "versioned project storage" ;
     trsp:att.521A4A9E17 "Single-cell omics researchers worldwide", "open to all academics", "free to use" ;
     trsp:att.1D00720769 "Long-term (EPFL infrastructure)" ;
-    schema:Comment Version 1 launched ~2016, major overhaul with reproducible analyses and scFAIR compliance in recent versions, integrates with public databases (GEO, ArrayExpress, SRA, BioProject), open-source under GPL licence, collaborative feature allows multi-user projects
+    schema:Comment "Version 1 launched ~2016", "major overhaul with reproducible analyses and scFAIR compliance in recent versions", "integrates with public databases (GEO", "ArrayExpress", "SRA", "BioProject)", "open-source under GPL licence", "collaborative feature allows multi-user projects" ;
 .
 
 trsp:repo.6B38C46111 a trsp:Repository ;
     dct:title "CESSDA ERIC"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://www.cessda.eu/Strategy-Expertise/Trust-and-Standards^^xsd:anyURL ;
+    dcat:landingPage <https://www.cessda.eu/Strategy-Expertise/Trust-and-Standards> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2017" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/NOR> ;
@@ -1226,15 +1226,15 @@ trsp:repo.6B38C46111 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation responsibility lies with individual CoreTrustSeal-certified national Service Providers", "CESSDA coordinates standards and best practice" ;
     trsp:att.521A4A9E17 "Social science researchers in CESSDA member countries and internationally", "data deposited at national archives" ;
     trsp:att.1D00720769 "Long-term (coordinated by national Service Providers)" ;
-    schema:Comment CESSDA originated as informal consortium 1976, became ERIC (legal entity) in June 2017, 15 Service Providers, CESSDA Data Catalogue has 40, 000+ datasets, CoreTrustSeal mandatory for all Service Providers, active participant in EOSC and SSHOC
+    schema:Comment "CESSDA originated as informal consortium 1976", "became ERIC (legal entity) in June 2017", "15 Service Providers", "CESSDA Data Catalogue has 40", "000+ datasets", "CoreTrustSeal mandatory for all Service Providers", "active participant in EOSC and SSHOC" ;
 .
 
 trsp:repo.0589F80CF6 a trsp:Repository ;
     dct:title "PANGAEA - Data Publisher for Earth & Environmental Science"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://www.pangaea.de/^^xsd:anyURL ;
+    dcat:landingPage <https://www.pangaea.de/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"1994" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/DEU> ;
@@ -1261,15 +1261,15 @@ trsp:repo.0589F80CF6 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term archiving by AWI and MARUM", "OAIS-compliant ingest", "hosting institutions guarantee continuity", "mirrors maintained" ;
     trsp:att.521A4A9E17 "Open to any scientist", "project or institution worldwide", "international community", "editorial team works closely with submitters" ;
     trsp:att.1D00720769 "Long-term / indefinite" ;
-    schema:Comment Originated from SEDAT/SEDAN database (1987), renamed PANGAEA 1994, >380, 000 datasets, >14 billion data items, first DOI assigned by DataCite (2004) was a PANGAEA dataset
+    schema:Comment "Originated from SEDAT/SEDAN database (1987)", "renamed PANGAEA 1994", ">380", "000 datasets", ">14 billion data items", "first DOI assigned by DataCite (2004) was a PANGAEA dataset" ;
 .
 
 trsp:repo.66B58B3D2D a trsp:Repository ;
     dct:title "Finnish Social Science Data Archive"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://www.fsd.tuni.fi/en/^^xsd:anyURL ;
+    dcat:landingPage <https://www.fsd.tuni.fi/en/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"1999" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/FIN> ;
@@ -1296,15 +1296,15 @@ trsp:repo.66B58B3D2D a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term archiving and preservation", "migration to new formats as needed", "OAIS-aligned practices" ;
     trsp:att.521A4A9E17 "Finnish and international social science researchers", "data from funded Finnish research projects encouraged", "open to all for non-commercial use" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Established 1999 at University of Tampere (now Tampere University), CESSDA member, deposit policy reference: https://dans.knaw.nl/en/selection-policy-dans-data-stations/
+    schema:Comment "Established 1999 at University of Tampere (now Tampere University)", "CESSDA member", "deposit policy reference: https://dans.knaw.nl/en/selection-policy-dans-data-stations/" ;
 .
 
 trsp:repo.346AA2D576 a trsp:Repository ;
     dct:title "DataRepositriUM"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://datarepositorium.uminho.pt/^^xsd:anyURL ;
+    dcat:landingPage <https://datarepositorium.uminho.pt/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2019" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/PRT> ;
@@ -1331,15 +1331,15 @@ trsp:repo.346AA2D576 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation as per CoreTrustSeal requirements", "institutional guarantee by UMinho" ;
     trsp:att.521A4A9E17 "University of Minho researchers and affiliated research units", "all disciplines", "free to deposit" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Built on Harvard Dataverse platform, CoreTrustSeal certified 2025–2028, 114 dataverses, 290 datasets, 2, 621 files as of late 2025
+    schema:Comment "Built on Harvard Dataverse platform", "CoreTrustSeal certified 2025–2028", "114 dataverses", "290 datasets", "2", "621 files as of late 2025" ;
 .
 
 trsp:repo.4E16B3E617 a trsp:Repository ;
     dct:title "Center for Socio-Political Data (CDSP)"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://data.sciencespo.fr/dataverse/cdsp^^xsd:anyURL ;
+    dcat:landingPage <https://data.sciencespo.fr/dataverse/cdsp> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"1998" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/FRA> ;
@@ -1366,15 +1366,15 @@ trsp:repo.4E16B3E617 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation", "Sciences Po institutional guarantee", "CESSDA-aligned curation" ;
     trsp:att.521A4A9E17 "French and international social science researchers", "primary focus on political science", "electoral studies", "sociology" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Established 1998, CESSDA French Service Provider, launched 2020 as data.sciencespo Dataverse instance, CDSP collection from 2005 onwards, CoreTrustSeal certified
+    schema:Comment "Established 1998", "CESSDA French Service Provider", "launched 2020 as data.sciencespo Dataverse instance", "CDSP collection from 2005 onwards", "CoreTrustSeal certified" ;
 .
 
 trsp:repo.00BA218182 a trsp:Repository ;
     dct:title "ARCHE - A Resource Centre for the HumanitiEs"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://arche.acdh.oeaw.ac.at/browser/^^xsd:anyURL ;
+    dcat:landingPage <https://arche.acdh.oeaw.ac.at/browser/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2018" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/AUT> ;
@@ -1401,15 +1401,15 @@ trsp:repo.00BA218182 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation", "ÖAW institutional guarantee", "OAIS-aligned", "CoreTrustSeal certified" ;
     trsp:att.521A4A9E17 "Austrian humanities researchers", "CLARIN/DARIAH community", "open internationally for academic use" ;
     trsp:att.1D00720769 "Long-term / indefinite" ;
-    schema:Comment ARCHE = A Resource Centre for the HumanitiEs, CLARIN Austrian B-Centre, CoreTrustSeal certified 2022, developed on ARCHE software (PHP/Drupal frontend, Fedora Commons backend)
+    schema:Comment "ARCHE = A Resource Centre for the HumanitiEs", "CLARIN Austrian B-Centre", "CoreTrustSeal certified 2022", "developed on ARCHE software (PHP/Drupal frontend", "Fedora Commons backend)" ;
 .
 
 trsp:repo.00E8A65B68 a trsp:Repository ;
     dct:title "SOCIB Data Repository"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://www.socib.es/en/what-we-do/metocean-data/socib-data-repository^^xsd:anyURL ;
+    dcat:landingPage <https://www.socib.es/en/what-we-do/metocean-data/socib-data-repository> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2011" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/ESP> ;
@@ -1436,15 +1436,15 @@ trsp:repo.00E8A65B68 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation", "CoreTrustSeal certified", "SOCIB institutional mandate" ;
     trsp:att.521A4A9E17 "Oceanographers", "marine scientists", "coastal engineers and environmental researchers internationally", "open to all" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Established 2011, CoreTrustSeal certified, integrated with EMODnet and Copernicus Marine Service, real-time and historical data access, provides glider, HF radar and mooring datasets
+    schema:Comment "Established 2011", "CoreTrustSeal certified", "integrated with EMODnet and Copernicus Marine Service", "real-time and historical data access", "provides glider", "HF radar and mooring datasets" ;
 .
 
 trsp:repo.31C7106603 a trsp:Repository ;
     dct:title "Croatian Social Science Data Archive"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://data.crossda.hr^^xsd:anyURL ;
+    dcat:landingPage <https://data.crossda.hr> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2005" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/HRV> ;
@@ -1471,15 +1471,15 @@ trsp:repo.31C7106603 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term archiving", "CESSDA-aligned data curation practices" ;
     trsp:att.521A4A9E17 "Croatian and international social science researchers", "datasets from Croatian research projects" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Established 2005, CESSDA Croatian Service Provider, DDI-based metadata documentation
+    schema:Comment "Established 2005", "CESSDA Croatian Service Provider", "DDI-based metadata documentation" ;
 .
 
 trsp:repo.00B1563729 a trsp:Repository ;
     dct:title "INFRA-ART Spectral Library"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://infraart.inoe.ro/^^xsd:anyURL ;
+    dcat:landingPage <https://infraart.inoe.ro/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2016" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/ROU> ;
@@ -1506,15 +1506,15 @@ trsp:repo.00B1563729 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term hosting as part of E-RIHS and IPERION-HS European cultural heritage research infrastructure" ;
     trsp:att.521A4A9E17 "Heritage scientists", "conservators", "museum professionals and researchers worldwide" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Part of IPERION-HS European Research Infrastructure for Heritage Science, specialised FTIR/NIR spectral library for art conservation
+    schema:Comment "Part of IPERION-HS European Research Infrastructure for Heritage Science", "specialised FTIR/NIR spectral library for art conservation" ;
 .
 
 trsp:repo.1B6B7677B4 a trsp:Repository ;
     dct:title "UK Data Service"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://ukdataservice.ac.uk^^xsd:anyURL ;
+    dcat:landingPage <https://ukdataservice.ac.uk> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2012" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/GBR> ;
@@ -1541,15 +1541,15 @@ trsp:repo.1B6B7677B4 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation", "ISO 27001 certified", "OAIS-aligned", "ISO 16363 informed", "UK Data Archive has preserved data since 1967" ;
     trsp:att.521A4A9E17 "ESRC-funded researchers must deposit data", "open to academia", "government", "charities", "commercial sector", "international users welcome" ;
     trsp:att.1D00720769 "Long-term / indefinite" ;
-    schema:Comment UK Data Archive established 1967 at Essex, current UK Data Service form since October 2012, >23, 000 registered users, >6, 000 datasets, CESSDA UK Service Provider
+    schema:Comment "UK Data Archive established 1967 at Essex", "current UK Data Service form since October 2012", ">23", "000 registered users", ">6", "000 datasets", "CESSDA UK Service Provider" ;
 .
 
 trsp:repo.003C4F4661 a trsp:Repository ;
     dct:title "PIST"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage http://www.pist.tn/^^xsd:anyURL ;
+    dcat:landingPage <http://www.pist.tn/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2004" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/TUN> ;
@@ -1576,15 +1576,15 @@ trsp:repo.003C4F4661 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term archiving by CNUDST as national mandate" ;
     trsp:att.521A4A9E17 "Tunisian academic and research community", "focuses on Tunisian scientific output", "open to all users" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment National portal launched by CNUDST, includes scientific union catalogue covering 144 Tunisian institutions, provides access to official legislative texts since 1956, built on Invenio platform
+    schema:Comment "National portal launched by CNUDST", "includes scientific union catalogue covering 144 Tunisian institutions", "provides access to official legislative texts since 1956", "built on Invenio platform" ;
 .
 
 trsp:repo.0CBE4E6DFC a trsp:Repository ;
     dct:title "DataverseLV"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://dv.dataverse.lv/^^xsd:anyURL ;
+    dcat:landingPage <https://dv.dataverse.lv/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2020" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/LVA> ;
@@ -1611,15 +1611,15 @@ trsp:repo.0CBE4E6DFC a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation per institutional policy" ;
     trsp:att.521A4A9E17 "Latvian researchers and research institutions", "open for international reuse" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Built on Harvard Dataverse platform, contributes to Latvian and Baltic open science development
+    schema:Comment "Built on Harvard Dataverse platform", "contributes to Latvian and Baltic open science development" ;
 .
 
 trsp:repo.5C32EF8367 a trsp:Repository ;
     dct:title "CLARIN ERIC"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://www.clarin.eu^^xsd:anyURL ;
+    dcat:landingPage <https://www.clarin.eu> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2012" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/NLD> ;
@@ -1646,15 +1646,15 @@ trsp:repo.5C32EF8367 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation is guaranteed by individual CLARIN national centres (each must hold CoreTrustSeal)", "CLARIN ERIC coordinates standards and policies centrally" ;
     trsp:att.521A4A9E17 "Researchers in humanities", "social sciences and language technology worldwide", "data deposited at national CLARIN centres", "not centrally at CLARIN ERIC" ;
     trsp:att.1D00720769 "Long-term / indefinite" ;
-    schema:Comment Established 2012 as second ERIC after EMBL, preparatory phase funded by EU FP7 2008–2010, central services include VLO (850k metadata records), Federated Content Search, Language Resource Switchboard, requires CoreTrustSeal for all certified centres
+    schema:Comment "Established 2012 as second ERIC after EMBL", "preparatory phase funded by EU FP7 2008–2010", "central services include VLO (850k metadata records)", "Federated Content Search", "Language Resource Switchboard", "requires CoreTrustSeal for all certified centres" ;
 .
 
 trsp:repo.0048D487E7 a trsp:Repository ;
     dct:title "Sikt Research Data Archive"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://sikt.no/en/archiving-research-data^^xsd:anyURL ;
+    dcat:landingPage <https://sikt.no/en/archiving-research-data> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"1971" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/NOR> ;
@@ -1681,15 +1681,15 @@ trsp:repo.0048D487E7 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation as part of national infrastructure mandate", "OAIS-aligned" ;
     trsp:att.521A4A9E17 "Norwegian and international social science researchers", "data from Norwegian register authorities", "CESSDA harvested" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment NSD founded 1971, renamed Sikt in 2022 after merger with UNINETT and Unit, one of Europe's largest social science archives, also handles data protection advisory for Norwegian HEIs
+    schema:Comment "NSD founded 1971", "renamed Sikt in 2022 after merger with UNINETT and Unit", "one of Europe's largest social science archives", "also handles data protection advisory for Norwegian HEIs" ;
 .
 
 trsp:repo.79BBDA6F70 a trsp:Repository ;
     dct:title "World Data Center for Climate (WDCC)"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://www.wdc-climate.de/^^xsd:anyURL ;
+    dcat:landingPage <https://www.wdc-climate.de/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"1999" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/DEU> ;
@@ -1716,15 +1716,15 @@ trsp:repo.79BBDA6F70 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term archiving guaranteed by DKRZ", "minimum 10 years", "active preservation including format migration", "OAIS-aligned" ;
     trsp:att.521A4A9E17 "International climate and Earth system science researchers", "primarily output from DKRZ HPC projects and CMIP model contributions" ;
     trsp:att.1D00720769 "Minimum 10 years", "typically indefinite" ;
-    schema:Comment Established 1999 at DKRZ, first DataCite DOI ever assigned (2004) was for a WDCC dataset, >260 TB archived, WDS regular member since 2003
+    schema:Comment "Established 1999 at DKRZ", "first DataCite DOI ever assigned (2004) was for a WDCC dataset", ">260 TB archived", "WDS regular member since 2003" ;
 .
 
 trsp:repo.004F9BAF7C a trsp:Repository ;
     dct:title "MorpheusML Model Repository"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://morpheus.gitlab.io/model/^^xsd:anyURL ;
+    dcat:landingPage <https://morpheus.gitlab.io/model/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2014" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/DEU> ;
@@ -1751,15 +1751,15 @@ trsp:repo.004F9BAF7C a trsp:Repository ;
     trsp:att.768DAFA0DB "Models preserved on GitLab infrastructure", "persistent identifiers via identifiers.org" ;
     trsp:att.521A4A9E17 "Morpheus software users worldwide", "computational biology and systems biology researchers" ;
     trsp:att.1D00720769 "Ongoing (maintained by TU Dresden team)" ;
-    schema:Comment Tightly coupled to Morpheus simulation software, models identified via identifiers.org (e.g. morpheus/M2001), supports model exchange and reproducibility
+    schema:Comment "Tightly coupled to Morpheus simulation software", "models identified via identifiers.org (e.g. morpheus/M2001)", "supports model exchange and reproducibility" ;
 .
 
 trsp:repo.007276AA14 a trsp:Repository ;
     dct:title "RIVEC"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://rivec.institut-palanka.rs/^^xsd:anyURL ;
+    dcat:landingPage <https://rivec.institut-palanka.rs/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2019" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/SRB> ;
@@ -1786,15 +1786,15 @@ trsp:repo.007276AA14 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term archiving as part of institutional mandate" ;
     trsp:att.521A4A9E17 "Institut Palanka staff and researchers", "all published outputs from institute activities" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Built on DSpace/CRIS platform, part of Serbian national institutional repository network (same infrastructure as FiVeR, DAIS, RADaR)
+    schema:Comment "Built on DSpace/CRIS platform", "part of Serbian national institutional repository network (same infrastructure as FiVeR", "DAIS", "RADaR)" ;
 .
 
 trsp:repo.5F8F8C0526 a trsp:Repository ;
     dct:title "GUDe - Goethe University Data Repository"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://www.gude.uni-frankfurt.de^^xsd:anyURL ;
+    dcat:landingPage <https://www.gude.uni-frankfurt.de> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2020" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/DEU> ;
@@ -1821,15 +1821,15 @@ trsp:repo.5F8F8C0526 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation per institutional RDM policy" ;
     trsp:att.521A4A9E17 "Goethe University Frankfurt researchers and affiliated project partners" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Built on DSpace-CRIS platform, contributes to NFDI integration in Germany
+    schema:Comment "Built on DSpace-CRIS platform", "contributes to NFDI integration in Germany" ;
 .
 
 trsp:repo.610A896E75 a trsp:Repository ;
     dct:title "RADaR - Digital Repository of Archived Publications - Institute for Biological Research \"Sinisa Stankovic\""@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://radar.ibiss.bg.ac.rs/^^xsd:anyURL ;
+    dcat:landingPage <https://radar.ibiss.bg.ac.rs/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2017" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/SRB> ;
@@ -1856,15 +1856,15 @@ trsp:repo.610A896E75 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term archiving", "DSpace platform with institutional backup" ;
     trsp:att.521A4A9E17 "IBISS staff", "researchers and doctoral students" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Built on DSpace platform, part of Serbian national institutional repository network, harvested by OpenAIRE
+    schema:Comment "Built on DSpace platform", "part of Serbian national institutional repository network", "harvested by OpenAIRE" ;
 .
 
 trsp:repo.67FF569AA0 a trsp:Repository ;
     dct:title "CeR - Central repository ICTM"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://cer.ihtm.bg.ac.rs/^^xsd:anyURL ;
+    dcat:landingPage <https://cer.ihtm.bg.ac.rs/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2016" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/SRB> ;
@@ -1891,15 +1891,15 @@ trsp:repo.67FF569AA0 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term archiving as part of institutional mandate", "DSpace platform" ;
     trsp:att.521A4A9E17 "IHTM staff", "researchers and doctoral students" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Built on DSpace platform, part of the Serbian national institutional repository network, harvested by OpenAIRE
+    schema:Comment "Built on DSpace platform", "part of the Serbian national institutional repository network", "harvested by OpenAIRE" ;
 .
 
 trsp:repo.1DF058A6F6 a trsp:Repository ;
     dct:title "Fairdata Services"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://www.fairdata.fi^^xsd:anyURL ;
+    dcat:landingPage <https://www.fairdata.fi> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2017" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/FIN> ;
@@ -1926,15 +1926,15 @@ trsp:repo.1DF058A6F6 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation via Fairdata PAS (Preservation Service)", "CSC infrastructure guarantees", "national mandate" ;
     trsp:att.521A4A9E17 "Finnish researchers", "open to international use", "free for Finnish research organisations" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Ecosystem of three services: IDA (storage), Qvain (metadata editor), Etsin (catalogue), national mandate from Ministry of Education, CSC infrastructure
+    schema:Comment "Ecosystem of three services: IDA (storage)", "Qvain (metadata editor)", "Etsin (catalogue)", "national mandate from Ministry of Education", "CSC infrastructure" ;
 .
 
 trsp:repo.003C955045 a trsp:Repository ;
     dct:title "The Language Bank of Finland"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://www.kielipankki.fi/language-bank/^^xsd:anyURL ;
+    dcat:landingPage <https://www.kielipankki.fi/language-bank/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2001" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/FIN> ;
@@ -1961,15 +1961,15 @@ trsp:repo.003C955045 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation via CSC infrastructure (national IT infrastructure)", "CLARIN B-centre standards" ;
     trsp:att.521A4A9E17 "Finnish linguistics researchers primarily", "open to international academic use", "corpus management tools (Korp", "Kielipankki Download) provided" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Established 2001, CLARIN B-Centre, provides corpus tools including Korp concordance tool and Kielipankki download service, FIN-CLARIN is the Finnish CLARIN consortium
+    schema:Comment "Established 2001", "CLARIN B-Centre", "provides corpus tools including Korp concordance tool and Kielipankki download service", "FIN-CLARIN is the Finnish CLARIN consortium" ;
 .
 
 trsp:repo.29A21B39F5 a trsp:Repository ;
     dct:title "DTU Data"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://data.dtu.dk/^^xsd:anyURL ;
+    dcat:landingPage <https://data.dtu.dk/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2015" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/DNK> ;
@@ -1996,15 +1996,15 @@ trsp:repo.29A21B39F5 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation", "CoreTrustSeal-certified processes" ;
     trsp:att.521A4A9E17 "DTU researchers and affiliated project partners", "open for reuse internationally" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Built on Figshare platform, CoreTrustSeal certified, integrated with DTU Research Information System
+    schema:Comment "Built on Figshare platform", "CoreTrustSeal certified", "integrated with DTU Research Information System" ;
 .
 
 trsp:repo.54A6CD95F4 a trsp:Repository ;
     dct:title "Oxford Brookes"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://radar.brookes.ac.uk/^^xsd:anyURL ;
+    dcat:landingPage <https://radar.brookes.ac.uk/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2018" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/GBR> ;
@@ -2031,15 +2031,15 @@ trsp:repo.54A6CD95F4 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation", "minimum 10 years per UK funder requirements", "RADAR platform" ;
     trsp:att.521A4A9E17 "Oxford Brookes University researchers", "open for reuse internationally" ;
     trsp:att.1D00720769 "Minimum 10 years" ;
-    schema:Comment Built on RADAR (Research Archive and Digital Asset Repository) platform provided by Jisc
+    schema:Comment "Built on RADAR (Research Archive and Digital Asset Repository) platform provided by Jisc" ;
 .
 
 trsp:repo.7996C467D4 a trsp:Repository ;
     dct:title "ORTOLANG"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://www.ortolang.fr^^xsd:anyURL ;
+    dcat:landingPage <https://www.ortolang.fr> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2012" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/FRA> ;
@@ -2066,15 +2066,15 @@ trsp:repo.7996C467D4 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation via HUMA-NUM infrastructure", "CLARIN B-Centre standards" ;
     trsp:att.521A4A9E17 "Linguistics and language technology researchers in France and internationally", "free for academic use" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment ORTOLANG = Outils et Ressources pour un Traitement Optimisé de la LANGue, CLARIN French B-Centre, launched 2012, hosted on HUMA-NUM national digital humanities infrastructure
+    schema:Comment "ORTOLANG = Outils et Ressources pour un Traitement Optimisé de la LANGue", "CLARIN French B-Centre", "launched 2012", "hosted on HUMA-NUM national digital humanities infrastructure" ;
 .
 
 trsp:repo.00967B7916 a trsp:Repository ;
     dct:title "Data Repository Platform (ARP)"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://repo.researchdata.hu/^^xsd:anyURL ;
+    dcat:landingPage <https://repo.researchdata.hu/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2021" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/HUN> ;
@@ -2101,15 +2101,15 @@ trsp:repo.00967B7916 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation", "CoreTrustSeal certified" ;
     trsp:att.521A4A9E17 "Hungarian researchers", "open for international reuse", "all disciplines" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Built on Harvard Dataverse platform, CoreTrustSeal certified, part of DART European project for RDM capacity building in Hungary
+    schema:Comment "Built on Harvard Dataverse platform", "CoreTrustSeal certified", "part of DART European project for RDM capacity building in Hungary" ;
 .
 
 trsp:repo.004A879024 a trsp:Repository ;
     dct:title "e-cienciaDatos"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://edatos.consorciomadrono.es^^xsd:anyURL ;
+    dcat:landingPage <https://edatos.consorciomadrono.es> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2019" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/ESP> ;
@@ -2136,15 +2136,15 @@ trsp:repo.004A879024 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation", "CoreTrustSeal certified", "Madroño consortium infrastructure" ;
     trsp:att.521A4A9E17 "Researchers at Consorcio Madroño member universities", "open for international reuse" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Built on Harvard Dataverse platform, CoreTrustSeal certified, covers Complutense, Autónoma, Carlos III, Alcalá de Henares, UNED, Rey Juan Carlos and other Madrid universities
+    schema:Comment "Built on Harvard Dataverse platform", "CoreTrustSeal certified", "covers Complutense", "Autónoma", "Carlos III", "Alcalá de Henares", "UNED", "Rey Juan Carlos and other Madrid universities" ;
 .
 
 trsp:repo.046B279494 a trsp:Repository ;
     dct:title "Coscine"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://about.coscine.de/en/^^xsd:anyURL ;
+    dcat:landingPage <https://about.coscine.de/en/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2019" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/DEU> ;
@@ -2171,15 +2171,15 @@ trsp:repo.046B279494 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term archiving", "data transfer to external repositories (e.g. ZENODO", "4TU.ResearchData) supported" ;
     trsp:att.521A4A9E17 "Researchers at NRW institutions", "expanding to institutions in other German states", "free for member institutions" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Developed by RWTH Aachen and Forschungszentrum Jülich, >40 domain-specific metadata schemas, integrates with NFDI consortia, supports entire RDM lifecycle
+    schema:Comment "Developed by RWTH Aachen and Forschungszentrum Jülich", ">40 domain-specific metadata schemas", "integrates with NFDI consortia", "supports entire RDM lifecycle" ;
 .
 
 trsp:repo.7B721A758B a trsp:Repository ;
     dct:title "Centre de Donnees astronomiques de Strasbourg/Strasbourg astronomical Data Center (CDS)"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://cds.unistra.fr/^^xsd:anyURL ;
+    dcat:landingPage <https://cds.unistra.fr/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"1972" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/FRA> ;
@@ -2206,15 +2206,15 @@ trsp:repo.7B721A758B a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation by University of Strasbourg and CNRS", "infrastructure in place since 1972" ;
     trsp:att.521A4A9E17 "International astronomical community", "data from published research papers deposited alongside journal publication" ;
     trsp:att.1D00720769 "Long-term / indefinite" ;
-    schema:Comment Founded 1972, VizieR hosts >22, 000 catalogues, SIMBAD contains >15 million objects, provides TAP, ADQL, SIMBAD, VizieR APIs, cornerstone of Virtual Observatory, CDS-Portal, Aladin Sky Atlas
+    schema:Comment "Founded 1972", "VizieR hosts >22", "000 catalogues", "SIMBAD contains >15 million objects", "provides TAP", "ADQL", "SIMBAD", "VizieR APIs", "cornerstone of Virtual Observatory", "CDS-Portal", "Aladin Sky Atlas" ;
 .
 
 trsp:repo.00318846F4 a trsp:Repository ;
     dct:title "FiVeR"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://fiver.ifvcns.rs/^^xsd:anyURL ;
+    dcat:landingPage <https://fiver.ifvcns.rs/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2008" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/SRB> ;
@@ -2241,15 +2241,15 @@ trsp:repo.00318846F4 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation as part of institutional mandate", "DSpace platform ensures ongoing archiving" ;
     trsp:att.521A4A9E17 "IFVCNS staff and affiliated researchers", "research outputs from IFVCNS projects" ;
     trsp:att.1D00720769 "Long-term / indefinite" ;
-    schema:Comment Built on DSpace platform, interoperable with OpenAIRE, includes Altmetric and citation tracking via external APP tool
+    schema:Comment "Built on DSpace platform", "interoperable with OpenAIRE", "includes Altmetric and citation tracking via external APP tool" ;
 .
 
 trsp:repo.226704C31B a trsp:Repository ;
     dct:title "glittr.org"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://glittr.org/^^xsd:anyURL ;
+    dcat:landingPage <https://glittr.org/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2021" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/NLD> ;
@@ -2276,15 +2276,15 @@ trsp:repo.226704C31B a trsp:Repository ;
     trsp:att.768DAFA0DB "Materials stored in external repositories (GitHub etc.)", "catalogue maintained long-term by ELIXIR-NL" ;
     trsp:att.521A4A9E17 "Bioinformaticians", "life scientists", "educators", "open globally", "community contributors via GitHub" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Registry/catalogue model – not a primary data store, aggregates materials from GitHub and other platforms, integrated with TeSS ELIXIR training portal
+    schema:Comment "Registry/catalogue model – not a primary data store", "aggregates materials from GitHub and other platforms", "integrated with TeSS ELIXIR training portal" ;
 .
 
 trsp:repo.3E1A5A4B73 a trsp:Repository ;
     dct:title "KU Leuven RDR"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://rdr.kuleuven.be/^^xsd:anyURL ;
+    dcat:landingPage <https://rdr.kuleuven.be/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2019" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/BEL> ;
@@ -2311,15 +2311,15 @@ trsp:repo.3E1A5A4B73 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation per KU Leuven RDM policy" ;
     trsp:att.521A4A9E17 "KU Leuven researchers and affiliated research groups", "all faculties and disciplines" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Built on Harvard Dataverse platform, linked to LIRIAS research information system, part of KU Leuven open science infrastructure
+    schema:Comment "Built on Harvard Dataverse platform", "linked to LIRIAS research information system", "part of KU Leuven open science infrastructure" ;
 .
 
 trsp:repo.005B248EEE a trsp:Repository ;
     dct:title "DAIS - Digital Archive of the Serbian Academy of Sciences and Arts"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://dais.sanu.ac.rs/^^xsd:anyURL ;
+    dcat:landingPage <https://dais.sanu.ac.rs/> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2014" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/SRB> ;
@@ -2346,15 +2346,15 @@ trsp:repo.005B248EEE a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation as part of SANU institutional mandate", "DSpace platform with institutional backup" ;
     trsp:att.521A4A9E17 "SANU members", "associates and affiliated institute researchers", "publications resulting from SANU-funded or SANU-affiliated work" ;
     trsp:att.1D00720769 "Long-term / indefinite" ;
-    schema:Comment Built on DSpace platform, harvested by OpenAIRE, covers SANU publications across all disciplines of science and arts
+    schema:Comment "Built on DSpace platform", "harvested by OpenAIRE", "covers SANU publications across all disciplines of science and arts" ;
 .
 
 trsp:repo.6668C83282 a trsp:Repository ;
     dct:title "Slovenian Social Science Data Archives"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://www.adp.fdv.uni-lj.si^^xsd:anyURL ;
+    dcat:landingPage <https://www.adp.fdv.uni-lj.si> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"1997" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/SVN> ;
@@ -2381,15 +2381,15 @@ trsp:repo.6668C83282 a trsp:Repository ;
     trsp:att.768DAFA0DB "Long-term preservation", "CESSDA-aligned curation and archiving practices" ;
     trsp:att.521A4A9E17 "Slovenian and international social science researchers", "Slovenian research projects encouraged to deposit" ;
     trsp:att.1D00720769 "Long-term" ;
-    schema:Comment Established 1997 as ADP (Arhiv družboslovnih podatkov), CESSDA Slovenian Service Provider, CoreTrustSeal certified
+    schema:Comment "Established 1997 as ADP (Arhiv družboslovnih podatkov)", "CESSDA Slovenian Service Provider", "CoreTrustSeal certified" ;
 .
 
 trsp:repo.003E022560 a trsp:Repository ;
     dct:title "myLaminin"@en ;
     dct:description {{}}@en ;
-    dcat:landingPage https://www.myLaminin.net^^xsd:anyURL ;
+    dcat:landingPage <https://www.myLaminin.net> ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	"2020" ;
     trsp:att.4570870110	<https://w3id.org/trsp/vocabs/iso/iso3166-1-alpha-3/CAN> ;
@@ -2416,5 +2416,5 @@ trsp:repo.003E022560 a trsp:Repository ;
     trsp:att.768DAFA0DB "Blockchain-immutable audit trail", "long-term archiving with institutional SLAs", "SOC2 Type II compliance" ;
     trsp:att.521A4A9E17 "Research institutions and Principal Investigators globally", "subscription-based access", "sensitive data focus" ;
     trsp:att.1D00720769 "Per institutional agreement / SLA" ;
-    schema:Comment First commercial member of FIDELIS TDR Network, integrated with Adobe Acrobat Sign, RAiD integration with ARDC, supports multi-jurisdictional legal requirements
+    schema:Comment "First commercial member of FIDELIS TDR Network", "integrated with Adobe Acrobat Sign", "RAiD integration with ARDC", "supports multi-jurisdictional legal requirements" ;
 .
