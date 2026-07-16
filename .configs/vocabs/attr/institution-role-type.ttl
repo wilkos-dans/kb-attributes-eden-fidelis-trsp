@@ -25,7 +25,12 @@ trsp:publisher
 trsp:funder
   a skos:Concept ;
   skos:prefLabel "Funding Institution"@en ;
-  skos:inScheme trsp:package-type-scheme .
+  skos:inScheme trsp:institution-role-type-scheme .
+
+trsp:membership
+  a skos:Concept ;
+  skos:prefLabel "Membership Institution"@en ;
+  skos:inScheme trsp:institution-role-type-scheme .
 
 trsp:user
   a skos:Concept ;
