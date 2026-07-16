@@ -20,7 +20,6 @@ trsp:repo.{{}} a trsp:Repository ;
     trsp:att.035ACCB10D	{{}} ;
     trsp:att.241E6C58DF	{{}} ;
     trsp:att.27C898E8A0	{{}} ;
-    trsp:att.27C898E8A0	{{}} ;
     trsp:att.78CC017229	{{}} ;
     trsp:att.394BC515E7	{{}} ;
     trsp:att.6EF77F35F8	{{}} ;
