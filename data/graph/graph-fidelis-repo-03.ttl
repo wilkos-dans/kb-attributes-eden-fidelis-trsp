@@ -6,7 +6,7 @@
 
 trsp:repo.00B8A6AE14 a trsp:Repository ;
     dct:title "HOMEROS - OSCARS project"@en ;
-    dct:description {{}}@en ;
+    dct:description "Community collection within Zenodo for the HOMEROS initiative under the OSCARS (Open Science Cluster Action for Research and Society) Horizon Europe project. Focuses on humanities and social science research outputs and datasets from OSCARS-affiliated communities in Greece and Europe."@en ;
     dcat:landingPage <https://zenodo.org/communities/homeros/records?q=&l=list&p=1&s=10&sort=newest> ;
     dct:identifier "r3d:" ;
     dcat:endpointURL <https://zenodo.org/communities/homeros/records?q=&l=list&p=1&s=10&sort=newest> ;
@@ -40,7 +40,7 @@ trsp:repo.00B8A6AE14 a trsp:Repository ;
 
 trsp:repo.0041142F56 a trsp:Repository ;
     dct:title "GrantHub Open Funding & Innovation Knowledge Repository"@en ;
-    dct:description {{}}@en ;
+    dct:description "Strategic investment advisory and funding intelligence platform connecting research, innovation and investment ecosystems. Supports organisations in navigating EU and international funding programmes (Horizon Europe, Erasmus+, COST, EIC, Eurostars, LIFE, NATO SPS, Interreg) and structuring innovation funding applications. Not a traditional research data repository but a knowledge repository for funding and innovation opportunities."@en ;
     dcat:landingPage <https://www.granthub.cz/> ;
     dct:identifier  ;
     dcat:endpointURL <https://www.granthub.cz/> ;
@@ -74,7 +74,7 @@ trsp:repo.0041142F56 a trsp:Repository ;
 
 trsp:repo.009EC11C5C a trsp:Repository ;
     dct:title "DisProt"@en ;
-    dct:description {{}}@en ;
+    dct:description "Manually curated database of intrinsically disordered proteins (IDPs) and regions (IDRs). Provides structural, functional and experimental annotation for proteins lacking fixed 3D structure. Community resource for IDP bioinformatics research", "annotates disorder using experimental evidence and three ontologies."@en ;
     dcat:landingPage <https://disprot.org/> ;
     dct:identifier  ;
     dcat:endpointURL <https://disprot.org/> ;
@@ -108,7 +108,7 @@ trsp:repo.009EC11C5C a trsp:Repository ;
 
 trsp:repo.003EEB3389 a trsp:Repository ;
     dct:title "PHAIDRA - University of Padua"@en ;
-    dct:description {{}}@en ;
+    dct:description "Institutional digital asset management and repository system of the University of Padua. Preserves and provides access to digital scholarly objects, research datasets, cultural heritage materials, and educational resources. PHAIDRA is open-source software adopted by multiple institutions."@en ;
     dcat:landingPage <https://phaidra.cab.unipd.it/> ;
     dct:identifier  ;
     dcat:endpointURL <https://phaidra.cab.unipd.it/> ;
@@ -142,7 +142,7 @@ trsp:repo.003EEB3389 a trsp:Repository ;
 
 trsp:repo.001961A5E1 a trsp:Repository ;
     dct:title "DOME Registry"@en ;
-    dct:description {{}}@en ;
+    dct:description "Registry curating machine learning methods applied in biology from scientific publications. Implements the DOME (Data, Optimization, Model, Evaluation) recommendations for reporting supervised ML in biology. Assigns unique DOME identifiers and DOME scores to publications", "supports community curation. Aims to improve reproducibility and transparency of ML in life sciences."@en ;
     dcat:landingPage <https://registry.dome-ml.org/intro> ;
     dct:identifier  ;
     dcat:endpointURL <https://registry.dome-ml.org/intro> ;
@@ -176,7 +176,7 @@ trsp:repo.001961A5E1 a trsp:Repository ;
 
 trsp:repo.7A31FBDEE1 a trsp:Repository ;
     dct:title "STRING database"@en ;
-    dct:description {{}}@en ;
+    dct:description "Database of known and predicted protein-protein interactions (direct physical and indirect functional associations). Integrates data from genomic context, high-throughput experiments, co-expression, and text mining. Covers >5,000 organisms. Widely used for functional enrichment analysis."@en ;
     dcat:landingPage <https://string-db.org> ;
     dct:identifier  ;
     dcat:endpointURL <https://string-db.org> ;
@@ -210,7 +210,7 @@ trsp:repo.7A31FBDEE1 a trsp:Repository ;
 
 trsp:repo.27DEC264D7 a trsp:Repository ;
     dct:title "Recherche Data Gouv France"@en ;
-    dct:description {{}}@en ;
+    dct:description "French national multidisciplinary open research data ecosystem and repository. Provides a trusted, open-access repository for French researchers who lack a domain-specific repository. Part of France's Second National Plan for Open Science. Facilitates data sharing, discovery and reuse across all disciplines."@en ;
     dcat:landingPage <https://recherche.data.gouv.fr/en> ;
     dct:identifier  ;
     dcat:endpointURL <https://recherche.data.gouv.fr/en> ;
@@ -244,7 +244,7 @@ trsp:repo.27DEC264D7 a trsp:Repository ;
 
 trsp:repo.0075D2D0B2 a trsp:Repository ;
     dct:title "CORA.Repositori de Dades de Recerca"@en ;
-    dct:description {{}}@en ;
+    dct:description "Catalan consortium research data repository for universities and research centres in Catalonia. Provides multidisciplinary data archiving, DOI assignment and open access. Part of the CORA (Consorci de Repositoris Acadèmics) open science infrastructure for Catalan institutions."@en ;
     dcat:landingPage <https://dataverse.csuc.cat/> ;
     dct:identifier  ;
     dcat:endpointURL <https://dataverse.csuc.cat/> ;
@@ -278,7 +278,7 @@ trsp:repo.0075D2D0B2 a trsp:Repository ;
 
 trsp:repo.4B12A4A8E3 a trsp:Repository ;
     dct:title "DANS Data Station Life Sciences"@en ;
-    dct:description {{}}@en ;
+    dct:description "Domain-specific repository for life sciences research data (health sciences, medical sciences, green life sciences). Services primarily aimed at Dutch researchers. Part of DANS Data Stations infrastructure built on Harvard Dataverse. Integrates with ODISSEI and national life sciences portals."@en ;
     dcat:landingPage <https://lifesciences.datastations.nl/> ;
     dct:identifier  ;
     dcat:endpointURL <https://lifesciences.datastations.nl/> ;
@@ -312,7 +312,7 @@ trsp:repo.4B12A4A8E3 a trsp:Repository ;
 
 trsp:repo.552C7DD5F0 a trsp:Repository ;
     dct:title "DANS Data Station Social Sciences and Humanities"@en ;
-    dct:description {{}}@en ;
+    dct:description "Domain-specific repository for social sciences and humanities research data primarily serving Dutch researchers. Part of DANS Data Stations infrastructure. Successor to EASY archive. Integrates with CESSDA Data Catalogue and ODISSEI portal for social science data discovery."@en ;
     dcat:landingPage <https://ssh.datastations.nl/> ;
     dct:identifier  ;
     dcat:endpointURL <https://ssh.datastations.nl/> ;
@@ -346,7 +346,7 @@ trsp:repo.552C7DD5F0 a trsp:Repository ;
 
 trsp:repo.39DF75675C a trsp:Repository ;
     dct:title "Austrian NeuroCloud"@en ;
-    dct:description {{}}@en ;
+    dct:description "Research data repository and cloud platform for neuroscience data. Provides secure archiving, sharing and management of neuroimaging, brain connectivity and related neuroscience datasets. Integrates with EBRAINS European neuroscience infrastructure."@en ;
     dcat:landingPage <https://anc.plus.ac.at/> ;
     dct:identifier  ;
     dcat:endpointURL <https://anc.plus.ac.at/> ;
@@ -380,7 +380,7 @@ trsp:repo.39DF75675C a trsp:Repository ;
 
 trsp:repo.00624373BF a trsp:Repository ;
     dct:title "DataverseUA"@en ;
-    dct:description {{}}@en ;
+    dct:description "Ukrainian national open research data repository hosted by the National Academy of Sciences of Ukraine. Provides open access to research data from Ukrainian scientific institutions across all disciplines. Supports Ukrainian open science development."@en ;
     dcat:landingPage <https://opendata.nas.gov.ua> ;
     dct:identifier  ;
     dcat:endpointURL <https://opendata.nas.gov.ua> ;
@@ -414,7 +414,7 @@ trsp:repo.00624373BF a trsp:Repository ;
 
 trsp:repo.4B0F63A94A a trsp:Repository ;
     dct:title "Borealis (Canadian Dataverse Repository)"@en ;
-    dct:description {{}}@en ;
+    dct:description "National bilingual (English/French) Canadian research data repository. Provides multidisciplinary data archiving and sharing for researchers at CRKN member institutions. Successor to Scholars Portal Dataverse. Supports Tri-Agency open data mandates."@en ;
     dcat:landingPage <https://borealisdata.ca> ;
     dct:identifier  ;
     dcat:endpointURL <https://borealisdata.ca> ;
@@ -448,7 +448,7 @@ trsp:repo.4B0F63A94A a trsp:Repository ;
 
 trsp:repo.005BC63AA9 a trsp:Repository ;
     dct:title "SWISSUbase"@en ;
-    dct:description {{}}@en ;
+    dct:description "Swiss national cross-disciplinary platform for the curation, preservation and dissemination of research data and metadata. Launched 2021 to succeed FORSbase. Covers social sciences (via FORS DSU), linguistics (via LaRS/CLARIN-CH) and other disciplines (via institutional DSUs). Metadata harvested by CESSDA, CLARIN and DARIAH."@en ;
     dcat:landingPage <https://www.swissubase.ch/> ;
     dct:identifier  ;
     dcat:endpointURL <https://www.swissubase.ch/> ;
@@ -482,7 +482,7 @@ trsp:repo.005BC63AA9 a trsp:Repository ;
 
 trsp:repo.1798E19839 a trsp:Repository ;
     dct:title "DataverseNO"@en ;
-    dct:description {{}}@en ;
+    dct:description "Curated, FAIR-aligned national generic repository for open research data from all academic disciplines in Norway. Owned and operated by UiT. Accepts submissions primarily from Norwegian research institutions. Includes institutional collections and special collections (e.g., TROLLing)."@en ;
     dcat:landingPage <https://dataverse.no/> ;
     dct:identifier  ;
     dcat:endpointURL <https://dataverse.no/> ;
@@ -516,7 +516,7 @@ trsp:repo.1798E19839 a trsp:Repository ;
 
 trsp:repo.0086D1355E a trsp:Repository ;
     dct:title "Tromso, Repository of Language and Linguistics (TROLLing)"@en ;
-    dct:description {{}}@en ;
+    dct:description "FAIR-aligned open-access repository for linguistic datasets and statistical code used in linguistics research. All data accompanied by searchable metadata. Linguists worldwide invited to deposit data and code. Special collection within DataverseNO", "CLARIN C-Centre."@en ;
     dcat:landingPage <https://trolling.uit.no/> ;
     dct:identifier  ;
     dcat:endpointURL <https://trolling.uit.no/> ;
@@ -550,7 +550,7 @@ trsp:repo.0086D1355E a trsp:Repository ;
 
 trsp:repo.007F9FADF2 a trsp:Repository ;
     dct:title "CRIS UNS"@en ;
-    dct:description {{}}@en ;
+    dct:description "Current Research Information System (CRIS) of the University of Novi Sad. A comprehensive institutional research information system that stores, manages and provides access to bibliographic records of scientific and research outputs from all UNS faculties and institutes. Based on the CERIF data model."@en ;
     dcat:landingPage <https://cris.uns.ac.rs/en> ;
     dct:identifier  ;
     dcat:endpointURL <https://cris.uns.ac.rs/en> ;
@@ -584,7 +584,7 @@ trsp:repo.007F9FADF2 a trsp:Repository ;
 
 trsp:repo.298D90251D a trsp:Repository ;
     dct:title "Slovak Archive of Social Data (SASD)"@en ;
-    dct:description {{}}@en ;
+    dct:description "National Slovak archive collecting, preserving and disseminating data and metadata from sociological research for non-commercial research and teaching purposes. Actively gathers data from international programmes (ISSP, EVS, ESS). Supports secondary analysis of social survey data."@en ;
     dcat:landingPage <https://sasd.sav.sk/en/> ;
     dct:identifier  ;
     dcat:endpointURL <https://sasd.sav.sk/en/> ;
@@ -618,7 +618,7 @@ trsp:repo.298D90251D a trsp:Repository ;
 
 trsp:repo.644820F945 a trsp:Repository ;
     dct:title "Camtree: the Cambridge Teacher Research Exchange"@en ;
-    dct:description {{}}@en ;
+    dct:description "Repository and exchange platform dedicated to teacher-practitioner research and inquiry. Enables classroom-based teachers to share evidence from their own research to improve educational practice. Unique focus on practitioner-led educational knowledge creation and dissemination."@en ;
     dcat:landingPage <https://library.camtree.org> ;
     dct:identifier  ;
     dcat:endpointURL <https://library.camtree.org> ;
@@ -652,7 +652,7 @@ trsp:repo.644820F945 a trsp:Repository ;
 
 trsp:repo.245EF9D7AE a trsp:Repository ;
     dct:title "AgroPortal"@en ;
-    dct:description {{}}@en ;
+    dct:description "Ontology repository and portal for agronomy, food, plant science, biodiversity and related life sciences. Provides access to controlled vocabularies, terminologies and ontologies for semantic interoperability in agricultural and food research. Inspired by BioPortal."@en ;
     dcat:landingPage <https://agroportal.eu> ;
     dct:identifier  ;
     dcat:endpointURL <https://agroportal.eu> ;
@@ -686,7 +686,7 @@ trsp:repo.245EF9D7AE a trsp:Repository ;
 
 trsp:repo.0094967DCB a trsp:Repository ;
     dct:title "RiuNet"@en ;
-    dct:description {{}}@en ;
+    dct:description "Institutional open-access repository of the Universitat Politècnica de València providing access to research publications, datasets, theses, conference papers and educational materials from UPV. Complies with Spanish and European open access mandates."@en ;
     dcat:landingPage <https://riunet.upv.es/home> ;
     dct:identifier  ;
     dcat:endpointURL <https://riunet.upv.es/home> ;
@@ -720,7 +720,7 @@ trsp:repo.0094967DCB a trsp:Repository ;
 
 trsp:repo.0.00E+00 a trsp:Repository ;
     dct:title "Radboud Data Repository"@en ;
-    dct:description {{}}@en ;
+    dct:description "Institutional research data repository of Radboud University providing long-term archiving and access for multidisciplinary research data. Supports FAIR principles and Dutch and European funder data sharing requirements. Particular strength in humanities, social sciences, and cognitive neuroscience."@en ;
     dcat:landingPage <https://data.ru.nl/> ;
     dct:identifier  ;
     dcat:endpointURL <https://data.ru.nl/> ;
@@ -754,7 +754,7 @@ trsp:repo.0.00E+00 a trsp:Repository ;
 
 trsp:repo.006C9BFF2E a trsp:Repository ;
     dct:title "GESIS - Leibniz Institute for the Social Sciences"@en ;
-    dct:description {{}}@en ;
+    dct:description "Germany's largest infrastructure institute for the social sciences. Archives, curates and disseminates quantitative social science research data (surveys, longitudinal studies, election studies, digital behavioural data) for secondary use. Operates DOI registration agency da|ra for social science data."@en ;
     dcat:landingPage <https://www.gesis.org/en/data-services/share-data> ;
     dct:identifier  ;
     dcat:endpointURL <https://www.gesis.org/en/data-services/share-data> ;
@@ -788,7 +788,7 @@ trsp:repo.006C9BFF2E a trsp:Repository ;
 
 trsp:repo.004BA57DAA a trsp:Repository ;
     dct:title "Lithuanian Data Archive for Social Sciences and Humanities (LiDA)"@en ;
-    dct:description {{}}@en ;
+    dct:description "Lithuanian national data archive for social sciences and humanities. Archives, documents and provides access to Lithuanian SSH research datasets for secondary analysis, teaching and research. CESSDA Service Provider for Lithuania."@en ;
     dcat:landingPage <https://lida.dataverse.lt/> ;
     dct:identifier  ;
     dcat:endpointURL <https://lida.dataverse.lt/> ;
@@ -822,7 +822,7 @@ trsp:repo.004BA57DAA a trsp:Repository ;
 
 trsp:repo.005134C65D a trsp:Repository ;
     dct:title "Edinburgh DataShare"@en ;
-    dct:description {{}}@en ;
+    dct:description "Institutional open-access research data repository of the University of Edinburgh. One of the oldest UK institutional data repositories. Provides long-term preservation and sharing of multidisciplinary research data. Supports UKRI and funder open data mandates."@en ;
     dcat:landingPage <https://datashare.ed.ac.uk/> ;
     dct:identifier  ;
     dcat:endpointURL <https://datashare.ed.ac.uk/> ;
@@ -856,7 +856,7 @@ trsp:repo.005134C65D a trsp:Repository ;
 
 trsp:repo.18D00D3332 a trsp:Repository ;
     dct:title "STOREDB"@en ;
-    dct:description {{}}@en ;
+    dct:description "International platform for archiving and sharing primary research data on the effects of radiation, including epidemiological, experimental and tissue biobank data. Provides a directory of bioresources and databases. Supports the radiation research commons and data reuse in radiobiology."@en ;
     dcat:landingPage <https://www.storedb.org/store_v3> ;
     dct:identifier  ;
     dcat:endpointURL <https://www.storedb.org/store_v3> ;
@@ -890,7 +890,7 @@ trsp:repo.18D00D3332 a trsp:Repository ;
 
 trsp:repo.3.73E+52 a trsp:Repository ;
     dct:title "LINDAT/CLARIAH-CZ repository"@en ;
-    dct:description {{}}@en ;
+    dct:description "Czech national hub for CLARIN ERIC and DARIAH ERIC research infrastructures. Provides certified long-term storage, publication and NLP tool access for language data, digital humanities resources, text corpora and related research outputs. Promotes FAIR and open science principles."@en ;
     dcat:landingPage <https://lindat.cz/repository/> ;
     dct:identifier  ;
     dcat:endpointURL <https://lindat.cz/repository/> ;
@@ -924,7 +924,7 @@ trsp:repo.3.73E+52 a trsp:Repository ;
 
 trsp:repo.00D32E62E3 a trsp:Repository ;
     dct:title "ESRF Data Portal"@en ;
-    dct:description {{}}@en ;
+    dct:description "Data repository for photon science experiments conducted at the ESRF synchrotron. Stores and archives raw experimental data, processed data, and associated metadata from X-ray science experiments at the ESRF beamlines. Implements the ESRF Open Data Policy (2016). Data released publicly after embargo (maximum 3 years). First synchrotron repository to receive CoreTrustSeal certification."@en ;
     dcat:landingPage <https://data.esrf.fr/> ;
     dct:identifier  ;
     dcat:endpointURL <https://data.esrf.fr/> ;
@@ -958,7 +958,7 @@ trsp:repo.00D32E62E3 a trsp:Repository ;
 
 trsp:repo.408BAAA2BA a trsp:Repository ;
     dct:title "ROHub"@en ;
-    dct:description {{}}@en ;
+    dct:description "Repository and management hub for Research Objects (ROs) – aggregations of data, methods, workflows, code, publications and documentation. Supports FAIR-compliant sharing of executable, reproducible research. Implements the RO-Crate standard for packaging research outputs."@en ;
     dcat:landingPage <https://www.rohub.org/> ;
     dct:identifier  ;
     dcat:endpointURL <https://www.rohub.org/> ;
@@ -992,7 +992,7 @@ trsp:repo.408BAAA2BA a trsp:Repository ;
 
 trsp:repo.7254507349 a trsp:Repository ;
     dct:title "Qualitative Data Repository"@en ;
-    dct:description {{}}@en ;
+    dct:description "Repository dedicated to storing, publishing and sharing qualitative and multi-method research data from social science. Pioneered the Active Citation framework linking publications to supporting data. Supports transparency and methodological rigour in qualitative research."@en ;
     dcat:landingPage <https://qdr.org/> ;
     dct:identifier  ;
     dcat:endpointURL <https://qdr.org/> ;
@@ -1026,7 +1026,7 @@ trsp:repo.7254507349 a trsp:Repository ;
 
 trsp:repo.1AA258A562 a trsp:Repository ;
     dct:title "4TU.ResearchData"@en ;
-    dct:description {{}}@en ;
+    dct:description "International trusted digital repository for science, engineering and design research data. Provides curation, sharing, long-term access and preservation for researchers worldwide. Free up to specified storage limits for consortium members. Minimum 15-year preservation guarantee for all datasets."@en ;
     dcat:landingPage <https://data.4tu.nl> ;
     dct:identifier  ;
     dcat:endpointURL <https://data.4tu.nl> ;
@@ -1060,7 +1060,7 @@ trsp:repo.1AA258A562 a trsp:Repository ;
 
 trsp:repo.00804149FC a trsp:Repository ;
     dct:title "UTM-CSIC Data Centre"@en ;
-    dct:description {{}}@en ;
+    dct:description "Marine technology and oceanographic data centre of CSIC's UTM (Marine Technology Unit). Provides data management, archiving and open access to oceanographic expedition data, bathymetric data and marine research datasets from CSIC research vessels and affiliated projects."@en ;
     dcat:landingPage <https://data.utm.csic.es/> ;
     dct:identifier  ;
     dcat:endpointURL <https://data.utm.csic.es/> ;
@@ -1094,7 +1094,7 @@ trsp:repo.00804149FC a trsp:Repository ;
 
 trsp:repo.0180636A61 a trsp:Repository ;
     dct:title "Data Archive for Social Sciences in Bosnia and Herzegovina (DASS-BiH)"@en ;
-    dct:description {{}}@en ;
+    dct:description "National data archive for social sciences in Bosnia and Herzegovina. Collects, preserves and provides access to social science research datasets to support secondary analysis and evidence-based policy in the Western Balkans region."@en ;
     dcat:landingPage <https://dass.credi.ba/> ;
     dct:identifier  ;
     dcat:endpointURL <https://dass.credi.ba/> ;
@@ -1128,7 +1128,7 @@ trsp:repo.0180636A61 a trsp:Repository ;
 
 trsp:repo.002FA0AA0F a trsp:Repository ;
     dct:title "ASAP"@en ;
-    dct:description {{}}@en ;
+    dct:description "Automated Single-cell Analysis Portal (ASAP) – a collaborative web platform for analysing, visualising and publishing single-cell RNA-seq and multi-omics data. Allows researchers to import public datasets (GEO, ArrayExpress, SRA, BioProject) and private data, run analyses and share results. Incorporates scFAIR validation schema for single-cell data metadata."@en ;
     dcat:landingPage <https://asap.epfl.ch/> ;
     dct:identifier  ;
     dcat:endpointURL <https://asap.epfl.ch/> ;
@@ -1162,7 +1162,7 @@ trsp:repo.002FA0AA0F a trsp:Repository ;
 
 trsp:repo.6B38C46111 a trsp:Repository ;
     dct:title "CESSDA ERIC"@en ;
-    dct:description {{}}@en ;
+    dct:description "European research infrastructure consortium for social science data. CESSDA does not itself operate a data repository but sets standards for, coordinates and provides access to the distributed holdings of its national Service Provider archives. The Trust and Standards page describes CESSDA's CoreTrustSeal requirements for all Service Providers. CESSDA Data Catalogue provides a single discovery point for 40,000+ datasets across 15 national archives."@en ;
     dcat:landingPage <https://www.cessda.eu/Strategy-Expertise/Trust-and-Standards> ;
     dct:identifier  ;
     dcat:endpointURL <https://www.cessda.eu/Strategy-Expertise/Trust-and-Standards> ;
@@ -1196,7 +1196,7 @@ trsp:repo.6B38C46111 a trsp:Repository ;
 
 trsp:repo.0589F80CF6 a trsp:Repository ;
     dct:title "PANGAEA - Data Publisher for Earth & Environmental Science"@en ;
-    dct:description {{}}@en ;
+    dct:description "Open-access library for archiving, publishing and distributing georeferenced data from Earth, environmental and biodiversity sciences. Focuses on observational and experimental data. Editorial curation ensures completeness, correctness and interoperability of all archived datasets."@en ;
     dcat:landingPage <https://www.pangaea.de/> ;
     dct:identifier  ;
     dcat:endpointURL <https://www.pangaea.de/> ;
@@ -1230,7 +1230,7 @@ trsp:repo.0589F80CF6 a trsp:Repository ;
 
 trsp:repo.66B58B3D2D a trsp:Repository ;
     dct:title "Finnish Social Science Data Archive"@en ;
-    dct:description {{}}@en ;
+    dct:description "Finnish national resource centre for research and education in social sciences. Archives, promotes and disseminates digital research data for research, teaching and learning. Specialises in Finnish society, people and cultural phenomena. Provides data management services and training."@en ;
     dcat:landingPage <https://www.fsd.tuni.fi/en/> ;
     dct:identifier  ;
     dcat:endpointURL <https://www.fsd.tuni.fi/en/> ;
@@ -1264,7 +1264,7 @@ trsp:repo.66B58B3D2D a trsp:Repository ;
 
 trsp:repo.346AA2D576 a trsp:Repository ;
     dct:title "DataRepositriUM"@en ;
-    dct:description {{}}@en ;
+    dct:description "Multidisciplinary institutional research data repository of the University of Minho. Provides DOI assignment, metadata documentation, sharing and long-term archiving for research data from UMinho researchers across all disciplines. Supports FAIR principles and open science."@en ;
     dcat:landingPage <https://datarepositorium.uminho.pt/> ;
     dct:identifier  ;
     dcat:endpointURL <https://datarepositorium.uminho.pt/> ;
@@ -1298,7 +1298,7 @@ trsp:repo.346AA2D576 a trsp:Repository ;
 
 trsp:repo.4E16B3E617 a trsp:Repository ;
     dct:title "Center for Socio-Political Data (CDSP)"@en ;
-    dct:description {{}}@en ;
+    dct:description "French national centre for socio-political research data hosted at Sciences Po. Archives, curates and provides access to surveys, election studies, political science datasets and humanities data. Manages the data.sciencespo Dataverse instance encompassing both CDSP and self-deposit collections."@en ;
     dcat:landingPage <https://data.sciencespo.fr/dataverse/cdsp> ;
     dct:identifier  ;
     dcat:endpointURL <https://data.sciencespo.fr/dataverse/cdsp> ;
@@ -1332,7 +1332,7 @@ trsp:repo.4E16B3E617 a trsp:Repository ;
 
 trsp:repo.00BA218182 a trsp:Repository ;
     dct:title "ARCHE - A Resource Centre for the HumanitiEs"@en ;
-    dct:description {{}}@en ;
+    dct:description "Austrian national repository for digital humanities research data and cultural heritage resources. Provides long-term archiving and open access to linguistic corpora, historical data, cultural heritage datasets and humanities research outputs. Austrian node of CLARIN ERIC and DARIAH-EU."@en ;
     dcat:landingPage <https://arche.acdh.oeaw.ac.at/browser/> ;
     dct:identifier  ;
     dcat:endpointURL <https://arche.acdh.oeaw.ac.at/browser/> ;
@@ -1366,7 +1366,7 @@ trsp:repo.00BA218182 a trsp:Repository ;
 
 trsp:repo.00E8A65B68 a trsp:Repository ;
     dct:title "SOCIB Data Repository"@en ;
-    dct:description {{}}@en ;
+    dct:description "Repository for oceanographic, coastal and metocean observation data from the Balearic Sea and western Mediterranean. Provides open access to glider data, sea level observations, wave data, SST and other marine environmental datasets. Integrates with EMODnet and Copernicus Marine Service."@en ;
     dcat:landingPage <https://www.socib.es/en/what-we-do/metocean-data/socib-data-repository> ;
     dct:identifier  ;
     dcat:endpointURL <https://www.socib.es/en/what-we-do/metocean-data/socib-data-repository> ;
@@ -1400,7 +1400,7 @@ trsp:repo.00E8A65B68 a trsp:Repository ;
 
 trsp:repo.31C7106603 a trsp:Repository ;
     dct:title "Croatian Social Science Data Archive"@en ;
-    dct:description {{}}@en ;
+    dct:description "National Croatian data archive for social sciences. Collects, preserves and provides access to quantitative and qualitative social science datasets from Croatian research. Supports secondary analysis and promotes data sharing in Croatian social science."@en ;
     dcat:landingPage <https://data.crossda.hr> ;
     dct:identifier  ;
     dcat:endpointURL <https://data.crossda.hr> ;
@@ -1434,7 +1434,7 @@ trsp:repo.31C7106603 a trsp:Repository ;
 
 trsp:repo.00B1563729 a trsp:Repository ;
     dct:title "INFRA-ART Spectral Library"@en ;
-    dct:description {{}}@en ;
+    dct:description "Spectral reference library of infrared and near-infrared spectroscopy data for art and cultural heritage materials. Provides open access to reference spectra enabling non-invasive identification of pigments, binders, varnishes and other heritage materials for conservation science."@en ;
     dcat:landingPage <https://infraart.inoe.ro/> ;
     dct:identifier  ;
     dcat:endpointURL <https://infraart.inoe.ro/> ;
@@ -1468,7 +1468,7 @@ trsp:repo.00B1563729 a trsp:Repository ;
 
 trsp:repo.1B6B7677B4 a trsp:Repository ;
     dct:title "UK Data Service"@en ;
-    dct:description {{}}@en ;
+    dct:description "UK's largest national data service for social, economic and population data. Provides research access to government-sponsored surveys, longitudinal studies, census data, international comparative datasets and qualitative data. Serves researchers, students, teachers, government, charities and business."@en ;
     dcat:landingPage <https://ukdataservice.ac.uk> ;
     dct:identifier  ;
     dcat:endpointURL <https://ukdataservice.ac.uk> ;
@@ -1502,7 +1502,7 @@ trsp:repo.1B6B7677B4 a trsp:Repository ;
 
 trsp:repo.003C4F4661 a trsp:Repository ;
     dct:title "PIST"@en ;
-    dct:description {{}}@en ;
+    dct:description "Tunisian Scientific and Technical Information Portal (Portail de l'Information Scientifique et Technique). National digital library aggregating Tunisian academic and scientific output including theses, articles, conference proceedings and Tunisian scientific journals. Managed by CNUDST under international bibliographic standards."@en ;
     dcat:landingPage <http://www.pist.tn/> ;
     dct:identifier  ;
     dcat:endpointURL <http://www.pist.tn/> ;
@@ -1536,7 +1536,7 @@ trsp:repo.003C4F4661 a trsp:Repository ;
 
 trsp:repo.0CBE4E6DFC a trsp:Repository ;
     dct:title "DataverseLV"@en ;
-    dct:description {{}}@en ;
+    dct:description "Research data repository for Latvian research institutions. Provides data archiving, sharing and DOI assignment for multidisciplinary research data. Supports Latvian open science policy and funder data sharing requirements."@en ;
     dcat:landingPage <https://dv.dataverse.lv/> ;
     dct:identifier  ;
     dcat:endpointURL <https://dv.dataverse.lv/> ;
@@ -1570,7 +1570,7 @@ trsp:repo.0CBE4E6DFC a trsp:Repository ;
 
 trsp:repo.5C32EF8367 a trsp:Repository ;
     dct:title "CLARIN ERIC"@en ;
-    dct:description {{}}@en ;
+    dct:description "Pan-European distributed research infrastructure providing unified access to language data, NLP tools, and expertise for humanities and social sciences researchers. Operates the Virtual Language Observatory (VLO) metadata catalogue, Federated Content Search, Language Resource Switchboard and other central services. National CLARIN centres hold the actual data."@en ;
     dcat:landingPage <https://www.clarin.eu> ;
     dct:identifier  ;
     dcat:endpointURL <https://www.clarin.eu> ;
@@ -1604,7 +1604,7 @@ trsp:repo.5C32EF8367 a trsp:Repository ;
 
 trsp:repo.0048D487E7 a trsp:Repository ;
     dct:title "Sikt Research Data Archive"@en ;
-    dct:description {{}}@en ;
+    dct:description "Norwegian national archive for social science and humanities research data. Acquires, curates and disseminates social science datasets for secondary analysis. Also responsible for data protection officer function for Norwegian research institutions and CESSDA Service Provider for Norway."@en ;
     dcat:landingPage <https://sikt.no/en/archiving-research-data> ;
     dct:identifier  ;
     dcat:endpointURL <https://sikt.no/en/archiving-research-data> ;
@@ -1638,7 +1638,7 @@ trsp:repo.0048D487E7 a trsp:Repository ;
 
 trsp:repo.79BBDA6F70 a trsp:Repository ;
     dct:title "World Data Center for Climate (WDCC)"@en ;
-    dct:description {{}}@en ;
+    dct:description "Repository for Earth system model output and climate research data products. Provides long-term archiving, publication and dissemination of climate model data, observational datasets and reanalysis products in compliance with FAIR principles. Operated by DKRZ as part of German climate research infrastructure."@en ;
     dcat:landingPage <https://www.wdc-climate.de/> ;
     dct:identifier  ;
     dcat:endpointURL <https://www.wdc-climate.de/> ;
@@ -1672,7 +1672,7 @@ trsp:repo.79BBDA6F70 a trsp:Repository ;
 
 trsp:repo.004F9BAF7C a trsp:Repository ;
     dct:title "MorpheusML Model Repository"@en ;
-    dct:description {{}}@en ;
+    dct:description "Public repository for sharing and citing computational biology models created with the Morpheus multicellular simulation environment. Models are assigned persistent identifiers via identifiers.org and linked to publications for citation and reproducibility."@en ;
     dcat:landingPage <https://morpheus.gitlab.io/model/> ;
     dct:identifier  ;
     dcat:endpointURL <https://morpheus.gitlab.io/model/> ;
@@ -1706,7 +1706,7 @@ trsp:repo.004F9BAF7C a trsp:Repository ;
 
 trsp:repo.007276AA14 a trsp:Repository ;
     dct:title "RIVEC"@en ;
-    dct:description {{}}@en ;
+    dct:description "Institutional digital repository of the Institute for Viticulture and Enology (Institut Palanka, Negotin). Provides open access to scientific publications, research outputs and documentation in viticulture, enology and related agricultural sciences."@en ;
     dcat:landingPage <https://rivec.institut-palanka.rs/> ;
     dct:identifier  ;
     dcat:endpointURL <https://rivec.institut-palanka.rs/> ;
@@ -1740,7 +1740,7 @@ trsp:repo.007276AA14 a trsp:Repository ;
 
 trsp:repo.5F8F8C0526 a trsp:Repository ;
     dct:title "GUDe - Goethe University Data Repository"@en ;
-    dct:description {{}}@en ;
+    dct:description "Institutional research data repository of Goethe University Frankfurt providing open access to multidisciplinary research data from all university disciplines. Supports FAIR principles, DFG open data requirements and German NFDI integration."@en ;
     dcat:landingPage <https://www.gude.uni-frankfurt.de> ;
     dct:identifier  ;
     dcat:endpointURL <https://www.gude.uni-frankfurt.de> ;
@@ -1774,7 +1774,7 @@ trsp:repo.5F8F8C0526 a trsp:Repository ;
 
 trsp:repo.610A896E75 a trsp:Repository ;
     dct:title "RADaR - Digital Repository of Archived Publications - Institute for Biological Research \"Sinisa Stankovic\""@en ;
-    dct:description {{}}@en ;
+    dct:description "Institutional open-access digital repository of the Institute for Biological Research 'Siniša Stanković'. Provides access to scientific publications, research articles and research outputs from IBISS staff across all biological sciences."@en ;
     dcat:landingPage <https://radar.ibiss.bg.ac.rs/> ;
     dct:identifier  ;
     dcat:endpointURL <https://radar.ibiss.bg.ac.rs/> ;
@@ -1808,7 +1808,7 @@ trsp:repo.610A896E75 a trsp:Repository ;
 
 trsp:repo.67FF569AA0 a trsp:Repository ;
     dct:title "CeR - Central repository ICTM"@en ;
-    dct:description {{}}@en ;
+    dct:description "Institutional open-access digital repository of the Institute of Chemistry, Technology and Metallurgy (IHTM), University of Belgrade. Provides access to scientific publications, research outputs and other scholarly materials from IHTM staff."@en ;
     dcat:landingPage <https://cer.ihtm.bg.ac.rs/> ;
     dct:identifier  ;
     dcat:endpointURL <https://cer.ihtm.bg.ac.rs/> ;
@@ -1842,7 +1842,7 @@ trsp:repo.67FF569AA0 a trsp:Repository ;
 
 trsp:repo.1DF058A6F6 a trsp:Repository ;
     dct:title "Fairdata Services"@en ;
-    dct:description {{}}@en ;
+    dct:description "Finnish national research data services ecosystem supporting FAIR data management. Components include IDA (storage and preservation), Qvain (metadata description tool) and Etsin (research data finder/catalogue). Provides national infrastructure for open and fair research data across all disciplines."@en ;
     dcat:landingPage <https://www.fairdata.fi> ;
     dct:identifier  ;
     dcat:endpointURL <https://www.fairdata.fi> ;
@@ -1876,7 +1876,7 @@ trsp:repo.1DF058A6F6 a trsp:Repository ;
 
 trsp:repo.003C955045 a trsp:Repository ;
     dct:title "The Language Bank of Finland"@en ;
-    dct:description {{}}@en ;
+    dct:description "Finnish national infrastructure for language research providing access to text and speech corpora, lexical resources and language technology tools. Serves linguists and language technology researchers in Finland and internationally. Finnish node of CLARIN ERIC."@en ;
     dcat:landingPage <https://www.kielipankki.fi/language-bank/> ;
     dct:identifier  ;
     dcat:endpointURL <https://www.kielipankki.fi/language-bank/> ;
@@ -1910,7 +1910,7 @@ trsp:repo.003C955045 a trsp:Repository ;
 
 trsp:repo.29A21B39F5 a trsp:Repository ;
     dct:title "DTU Data"@en ;
-    dct:description {{}}@en ;
+    dct:description "Institutional open-access research data repository of DTU. Provides DOI-linked data publication and long-term archiving for research data across all DTU disciplines. Supports FAIR principles and Danish and European open data policies."@en ;
     dcat:landingPage <https://data.dtu.dk/> ;
     dct:identifier  ;
     dcat:endpointURL <https://data.dtu.dk/> ;
@@ -1944,7 +1944,7 @@ trsp:repo.29A21B39F5 a trsp:Repository ;
 
 trsp:repo.54A6CD95F4 a trsp:Repository ;
     dct:title "Oxford Brookes"@en ;
-    dct:description {{}}@en ;
+    dct:description "Institutional research data repository of Oxford Brookes University (Research Archive and Digital Asset Repository – RADAR). Supports data sharing and open access compliance for Oxford Brookes researchers across all faculties."@en ;
     dcat:landingPage <https://radar.brookes.ac.uk/> ;
     dct:identifier  ;
     dcat:endpointURL <https://radar.brookes.ac.uk/> ;
@@ -1978,7 +1978,7 @@ trsp:repo.54A6CD95F4 a trsp:Repository ;
 
 trsp:repo.7996C467D4 a trsp:Repository ;
     dct:title "ORTOLANG"@en ;
-    dct:description {{}}@en ;
+    dct:description "French national infrastructure for language and speech resources (CLARIN French B-Centre). Archives and provides open access to language corpora, lexicons, NLP tools and terminological resources for French language research and language technology development."@en ;
     dcat:landingPage <https://www.ortolang.fr> ;
     dct:identifier  ;
     dcat:endpointURL <https://www.ortolang.fr> ;
@@ -2012,7 +2012,7 @@ trsp:repo.7996C467D4 a trsp:Repository ;
 
 trsp:repo.00967B7916 a trsp:Repository ;
     dct:title "Data Repository Platform (ARP)"@en ;
-    dct:description {{}}@en ;
+    dct:description "Hungarian national research data repository providing archiving, DOI assignment and open access to research data from Hungarian institutions across all disciplines. Developed as part of the DART project (Developing Appropriate Research data management Techniques for Hungarian research)."@en ;
     dcat:landingPage <https://repo.researchdata.hu/> ;
     dct:identifier  ;
     dcat:endpointURL <https://repo.researchdata.hu/> ;
@@ -2046,7 +2046,7 @@ trsp:repo.00967B7916 a trsp:Repository ;
 
 trsp:repo.004A879024 a trsp:Repository ;
     dct:title "e-cienciaDatos"@en ;
-    dct:description {{}}@en ;
+    dct:description "Multidisciplinary research data repository for universities in the Consorcio Madroño (Community of Madrid). Provides open access data archiving, DOI assignment and FAIR data compliance for researchers across Madroño member universities."@en ;
     dcat:landingPage <https://edatos.consorciomadrono.es> ;
     dct:identifier  ;
     dcat:endpointURL <https://edatos.consorciomadrono.es> ;
@@ -2080,7 +2080,7 @@ trsp:repo.004A879024 a trsp:Repository ;
 
 trsp:repo.046B279494 a trsp:Repository ;
     dct:title "Coscine"@en ;
-    dct:description {{}}@en ;
+    dct:description "Research data management platform and repository for institutions in NRW and beyond. Supports the full RDM lifecycle including structured data storage, metadata annotation with domain-specific schemas, project collaboration, data sharing and archiving. Integrates with NFDI consortia."@en ;
     dcat:landingPage <https://about.coscine.de/en/> ;
     dct:identifier  ;
     dcat:endpointURL <https://about.coscine.de/en/> ;
@@ -2114,7 +2114,7 @@ trsp:repo.046B279494 a trsp:Repository ;
 
 trsp:repo.7B721A758B a trsp:Repository ;
     dct:title "Centre de Donnees astronomiques de Strasbourg/Strasbourg astronomical Data Center (CDS)"@en ;
-    dct:description {{}}@en ;
+    dct:description "International astronomical data centre hosting VizieR (>22,000 catalogues) and SIMBAD (astronomical object database). Provides long-term archiving, publishing and dissemination of astronomical data and associated bibliographic information. One of the world's oldest and most comprehensive astronomical data centres."@en ;
     dcat:landingPage <https://cds.unistra.fr/> ;
     dct:identifier  ;
     dcat:endpointURL <https://cds.unistra.fr/> ;
@@ -2148,7 +2148,7 @@ trsp:repo.7B721A758B a trsp:Repository ;
 
 trsp:repo.00318846F4 a trsp:Repository ;
     dct:title "FiVeR"@en ;
-    dct:description {{}}@en ;
+    dct:description "Institutional open-access digital repository of the Institute of Field and Vegetable Crops. Provides access to publications and research outputs from IFVCNS projects including articles, conference papers, patents, theses and books. Compatible with international infrastructure via OAI-PMH harvesting."@en ;
     dcat:landingPage <https://fiver.ifvcns.rs/> ;
     dct:identifier  ;
     dcat:endpointURL <https://fiver.ifvcns.rs/> ;
@@ -2182,7 +2182,7 @@ trsp:repo.00318846F4 a trsp:Repository ;
 
 trsp:repo.226704C31B a trsp:Repository ;
     dct:title "glittr.org"@en ;
-    dct:description {{}}@en ;
+    dct:description "Registry and catalogue of open training materials for bioinformatics and life sciences. Aggregates and makes findable training resources (tutorials, courses, notebooks) that support FAIR bioinformatics education. Not a primary data repository but a catalogue/registry of external training resources."@en ;
     dcat:landingPage <https://glittr.org/> ;
     dct:identifier  ;
     dcat:endpointURL <https://glittr.org/> ;
@@ -2216,7 +2216,7 @@ trsp:repo.226704C31B a trsp:Repository ;
 
 trsp:repo.3E1A5A4B73 a trsp:Repository ;
     dct:title "KU Leuven RDR"@en ;
-    dct:description {{}}@en ;
+    dct:description "Institutional research data repository of KU Leuven providing open access to multidisciplinary research data from all KU Leuven faculties and research groups. Supports KU Leuven open science policy and funder data sharing mandates."@en ;
     dcat:landingPage <https://rdr.kuleuven.be/> ;
     dct:identifier  ;
     dcat:endpointURL <https://rdr.kuleuven.be/> ;
@@ -2250,7 +2250,7 @@ trsp:repo.3E1A5A4B73 a trsp:Repository ;
 
 trsp:repo.005B248EEE a trsp:Repository ;
     dct:title "DAIS - Digital Archive of the Serbian Academy of Sciences and Arts"@en ;
-    dct:description {{}}@en ;
+    dct:description "Institutional digital repository of the Serbian Academy of Sciences and Arts. Preserves and provides open access to the scientific and scholarly publications, books, journals, proceedings and research outputs produced by SANU members and affiliated institutes."@en ;
     dcat:landingPage <https://dais.sanu.ac.rs/> ;
     dct:identifier  ;
     dcat:endpointURL <https://dais.sanu.ac.rs/> ;
@@ -2284,7 +2284,7 @@ trsp:repo.005B248EEE a trsp:Repository ;
 
 trsp:repo.6668C83282 a trsp:Repository ;
     dct:title "Slovenian Social Science Data Archives"@en ;
-    dct:description {{}}@en ;
+    dct:description "National Slovenian archive for social science data (ADP – Arhiv družboslovnih podatkov). Acquires, preserves and disseminates quantitative and qualitative social science datasets for secondary analysis, research and teaching."@en ;
     dcat:landingPage <https://www.adp.fdv.uni-lj.si> ;
     dct:identifier  ;
     dcat:endpointURL <https://www.adp.fdv.uni-lj.si> ;
@@ -2318,7 +2318,7 @@ trsp:repo.6668C83282 a trsp:Repository ;
 
 trsp:repo.003E022560 a trsp:Repository ;
     dct:title "myLaminin"@en ;
-    dct:description {{}}@en ;
+    dct:description "Commercial research data management and archiving platform using blockchain and Web3 technology. Supports secure sensitive data archiving, multi-jurisdictional team collaboration, agreement management and regulatory compliance (HIPAA, PIPEDA, 21 CFR Part 11). SOC2 Type II certified."@en ;
     dcat:landingPage <https://www.myLaminin.net> ;
     dct:identifier  ;
     dcat:endpointURL <https://www.myLaminin.net> ;
