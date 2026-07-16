@@ -7,9 +7,9 @@
 trsp:repo.{{}} a trsp:Repository ;
     dct:title {{}}@en ;
     dct:description {{}}@en ;
-    dcat:landingPage {{}}^^xsd:anyURL ;
+    dcat:landingPage {{}} ;
     dct:identifier {{}} ;
-    dcat:endpointURL {{}}^^xsd:anyURL ;
+    dcat:endpointURL {{}} ;
     trsp:hasProfileType {{}} ;
     trsp:att.48BF7E1522	{{}} ;
     trsp:att.4570870110	{{}} ;
@@ -36,5 +36,5 @@ trsp:repo.{{}} a trsp:Repository ;
     trsp:att.768DAFA0DB {{}} ;
     trsp:att.521A4A9E17 {{}} ;
     trsp:att.1D00720769 {{}} ;
-    schema:Comment {{}}
+    schema:Comment {{}} ;
 .
