@@ -7,7 +7,7 @@
 @prefix dcat:   <http://www.w3.org/ns/dcat#> .
 
 
-trsp:profile.trsp:profile.004A879024 a trsp:Profile ;
+trsp:profile.004A879024 a trsp:Profile ;
     dct:title "e-cienciaDatos" @en ;
     dct:description "Multidisciplinary research data repository for universities in the Consorcio Madroño (Community of Madrid). Provides open access data archiving, DOI assignment and FAIR data compliance for researchers across Madroño member universities." @en ;
     dct:identifier https://edatos.consorciomadrono.es  ;
