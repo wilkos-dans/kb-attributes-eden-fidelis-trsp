@@ -16,7 +16,7 @@ trsp:checklistRegistry
   owl:versionInfo "0.1" .
 
 #--------------------------------------------------------------------------------------------------------------------------
-# This section contains high-level classes that typify services or reosurces applicable to identifiers
+# This section contains high-level concepts that typify services or reosurces applicable to identifiers
 #--------------------------------------------------------------------------------------------------------------------------
 
 trsp:institution-registry
@@ -24,8 +24,13 @@ trsp:institution-registry
   skos:prefLabel "Institution and Organisation Registries"@en ;
   skos:inScheme trsp:checklistRegistry .
 
+trsp:policy-registry
+  a skos:Concept ;
+  skos:prefLabel "Policy and Licence Registries"@en ;
+  skos:inScheme trsp:checklistRegistry .
+
 #--------------------------------------------------------------------------------------------------------------------------
-# This section contains next-level classes that identify individual resources, but can also point to a query in e.g. 
+# This section contains next-level concepts that identify individual resources, but can also point to a query in e.g. 
 # the EDEN service registry
 #--------------------------------------------------------------------------------------------------------------------------
 
@@ -45,6 +50,20 @@ trsp:institution-registry-crf
   dcat:type schema:FundingAgency ;
   dcat:endpointURL <https://api.crossref.org/funders> ;
   skos:broader trsp:institution-registry;
+  skos:inScheme trsp:checklistRegistry .
+
+trsp:policy-registry-spdx
+  a skos:Concept ;
+  skos:prefLabel "SPDX Licence Registry"@en ;
+  dcat:endpointURL <https://spdx.org/licenses/> ;
+  skos:broader trsp:policy-registry;
+  skos:inScheme trsp:checklistRegistry .
+
+trsp:policy-registry-lfs
+  a skos:Concept ;
+  skos:prefLabel "EDEN Licence Facade Registry Service"@en ;
+  dcat:endpointURL <https://lfs.labs.dansdemo.nl/docs#/> ;
+  skos:broader trsp:policy-registry;
   skos:inScheme trsp:checklistRegistry .
 
 
