@@ -23,6 +23,7 @@ trsp:legislation-type-scheme a skos:ConceptScheme ;
   dct:source "https://github.com/wimhugo/kb-attributes-eden-fidelis-trsp/commit/012798a9adca56feceefe68ea5644e18ee3c3c0b" ;
   skos:prefLabel "TRSP Legislation Type Vocabulary"@en;
   owl:versionInfo "0.2"@en;
+  skos:note "This checklist is specific to the European Union, and SHOULD be extended for national context in the EU, and MUST replaced for other jurisdictions."@en ;
   foaf:homepage  <https://github.com/wimhugo/kb-attributes-eden-fidelis-trsp/> .
 
 trsp:legislation-type-gdpr
