@@ -14,7 +14,7 @@ trsp:profile-test-type-scheme a skos:ConceptScheme ;
   dct:modified "2026-04-30"^^xsd:datetime;
   prov:wasAssociatedWith  
      [ a prov:SoftwareAgent;
-         prov:label "TRSP B Curation Platform" .
+         prov:label "TRSP KB Curation Platform" .
      ] ;
   dct:rights <https://spdx.org/licenses/CC0-1.0>;
   dct:title "Compensation Rule"@en;
