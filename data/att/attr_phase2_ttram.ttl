@@ -15,6 +15,7 @@
 
 
 trsp:trsp-ttram-profile a skos:ConceptScheme ;
+  trsp:isConceptSchemeOf trsp:profile.668467EC38 ;
   dct:created "2026-04-29T00:00:00+00:00"^^xsd:datetime;
   dct:creator <https://orcid.org/0000-0002-0255-5101> ; # Wim Hugo
   dct:contributor <https://orcid.org/0000-0003-1106-8441> ; # Wilko Steinhoff
