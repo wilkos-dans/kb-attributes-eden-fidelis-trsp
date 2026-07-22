@@ -50,12 +50,29 @@ openrel:mainNodesGraph {
 }
 
 # ==================================================================================================================
-# SECTION 3: SUPPORT NODE SECTIONS
+# SECTION 3: MAIN NODES (Service Nodes)
+# Primary entities being curated. Each main node references
+# support nodes by IRI (contacts, institutions, services, checklists, etc.).
+# Populated from TTL source files containing repository, person, institution, checklists, etc. properties.
+# ==================================================================================================================
+openrel:mainNodesGraph {
+    # --- Service nodes are inserted here ---
+    # Example:
+    # openrel:service-001 a dcat:Service ;
+    #     dct:title "Example Service" ;
+    #     dct:description "A repository service." ;
+    #     trsp:serviceType skos:Concept - must come from .configs/vocabs/eosc/service-type.ttl
+    #     openrel:hasContact openrel:person-001 ;
+    #     openrel:hasInstitution openrel:org-001 .
+}
+
+# ==================================================================================================================
+# SECTION 4: SUPPORT NODE SECTIONS
 # Reusable complex objects referenced by main nodes.
 # Populated from dedicated TTL files — one file per support type.
 # ==================================================================================================================
 
-# --- 3a: Contact Persons (vcard objects) ---
+# --- 4a: Contact Persons (vcard objects) ---
 openrel:supportContactsGraph {
     # --- Contact person nodes are inserted here ---
     # Example:
@@ -65,7 +82,7 @@ openrel:supportContactsGraph {
     #     vcard:hasTelephone <tel:+3100000000> .
 }
 
-# --- 3b: Institutions (foaf objects, reused across repositories) ---
+# --- 4b: Institutions (foaf objects, reused across repositories) ---
 openrel:InstitutionsGraph {
     # --- Institution nodes are inserted here ---
     # Example:
@@ -77,7 +94,7 @@ openrel:InstitutionsGraph {
     .
 }
 
-# --- 3c: Checklists (openrel checklist objects) ---
+# --- 4c: Checklists (openrel checklist objects) ---
 openrel:checklistGraph {
     # --- Checklist nodes are inserted here ---
     # Example:
